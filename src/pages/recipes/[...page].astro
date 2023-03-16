@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Recipe from '../../components/Recipe.astro';
+import PaginationNav from '../../components/PaginationNav.astro';
+import '../../styles/global.css';
+
+export async function getStaticPaths({ paginate }) {
+	const allRecipes = await Astro.glob('./*.md');
+  	// Generate pages from our array of astronauts, with 2 to a page
+  	return paginate(allRecipes, { pageSize: 18 });
+}
+// All paginated data is passed on the "page" prop
+const { page } = Astro.props;
+---
+<BaseLayout pageTitle="All Recipes">
+	<PaginationNav page={page} entry_type={"Recipes"} />
+		<div class="grid grid-cols-3">
+			{page.data.map((recipe) => <Recipe title={recipe.frontmatter.title} img_url={recipe.frontmatter.image_url} tags={recipe.frontmatter.tags} url={recipe.url} />)}
+		</div>
+	<PaginationNav page={page} entry_type={"Recipes"} />
+</BaseLayout>

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Sausage-Stuffed Peppers with Spicy Red Pepper Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Can stuffed peppers really be exciting? Yes, they can!"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_StuffedPeppersSpicyRedPepperSauce-10_ikzzon
+tags: ["Main Courses","Pork","Make Ahead"]
+calories: 3223
+protein: 26
+carbohydrates: 45
+fats: 
+fiber: 3
+ingredients: ["5 , large red bell peppers","2 , garlic cloves, lightly crushed and peeled","5 tablespoons, extra-virgin olive oil, divided","1 teaspoon plus ⅛ teaspoon, table salt, divided","1/2 teaspoon, pepper","1 pound, sweet Italian sausage, casings removed","1 , onion, chopped","1 cup, long-grain white rice","2 teaspoons, Tony Chachere's Original Creole Seasoning","2 cups, chicken broth","4 ounces, Monterey Jack cheese, shredded (1 cup)","1/2 cup, panko bread crumbs","1/4 cup, grated Parmesan cheese","2 teaspoons finely chopped, jarred hot cherry peppers, plus 2 tablespoons brine"]
+serves: 6
+time: "2¼ hours"
+instructions: ["Adjust oven rack 6 inches from broiler element and heat broiler. Line rimmed baking sheet with aluminum foil. Using paring knife or scissors, halve bell peppers lengthwise through stem. Using paring knife, remove seed pod at base of stem, leaving stem intact.","Toss bell peppers and garlic with 2 tablespoons oil on prepared sheet, then sprinkle with 1 teaspoon salt and pepper. Arrange bell peppers cut side down. Broil until bell peppers and garlic are spotty brown, 4 to 7 minutes. Set aside and let cool.","Meanwhile, heat oven to 400 degrees. Cook sausage and onion in 12-inch nonstick skillet over medium-high heat, breaking up meat with wooden spoon, until sausage is cooked through and onion is softened and beginning to brown, 8 to 10 minutes.","Add rice and Creole seasoning and cook until fragrant, about 1 minute. Stir in broth and bring to boil. Cover, reduce heat to low, and cook for 20 minutes. Off heat, stir in Monterey Jack until melted and combined. Set aside and let cool for 10 minutes.","Meanwhile, combine panko, Parmesan, and 1 tablespoon oil in bowl. Discard stems from 2 bell pepper halves; chop stemmed halves coarse (you should have 1 cup chopped bell pepper; reserve excess for another use). Process chopped bell pepper, 2 tablespoons panko mixture, cherry peppers and brine, garlic, remaining 2 tablespoons oil, and remaining ⅛ teaspoon salt in blender until smooth, about 1 minute. Set aside sauce.","Arrange remaining bell pepper halves cut side up on baking sheet and divide sausage and rice mixture evenly among halves, packing in mixture and mounding it slightly. Sprinkle remaining panko mixture over top, pressing lightly to adhere. Bake until bell peppers are heated through and panko mixture is well browned, about 25 minutes. Let cool for 15 minutes. Serve with sauce.","TO MAKE AHEAD: After filling bell peppers in step 6, do not sprinkle panko mixture on top. Let bell peppers cool, transfer them to large plate, and wrap them in plastic wrap. Transfer sauce and panko mixture to separate airtight containers. Refrigerate all ingredients for up to 24 hours. To serve, extend baking time by about 10 minutes and cover with foil for final 10 minutes of baking if tops begin to get too dark."]
+nutrition: ["620 mg Potassium","320 mg Phosphorus","294 mg Calcium","2 mg Iron","52 mg Magnesium","923 mg Sodium","2 mg Zinc","27 g Fat","4 mg Niacin (B3)","13 g Monounsaturated","2 g Polyunsaturated","181 mg Vitamin C","48 mg Cholesterol","9 g Saturated","3 g Fiber","82 µg Folate (food)","8 g Sugars","19 µg Vitamin K","293 g Water","45 g Carbs","82 µg Folate equivalent (total)","26 g Protein","3 mg Vitamin E","1 µg Vitamin B12","279 µg Vitamin A","537 kcal Energy","3223 calories"]
+notes: "Look for large bell peppers that weigh at least 8 ounces each."
+---

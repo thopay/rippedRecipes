@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Crab Croquettes
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Crab croquettes are a bayou favorite. Time to bring them home."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_CrabCroquettesRemoulade_22_vb8gsh
+tags: ["Appetizers","Fish & Seafood"]
+calories: 4395
+protein: 15
+carbohydrates: 35
+fats: 58
+fiber: 1
+ingredients: ["4 tablespoons, unsalted butter","1/2 cup, finely chopped onion","1/2 cup finely chopped, green bell pepper","3 , garlic cloves, minced","1 1/4 teaspoons, table salt","1 cup, all-purpose flour, divided","1 1/2 cups, whole milk","8 ounces, lump crabmeat, picked over for shells","3 , scallions, sliced thin","1 teaspoon, Tabasco sauce","1 teaspoon, Tony Chachere’s Original Creole Seasoning, plus extra for sprinkling","1/2 teaspoon, pepper","2 cups, panko bread crumbs","2 , large eggs","1 1/2 quarts, vegetable oil for frying","1/2 cup, mayonnaise","2 teaspoons, Tabasco sauce","1/2 teaspoon, Worcestershire sauce"]
+serves: 6
+time: "1½ hours, plus 3 hours chilling"
+instructions: ["FOR THE CROQUETTES: Melt butter in large saucepan over medium heat. Add onion, bell pepper, garlic, and salt and cook until vegetables are softened, about 5 minutes.","Stir in ½ cup flour until no dry flour remains; cook for 1 minute, stirring often. Slowly whisk in milk; continue to whisk 1 minute longer to ensure no lumps of flour remain. Cook until bubbles begin to break surface and mixture is thickened to consistency of paste, 1 to 2 minutes.","Off heat, stir in crab, scallions, Tabasco, Creole seasoning, and pepper until well combined. Transfer to 8-inch square baking dish and refrigerate, uncovered, until fully chilled and firm, about 3 hours (or cover with plastic wrap once cooled completely and refrigerate overnight).","FOR THE DIPPING SAUCE: Whisk mayonnaise, Tabasco, and Worcestershire together in bowl; refrigerate until ready to serve.","Place remaining ½ cup flour in shallow dish, beat eggs together in second shallow dish, and place panko in third shallow dish. Divide croquette mixture into 18 heaping 2-tablespoon portions (about 1½ ounces each) and place on rimmed baking sheet. Roll portions between your hands to make balls, then shape into 2-inch-long ovals.","Working with few croquettes at a time, dredge lightly in flour, shaking off excess; roll in beaten egg, allowing excess to drip off; and coat with panko. Return to sheet. (Croquettes can be covered with plastic wrap and refrigerated for up to 3 hours.)","Line large plate with triple layer of paper towels. Heat oil in large Dutch oven over medium-high heat to 375 degrees. Place 9 croquettes in oil and fry until golden brown, about 2 minutes per side. Transfer to prepared plate. Return oil to 375 degrees and repeat with remaining 9 croquettes. Sprinkle lightly with extra Creole seasoning and serve with dipping sauce."]
+nutrition: ["295 mg Potassium, K","209 mg Phosphorus, P","170 mg Calcium, Ca","2 mg Iron, Fe","31 mg Magnesium, Mg","583 mg Sodium, Na","2 mg Zinc, Zn","58 g Total lipid (fat)","2 mg Niacin","29 g Fatty acids, total monounsaturated","15 g Fatty acids, total polyunsaturated","13 mg Vitamin C, total ascorbic acid","1 µg Vitamin D (D2 + D3)","132 mg Cholesterol","10 g Fatty acids, total saturated","1 g Fiber, total dietary","32 µg Folic acid","43 µg Folate, food","4 g Sugars, total","12 µg Vitamin K (phylloquinone)","131 g Water","35 g Carbohydrate, by difference","97 µg Folate, DFE","15 g Protein","8 mg Vitamin E (alpha-tocopherol)","1 µg Vitamin B-12","126 µg Vitamin A, RAE","732 kcal Energy","4395 calories"]
+notes: "If you can find and afford fresh crabmeat, the crab croquettes will be better. However, refrigerated canned crabmeat, often found at the supermarket fish counter, is the next best thing."
+---

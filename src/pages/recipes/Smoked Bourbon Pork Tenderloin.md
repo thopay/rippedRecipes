@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Smoked Bourbon Pork Tenderloin
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "A faster way to tender, juicy, smoke-kissed pork."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_GrillSmokedPorkTenderloin_050_ele4f8
+tags: ["Main Courses","Pork","Grilling & Barbecue"]
+calories: 1560
+protein: 31
+carbohydrates: 8
+fats: 5
+fiber: 
+ingredients: ["½ cup, bourbon","½ cup, soy sauce","3 tablespoons, packed brown sugar","3 , garlic cloves, smashed and peeled","1 teaspoon, pepper","½ teaspoon, red pepper flakes","2 (1-pound), pork tenderloins, trimmed","1 cup, wood chips"]
+serves: 6
+time: "1½ hours, plus 3 hours marinating"
+instructions: ["Combine bourbon, soy sauce, sugar, garlic, pepper, and pepper flakes in medium saucepan. Bring to boil over medium-high heat and boil for 1 minute. Remove from heat and let cool completely. Reserve ¼ cup bourbon mixture. (Bourbon mixture can be refrigerated for up to 3 days.)","Place pork in 1-gallon zipper-lock bag and add remaining bourbon mixture to bag. Seal bag; turn to distribute marinade; and refrigerate for at least 3 hours or up to 24 hours, flipping occasionally.","Just before grilling, soak wood chips in water for 15 minutes, then drain. Using large piece of heavy-duty aluminum foil, wrap soaked chips in 8 by 4-inch foil packet. (Make sure chips do not poke holes in sides or bottom of packet.) Cut 2 evenly spaced 2-inch slits in top of packet.","FOR A CHARCOAL GRILL: Open bottom vent completely. Light large chimney starter mounded with charcoal briquettes (7 quarts). When top coals are partially covered with ash, pour evenly over half of grill. Place wood chip packet on coals. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.","FOR A GAS GRILL: Remove cooking grate and place wood chip packet directly on primary burner. Set cooking grate in place; turn all burners to high; cover; and heat grill until hot, about 15 minutes. Leave primary burner on high and turn off other burner(s). (Adjust primary burner [or, if using 3-burner grill, primary burner and second burner] as needed to maintain grill temperature between 350 and 400 degrees.)","Clean and oil cooking grate. Place pork on cooler side of grill as far as possible from heat source, positioning tenderloins parallel with fire (if using charcoal) or burners (if using gas). Cover and cook until pork registers 135 degrees, 15 to 20 minutes, flipping and rotating halfway through cooking. (Re-cover grill after checking for doneness.)","Brush top and sides of pork with half of reserved bourbon mixture. Flip pork so bottom now faces up and transfer to hotter part of grill. Brush top of pork with remaining reserved bourbon mixture. Cook, uncovered, until pork is lightly charred and registers 140 degrees, 3 to 5 minutes, flipping tenderloins halfway through cooking.","Transfer pork to cutting board, tent with aluminum foil, and let rest for 10 minutes. Slice ½ inch thick. Serve."]
+nutrition: ["679 mg Potassium, K","388 mg Phosphorus, P","26 mg Calcium, Ca","1 mg Iron, Fe","56 mg Magnesium, Mg","1244 mg Sodium, Na","2 mg Zinc, Zn","5 g Total lipid (fat)","9 mg Niacin","1 g Fatty acids, total monounsaturated","1 mg Thiamin","93 mg Cholesterol","1 g Fatty acids, total saturated","3 µg Folate, food","6 g Sugars, total","135 g Water","8 g Carbohydrate, by difference","3 µg Folate, DFE","31 g Protein","1 mg Vitamin B-6","260 kcal Energy","6 g Sugars, added","1560 calories"]
+notes: "Use a bourbon youd be happy drinking. This pork is very flavorful after 3 hours of marinating, but if you have the time, we suggest marinating for longer. The longer it sits in the marinade, the more flavorful it will be."
+---

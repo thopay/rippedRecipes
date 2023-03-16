@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Fluffy Peppermint Swirl Marshmallows
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Fluffy, festive gifts for friends and family."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_SpikedHotChocolate_191_afepd5
+tags: ["Desserts or Baked Goods","Make Ahead","Candy","Holiday"]
+calories: 2586
+protein: 
+carbohydrates: 13
+fats: 
+fiber: 
+ingredients: ["1 cup, water, divided","2½ tablespoons, unflavored gelatin","2 , large egg whites","2 cups (14 ounces), granulated sugar","½ cup, light corn syrup","¼ teaspoon, table salt","1 tablespoon, vanilla extract","⅛ teaspoon, peppermint extract",", Red food coloring","⅔ cup (2⅔ ounces), confectioners' sugar","⅓ cup (1⅓ ounces), cornstarch"]
+serves: 48
+time: "1 hour, plus 4 hours setting"
+instructions: ["Make foil sling for 13 by 9-inch baking pan by folding 2 long sheets of aluminum foil; first sheet should be 13 inches wide and second sheet should be 9 inches wide. Lay sheets of foil in pan perpendicular to each other, with extra foil hanging over edges of pan. Push foil into corners and up sides of pan, smoothing foil flush to pan. Spray pan with vegetable oil spray.","Whisk ½ cup water and gelatin together in bowl and let sit until very firm, about 5 minutes. Add egg whites to bowl of stand mixer fitted with whisk attachment.","Combine granulated sugar, corn syrup, salt, and remaining ½ cup water in large saucepan. Bring to boil over medium-high heat and cook, gently swirling saucepan occasionally, until sugar has dissolved completely and mixture registers 240 degrees, 6 to 8 minutes. Off heat, immediately whisk in gelatin mixture until gelatin is dissolved.","Working quickly, whip whites on high speed until soft peaks form, 1 to 2 minutes. With mixer running, carefully pour hot syrup into whites, avoiding whisk and bowl as much as possible. Whip until mixture is very thick and stiff and bowl is only slightly warm to touch, about 10 minutes. Reduce speed to low and add vanilla and peppermint extract. Slowly increase speed to high and mix until incorporated, about 30 seconds, scraping down bowl as needed.","Transfer marshmallow mixture to prepared pan and spread into even layer using greased rubber spatula. Drop 12 drops food coloring over marshmallow mixture. Using clean, dry paring knife, swirl food coloring into marshmallow mixture. Let sit at room temperature until firm, at least 4 hours.","Lightly coat chef's knife with oil spray. Whisk confectioners’ sugar and cornstarch together in bowl. Lightly dust top of marshmallows with 2 tablespoons confectioners’ sugar mixture. Transfer remaining confectioners’ sugar mixture to 1-gallon zipper-lock bag. Place cutting board over pan of marshmallows and carefully invert pan and board. Remove pan and peel off foil.","Cut marshmallows crosswise into 8 strips, then cut each strip into 6 squares (marshmallows will be approximate 1½-inch squares). Separate marshmallows and add half to confectioners’ sugar mixture in bag. Seal bag and shake to coat marshmallows.","Using your hands, remove marshmallows from bag and transfer to colander. Shake colander to remove excess confectioners’ sugar mixture. Repeat with remaining marshmallows. Marshmallows can be stored in zipper-lock bag or airtight container at room temperature for up to 2 weeks."]
+nutrition: ["2 mg Potassium","1 mg Calcium","17 mg Sodium","12 g Sugars","7 g Water","13 g Carbs","53 kcal Energy","12 g Sugars, added","2586 calories"]
+notes: "Three ¼-ounce envelopes of gelatin will yield the 2½ tablespoons needed for this recipe. You will need a candy thermometer or another thermometer, such as an instant-read probe model, that registers high temperatures for this recipe. For a cleaner look, you can trim (and snack on) the edges of the marshmallows before cutting them into squares."
+---

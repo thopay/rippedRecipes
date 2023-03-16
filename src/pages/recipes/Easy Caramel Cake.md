@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Easy Caramel Cake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Caramel frosting is delicious-rich and toffee-flavored, this unique frosting starts out creamy but quickly firms up to a fudgelike consistency. It is also notoriously tricky. Our goal was an easier, foolproof caramel icing that would bring this cake back into every bakers repertoire."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/7151_sfs-caramelcake-0003-277292
+tags: ["Desserts or Baked Goods","Cakes"]
+calories: 8153
+protein: 8
+carbohydrates: 140
+fats: 48
+fiber: 1
+ingredients: ["1/2 cup, buttermilk, room temperature","4 large, eggs, room temperature","2 teaspoons, vanilla extract","2 1/4 cups (11¼ ounces), all-purpose flour","1 1/2 cups (10½ ounces), granulated sugar","1 1/2 teaspoons, baking powder","1/2 teaspoon, baking soda","3/4 teaspoon, salt","16 tablespoons (2 sticks), unsalted butter, cut into 16 pieces and softened","12 tablespoons (1 1/2 sticks), unsalted butter, cut into 12 pieces and softened","2 cups packed (14 ounces), dark brown sugar","1/2 teaspoon, salt","1/2 cup, heavy cream","1 teaspoon, vanilla extract","2 1/2 cups (10 ounces), confectioners' sugar, sifted"]
+serves: 8
+time: "1¾ hours, plus 2 hours cooling"
+instructions: ["For the cake layers: Adjust oven rack to middle position and heat oven to 350 degrees. Grease and flour two 9-inch cake pans. Whisk buttermilk, eggs, and vanilla in large measuring cup. With electric mixer on low speed, mix flour, granulated sugar, baking powder, baking soda, and salt until combined. Beat in butter, 1 piece at a time, until only pea-sized pieces remain. Pour in half of buttermilk mixture and beat over medium-high speed until light and fluffy, about 1 minute. Slowly add remaining buttermilk mixture to bowl and beat until incorporated, about 15 seconds.","Scrape equal amounts of batter into prepared pans and bake until golden and toothpick inserted in center comes out clean, 20 to 25 minutes. Cool cakes in pans 10 minutes, then turn out onto wire racks. Cool completely, at least 1 hour.","For the frosting: Heat 8 tablespoons butter, brown sugar, and salt in large saucepan over medium heat until small bubbles appear around perimeter of pan (see photo at left), 4 to 8 minutes. Whisk in cream and cook until ring of bubbles reappears, about 1 minute. Off heat, whisk in vanilla.","Transfer hot frosting mixture to bowl and, with electric mixer on low speed, gradually mix in confectioners’ sugar until incorporated. Increase speed to medium and beat until frosting is pale brown and just warm, about 5 minutes. Add remaining butter, 1 piece at a time, and beat until light and fluffy, about 2 minutes.","To assemble: Place 1 cake round on serving platter. Spread ¾ cup frosting over cake, then top with second cake round. Spread remaining frosting evenly over top and sides of cake. Serve."]
+nutrition: ["175 mg Potassium, K","214 mg Phosphorus, P","154 mg Calcium, Ca","2 mg Iron, Fe","19 mg Magnesium, Mg","596 mg Sodium, Na","48 g Total lipid (fat)","2 mg Niacin","13 g Fatty acids, total monounsaturated","2 g Fatty acids, total polyunsaturated","1 µg Vitamin D (D2 + D3)","220 mg Cholesterol","29 g Fatty acids, total saturated","1 g Fatty acids, total trans","1 g Fiber, total dietary","61 µg Folic acid","26 µg Folate, food","108 g Sugars, total","4 µg Vitamin K (phylloquinone)","56 g Water","140 g Carbohydrate, by difference","130 µg Folate, DFE","8 g Protein","1 mg Vitamin E (alpha-tocopherol)","443 µg Vitamin A, RAE","1019 kcal Energy","106 g Sugars, added","8153 calories"]
+notes: "In step 5, the cooled frosting stays soft and spreadable longer than other recipes, but it will harden over time. If the frosting does begin to stiffen, you can microwave it for about 10 seconds (or until it returns to a spreadable consistency)."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Pletzel
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We were latecomers to this old-school deli bread. But now that we’ve met, we’re in love."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/31054_sfs-pletzel-4
+tags: ["Main Courses","Breads","Cookbook Collection"]
+calories: 2426
+protein: 6
+carbohydrates: 46
+fats: 
+fiber: 2
+ingredients: ["3 cups (15 ounces), all-purpose flour","1 2/3 cups, water, room temperature",", Kosher salt","1 1/2 teaspoons, instant or rapid-rise yeast","1 1/4 teaspoons, sugar","5 tablespoons, olive oil","3 , onions, chopped fine","2 tablespoons, poppy seeds"]
+serves: 8
+time: "1 hour, plus 20 minutes resting and 2½ to 3 hours rising"
+instructions: ["Place towel or shelf liner beneath stand mixer to prevent wobbling and fit mixer with dough hook. Add flour, room-temperature water, and 2 1/2 teaspoons salt to bowl and mix on low speed until no patches of dry flour remain, about 4 minutes, occasionally scraping sides and bottom of bowl. Turn off mixer and let dough rest for 20 minutes.","Sprinkle yeast and sugar over dough. Knead on low speed until fully combined, about 2 minutes, occasionally scraping sides and bottom of bowl. Increase mixer speed to high and knead until dough is glossy, smooth, and pulls away from sides of bowl, 8 to 10 minutes. (Dough will only pull away from sides while mixer is on. When mixer is off, dough will fall back to sides.)","Using your fingers, coat large bowl and rubber spatula with 1 tablespoon oil. Using oiled spatula, transfer dough to bowl and pour 1 tablespoon oil over top. Flip dough over once so it is well coated with oil; cover bowl tightly with plastic wrap. Let dough rise at room temperature until nearly tripled in volume and large bubbles have formed, 2 to 2 1/2 hours.","Meanwhile, heat 1 tablespoon oil in 12-inch skillet over medium heat until shimmering. Add onions and 1 teaspoon salt and cook, stirring occasionally, until onions are golden brown, about 10 minutes. Remove from heat and stir in poppy seeds. Transfer to bowl; set aside. Adjust oven rack to lowest position and heat oven to 500 degrees.","Coat bottom and sides of rimmed baking sheet with 1 tablespoon oil. Using oiled rubber spatula, turn dough out onto prepared sheet along with any oil remaining in bowl.","Using your oiled fingertips, press dough out toward edges of sheet, taking care not to tear it. (Dough will not fit snugly into corners. If dough resists stretching, let it relax for 5 to 10 minutes before trying to stretch again.) Let dough rise, uncovered, at room temperature for 30 minutes. (Dough will increase but not quite double in volume.)","Using your oiled fingertips, press dough out toward edges of sheet once more. Using dinner fork, poke surface of dough 30 to 40 times. Brush top of dough with remaining 1 tablespoon oil and sprinkle with 1 1/2 teaspoons salt. Distribute onion–poppy seed mixture evenly over dough, leaving 1/2-inch border around edge.","Bake until golden brown, 18 to 23 minutes, rotating sheet halfway through baking. Using metal spatula, transfer pletzel to cutting board. Slice and serve."]
+nutrition: ["148 mg Potassium","94 mg Phosphorus","52 mg Calcium","2 mg Iron","24 mg Magnesium","375 mg Sodium","9 g Fat","3 mg Niacin (B3)","6 g Monounsaturated","1 g Polyunsaturated","3 mg Vitamin C","1 g Saturated","2 g Fiber","81 µg Folic acid","43 µg Folate (food)","2 g Sugars","5 µg Vitamin K","97 g Water","46 g Carbs","182 µg Folate equivalent (total)","6 g Protein","1 mg Vitamin E","303 kcal Energy","2426 calories"]
+notes: "We found that while kneading the dough in a stand mixer on high speed, the mixer tended to wobble. To prevent this, place a towel or shelf liner under the mixer and watch it during mixing. Handle the dough with your lightly oiled hands and resist flouring your fingers or the dough might stick. Plan ahead: The dough needs to rise for about 3 hours before baking."
+---

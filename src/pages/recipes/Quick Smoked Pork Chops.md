@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Quick Smoked Pork Chops
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Long-cooked barbecue is great, but we wanted that deep smoke flavor (and tender meat) in less than an hour."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/21504_sfs-quick-barbecued-pork-chops-11
+tags: ["Main Courses","Pork","Grilling & Barbecue"]
+calories: 3663
+protein: 27
+carbohydrates: 32
+fats: 
+fiber: 
+ingredients: ["3 tablespoons plus 2 teaspoons, sugar",", Salt and pepper","4 (12- to 14-ounce), bone-in pork rib or center-cut chops, 1 1/2 inches thick, trimmed","2 cups, wood chips","1 teaspoon, vegetable oil","1/4 cup, grated onion","1 , garlic clove, minced","1 teaspoon, chili powder","1/4 teaspoon, cayenne pepper","1 cup, ketchup","1/4 cup, molasses","3 tablespoons, cider vinegar","2 tablespoons, Worcestershire sauce","2 tablespoons, Dijon mustard"]
+serves: 6
+time: "1¾ hours"
+instructions: ["FOR THE PORK: Dissolve 3 tablespoons sugar and 3 tablespoons salt in 1 1/2 quarts cold water in large container. Submerge chops in brine, cover, and refrigerate for 1 hour. Combine remaining 2 teaspoons sugar, 1 teaspoon salt, and 1 teaspoon pepper in bowl; set aside. Just before grilling, soak wood chips in water for 15 minutes, then drain.","FOR THE BARBECUE SAUCE: Meanwhile, heat oil in small saucepan over medium heat until shimmering. Add onion and cook until softened, about 3 minutes. Stir in garlic, chili powder, and cayenne and cook until fragrant, about 30 seconds. Whisk in ketchup, molasses, vinegar, Worcestershire, and mustard. Bring to simmer, reduce heat to medium-low and cook, stirring occasionally, until sauce is reduced to 1 1/2 cups, 7 to 10 minutes. Set aside 3/4 cup barbecue sauce for serving.","FOR A CHARCOAL GRILL: Open bottom vent completely. Light large chimney starter filled with charcoal briquettes (6 quarts). When top coals are partially covered with ash, pour evenly over half of grill. Scatter soaked wood chips over coals. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot and wood chips are smoking, about 5 minutes.","FOR A GAS GRILL: Using large piece of heavy-duty foil, wrap soaked chips in foil packet and cut several vent holes in top. Remove cooking grate and place wood chip packet directly on primary burner. Set grate in place, turn all burners to high, cover, and heat grill until hot and wood chips are smoking, about 15 minutes. Leave primary burner on high and turn off other burner(s).","Clean and oil cooking grate. Remove pork from brine and pat dry with paper towels. Season chops all over with spice mixture. Grill chops over hotter side of grill, covered (positioning lid vent over chops if using charcoal), until well browned, 3 to 5 minutes per side.","Brush each chop with about 1 tablespoon barbecue sauce and flip sauce side down onto cooler side of grill. Grill, covered, until sauce begins to tighten, about 3 minutes. Brush chops with remaining barbecue sauce, and flip sauce side down. Continue to grill, covered, until meat near but not touching bone registers 140 degrees, about 3 minutes. Transfer chops to platter, tent loosely with foil, and let rest for 5 to 10 minutes. Serve chops with reserved barbecue sauce."]
+nutrition: ["828 mg Potassium","272 mg Phosphorus","79 mg Calcium","2 mg Iron","73 mg Magnesium","779 mg Sodium","4 mg Zinc","41 g Fat","8 mg Niacin (B3)","15 g Monounsaturated","7 g Polyunsaturated","3 mg Vitamin C","3 µg Vitamin D","137 mg Cholesterol","13 g Saturated","6 µg Folate (food)","27 g Sugars","3 µg Vitamin K","155 g Water","32 g Carbs","6 µg Folate equivalent (total)","27 g Protein","1 mg Vitamin E","1 mg Vitamin B6","19 µg Vitamin A","610 kcal Energy","18 g Sugars, added","3663 calories"]
+notes: "If the pork is enhanced (injected with a salt solution), do not brine. Use the large holes of a box grater to grate the onion for the barbecue sauce. Wood chunks are not recommended for this recipe because they take too long to begin to smoke."
+---

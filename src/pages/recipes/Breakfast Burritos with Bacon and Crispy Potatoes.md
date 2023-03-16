@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Breakfast Burritos with Bacon and Crispy Potatoes
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Its never too early for extra-crispy tater tots."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BreakfastBurritosBaconCrispyPotatoes-17_ohw8ql
+tags: ["Main Courses","Southwest (Tex-Mex)","Potatoes","Pork","Cheese","Breakfast & Brunch"]
+calories: 3064
+protein: 29
+carbohydrates: 27
+fats: 
+fiber: 1
+ingredients: ["¼ cup, sour cream","2 tablespoons, minced canned chipotle chile in adobo sauce","2 teaspoons, lime juice","1 , garlic clove, minced","¼ teaspoon, cayenne pepper","¼ teaspoon, table salt","¼ cup, vegetable oil, divided","2 cups, frozen tater tots, thawed and patted dry","8 slices, bacon, cut into ½-inch pieces","8 , large eggs, beaten","3 ounces, pepper Jack cheese, shredded (¾ cup)","2 , scallions, sliced thin","4 (10-inch), flour tortillas"]
+serves: 4
+time: "55 minutes"
+instructions: ["FOR THE CHIPOTLE SOUR CREAM: Stir all ingredients together in bowl; set aside.","FOR THE BURRITOS: Heat 3 tablespoons oil in 12-inch nonstick skillet over medium-high heat until shimmering. Add tater tots to skillet and press with spatula or underside of dry measuring cup to flatten slightly. Cook until crispy and deep golden brown, about 4 minutes per side. Transfer tater tots to paper towel–lined plate and set aside. Wipe skillet clean with paper towels.","Cook bacon in now-empty skillet over medium heat until crispy, 8 to 10 minutes. Pour off all but 2 tablespoons fat (leaving bacon in skillet). Add eggs and, using heat-resistant rubber spatula, constantly and firmly scrape along bottom and sides of skillet until eggs begin to clump and spatula leaves trail on bottom of skillet, about 2 minutes. Reduce heat to low and add pepper Jack and scallions. Gently but constantly fold eggs until clumped and slightly wet, 30 to 60 seconds. Remove from heat and cover to keep warm.","Wrap tortillas in damp dish towel and microwave until warm and pliable, about 1 minute. Arrange tortillas on counter. Spread about 1½ tablespoons chipotle sour cream across bottom third of each tortilla, leaving 1-inch border. Divide tater tots and eggs evenly over chipotle sour cream. Working with 1 burrito at a time, fold sides of tortilla over filling, then fold up bottom of tortilla and roll tightly around filling.","Wipe skillet clean with paper towels. Heat remaining 1 tablespoon oil in now-empty skillet over medium heat until shimmering. Arrange burritos in skillet seam side down and cook until crisp and golden, about 1 minute per side. Serve."]
+nutrition: ["389 mg Potassium","501 mg Phosphorus","317 mg Calcium","3 mg Iron","38 mg Magnesium","1024 mg Sodium","2 mg Zinc","59 g Fat","4 mg Niacin (B3)","28 g Monounsaturated","9 g Polyunsaturated","8 mg Vitamin C","2 µg Vitamin D","436 mg Cholesterol","18 g Saturated","1 g Fiber","49 µg Folic acid","65 µg Folate (food)","3 g Sugars","11 µg Vitamin K","147 g Water","27 g Carbs","147 µg Folate equivalent (total)","29 g Protein","4 mg Vitamin E","1 µg Vitamin B12","240 µg Vitamin A","766 kcal Energy","3064 calories"]
+notes: "If you are spice averse, omit the cayenne pepper and reduce the chipotle chile to 1 tablespoon. To thaw frozen tater tots, either let them sit in the refrigerator for 24 hours or arrange them on a paper towel–lined plate and microwave them for 1½ minutes. Its important to follow the visual cues when making the eggs, as your skillets thickness will affect the cooking time. If youre using an electric stovetop, heat a second burner on low and move the skillet to it when its time to adjust the heat for the eggs. You can serve the burritos right after theyre rolled, if you prefer, but we like the crispy texture the tortillas get from browning them in step 5."
+---

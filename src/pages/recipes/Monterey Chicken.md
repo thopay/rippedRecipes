@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Monterey Chicken
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Grilled chicken. Smoky bacon. Melted cheese. Honey mustard. Sounds delicious, but how do you combine them in a grill recipe that doesn’t go up in smoke?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/10729_sfs-montereychicken-69
+tags: ["Main Courses","Mexican","Chicken","Cheese","Grilling & Barbecue","Cookbook Collection"]
+calories: 2447
+protein: 60
+carbohydrates: 22
+fats: 
+fiber: 1
+ingredients: ["1/2 cup, Dijon mustard","1/4 cup, honey",", Salt and pepper","4 (6- to 8-ounce), boneless, skinless chicken breasts, trimmed","4 slices, bacon, cut into 1/2-inch pieces","6 ounces pepper Jack, cheese, shredded (1 1/2 cups)","4 1/2-inch-thick slices, red onion",", Lime wedge"]
+serves: 4
+time: "1½ hours"
+instructions: ["Whisk mustard, honey, 1 teaspoon salt, and ½ teaspoon pepper together in bowl. Reserve ¼ cup honey-mustard mixture for basting chicken. Transfer remaining honey-mustard mixture to 1-gallon zipper-lock bag.","Working with 1 breast at a time, starting on thick side, cut chicken in half horizontally, stopping ½ inch from edge so halves remain attached. Open up breast like book, creating single flat piece. Place chicken in bag with honey-mustard mixture, toss to coat, and refrigerate for at least 30 minutes or up to 1 hour.","Meanwhile, cook bacon in 10-inch skillet over medium heat until crisp, 5 to 7 minutes. Using slotted spoon, transfer bacon to paper towel–lined plate. Reserve bacon fat. Once cool, toss bacon with pepper Jack.","FOR A CHARCOAL GRILL: Open bottom vent completely. Light large chimney starter filled with charcoal briquettes (6 quarts). When top coals are partially covered with ash, pour two-thirds evenly over half of grill, then pour remaining coals over other half of grill. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.","FOR A GAS GRILL: Turn all burners to high, cover, and heat grill until hot, about 15 minutes. Leave primary burner on high and turn other burner(s) to medium. (Adjust primary burner as needed to maintain grill temperature of 350 to 400 degrees.)","Clean and oil cooking grate. Push toothpick horizontally through each onion slice to keep rings intact while grilling. Brush onion slices lightly with reserved bacon fat and place on cooler side of grill. Place chicken on hotter side of grill, cover, and cook until lightly charred, about 5 minutes. Flip onion slices and chicken. Brush chicken with reserved honey-mustard mixture, cover, and cook until lightly charred on second side, about 5 minutes.","Remove onion slices from grill and move chicken to cooler side of grill. Quickly remove toothpicks and separate onion rings. Divide onion rings evenly among chicken breasts. Divide bacon–pepper Jack mixture evenly over onion rings. Cover and cook until pepper Jack is melted and chicken registers 160 degrees, about 2 minutes. Transfer chicken to platter, tent loosely with aluminum foil, and let rest for 5 to 10 minutes. Serve with lime wedges (and pico de gallo, if desired)."]
+nutrition: ["859 mg Potassium","695 mg Phosphorus","358 mg Calcium","1 mg Iron","89 mg Magnesium","881 mg Sodium","3 mg Zinc","30 g Fat","20 mg Niacin (B3)","10 g Monounsaturated","3 g Polyunsaturated","2 mg Vitamin C","201 mg Cholesterol","13 g Saturated","1 g Fiber","32 µg Folate (food)","19 g Sugars","3 µg Vitamin K","227 g Water","22 g Carbs","32 µg Folate equivalent (total)","60 g Protein","1 mg Vitamin E","1 mg Vitamin B6","102 µg Vitamin A","611 kcal Energy","17 g Sugars, added","2447 calories"]
+notes: "We skewer the onion slices with a toothpick to keep them from falling apart on the grill. You won’t need an entire red onion for this recipe; you can use the remainder to make Pico de Gallo (see related content), which goes well served on top."
+---

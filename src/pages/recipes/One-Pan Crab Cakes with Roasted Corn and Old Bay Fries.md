@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: One-Pan Crab Cakes with Roasted Corn and Old Bay Fries
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This gratifying one-pan meal—crab cakes, roasted corn, and seasoned wedge fries—tastes like the best of summer."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41086-sfs-one-pan-crab-cakes-with-succotash-and-old-bay-fries-23
+tags: ["Main Courses","Fish & Seafood"]
+calories: 2157
+protein: 29
+carbohydrates: 51
+fats: 
+fiber: 5
+ingredients: ["1 pound, fresh crabmeat, picked over for shells","1/4 cup, panko bread crumbs","3 , scallions, minced","1 , large egg","2 tablespoons, mayonnaise","1 tablespoon, Dijon mustard","1/8 teaspoon, cayenne pepper","1 tablespoon, unsalted butter",", Tartar sauce","4 ears, corn, kernels cut from cobs","1 , onion, chopped","1 , red bell pepper, stemmed, seeded, and cut into ½-inch pieces","1/4 cup, extra-virgin olive oil","2 , garlic cloves, sliced thin",", Salt and pepper","2 , russet potatoes, unpeeled, each cut lengthwise into 8 equal wedges","1 1/2 teaspoons, Old Bay seasoning","2 tablespoons, chopped fresh basil","2 teaspoons, lemon juice"]
+serves: 4
+time: "1¼ hours"
+instructions: ["FOR THE CRAB CAKES: Line plate with triple layer of paper towels. Transfer crabmeat to prepared plate and pat dry with additional paper towels. Combine panko, scallions, egg, mayonnaise, mustard, and cayenne in bowl. Using rubber spatula, gently stir in crabmeat until combined. Discard paper towels. Divide mixture into 4 equal portions (about ½ cup each). Shape portions into tight balls, then shape balls into cakes measuring about 1 inch thick and 3 inches wide (cakes will be delicate). Transfer cakes to now-empty plate and refrigerate until ready to use.","FOR THE CORN AND POTATOES: Adjust oven rack to lower-middle position and heat oven to 475 degrees. Toss corn, onion, bell pepper, 2 tablespoons oil, garlic, ½ teaspoon salt, and ¼ teaspoon pepper together in bowl. Transfer corn mixture to one half of rimmed baking sheet.","In now-empty bowl, toss potatoes, Old Bay, and remaining 2 tablespoons oil together. Arrange potatoes cut side down in single layer on empty half of sheet. Bake until corn mixture is just softened and potatoes are lightly browned on bottom, about 15 minutes.","Remove sheet from oven. Using metal spatula, clear section in middle of sheet by pushing potatoes into pile at 1 end of sheet and corn mixture into another pile at opposite end of sheet. Place butter on now-empty middle section of sheet and use metal spatula to evenly distribute. Using spatula, gently place crab cakes on middle section of sheet. Return sheet to oven and bake until crab cakes are golden on bottom and potatoes are tender, about 20 minutes.","Transfer sheet to wire rack. Stir basil and lemon juice into corn mixture and season with salt and pepper to taste. Flip crab cakes browned side up. Serve with tartar sauce."]
+nutrition: ["1276 mg Potassium","479 mg Phosphorus","171 mg Calcium","3 mg Iron","124 mg Magnesium","1072 mg Sodium","5 mg Zinc","25 g Fat","6 mg Niacin (B3)","13 g Monounsaturated","6 g Polyunsaturated","61 mg Vitamin C","166 mg Cholesterol","5 g Saturated","5 g Fiber","153 µg Folate (food)","10 g Sugars","48 µg Vitamin K","347 g Water","51 g Carbs","153 µg Folate equivalent (total)","29 g Protein","4 mg Vitamin E","3 µg Vitamin B12","112 µg Vitamin A","539 kcal Energy","2157 calories"]
+notes: "Buy crabmeat (either fresh or pasteurized) packed in plastic containers in the refrigerated section of your grocers fish department. We do not recommend canned crabmeat. Be sure to use a heavyweight rimmed baking sheet; our favorite is the Nordic Ware Bakers Half Sheet. We like Ians Panko Breadcrumbs, Original Style."
+---

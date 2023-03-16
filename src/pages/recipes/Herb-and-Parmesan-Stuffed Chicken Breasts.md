@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Herb-and-Parmesan-Stuffed Chicken Breasts
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "For stuffed chicken breasts worth the bother, you need to start with the right cut."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/24609_sfs-stuffed-chicken-30
+tags: ["Main Courses","Chicken"]
+calories: 3262
+protein: 74
+carbohydrates: 6
+fats: 
+fiber: 1
+ingredients: ["4 (12-ounce), bone-in, skin-on split chicken breasts, trimmed",", Salt and pepper","1/4 cup, extra-virgin olive oil","1/2 cup, finely chopped onion","2 teaspoons, grated lemon zest plus 1 tablespoon juice","2 , garlic cloves, minced","2 teaspoons, minced fresh thyme","2 teaspoons, Dijon mustard","1 teaspoon, minced fresh rosemary","2 ounces sliced, Genoa salami, chopped fine","2 ounces, Parmesan cheese, grated (1 cup)","2 tablespoons, capers, chopped","1/2 cup, chicken broth"]
+serves: 4
+time: "1½ hours"
+instructions: ["Adjust oven rack to middle position and heat oven to 400 degrees. Using kitchen shears, remove any rib bones that extend beyond each breast. Working with 1 breast at a time, place skin side down on counter with breastbone side facing your knife hand. Press on breast with your opposite hand to flatten slightly and, using sharp paring knife, cut 3-inch-long horizontal pocket in breastbone side of breast, stopping 1/2 inch from rib side so halves remain attached. Using your fingers and tip of knife, make interior of pocket wider without increasing 3-inch opening. Season breasts inside and out with salt and pepper; set aside.","Heat 1 tablespoon oil in 12-inch ovensafe nonstick skillet over medium heat until shimmering. Add onion and 1/8 teaspoon salt and cook until softened and browned around edges, 4 to 6 minutes. Remove from heat and set aside to cool slightly, about 5 minutes.","Combine lemon zest, garlic, thyme, mustard, rosemary, and 2 tablespoons oil in bowl; set aside 2 teaspoons oil mixture for sauce. Stir salami, Parmesan, capers, onion, 1 teaspoon pepper, and 1/4 teaspoon salt into remaining oil mixture, mashing against side of bowl with back of spoon until stuffing mixture clumps together.","Place about 3 tablespoons stuffing mixture into pocket of each breast, pressing into ends of pockets with your fingers to fill completely and evenly. Fold breast over to enclose. Secure each breast with 3 evenly spaced pieces of kitchen twine. Wipe skillet clean with paper towels.","Heat remaining 1 tablespoon oil in now-empty skillet over medium-high heat until just smoking. Cook breasts skin side down until well browned, about 7 minutes, moving as needed for evenly browned skin.","Flip breasts skin side up, add broth to skillet, and transfer to oven. Roast until thickest part of stuffing registers 160 degrees, 30 to 37 minutes. Transfer breasts to carving board, tent with aluminum foil, and let rest for 15 minutes.","Meanwhile, pour pan juices into liquid measuring cup (skillet handle will be hot) and skim off fat. Stir in lemon juice and reserved oil mixture; season with salt and pepper to taste. Remove twine, then carve breasts from bones. Slice 1/2 inch thick, transfer to serving platter, and drizzle with sauce. Serve."]
+nutrition: ["782 mg Potassium","781 mg Phosphorus","496 mg Calcium","3 mg Iron","96 mg Magnesium","1105 mg Sodium","3 mg Zinc","53 g Fat","28 mg Niacin (B3)","25 g Monounsaturated","7 g Polyunsaturated","6 mg Vitamin C","1 µg Vitamin D","215 mg Cholesterol","16 g Saturated","1 g Fiber","20 µg Folate (food)","1 g Sugars","12 µg Vitamin K","260 g Water","6 g Carbs","20 µg Folate equivalent (total)","74 g Protein","2 mg Vitamin E","1 µg Vitamin B12","1 mg Vitamin B6","146 µg Vitamin A","815 kcal Energy","3262 calories"]
+notes: "High-quality Parmesan makes a difference here."
+---

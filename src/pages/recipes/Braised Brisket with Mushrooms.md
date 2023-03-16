@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Braised Brisket with Mushrooms
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Dry meat and wan mushroom flavor can ruin what should be a tender, flavorful winter classic."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/9746_sfs-braisedbrisketwithmushrooms-17
+tags: ["Main Courses","Passover"]
+calories: 6404
+protein: 38
+carbohydrates: 9
+fats: 
+fiber: 1
+ingredients: ["1 (4- to 5-pound), brisket roast, fat trimmed to 1/4 inch",", Salt and pepper","3/4 cup, water","1/4 ounce, dried porcini mushrooms, rinsed","1 tablespoon, vegetable oil","1 pound, white mushrooms, trimmed and quartered","2 , onions, chopped","1 tablespoon, packed brown sugar","3 tablespoons, all-purpose flour","3 , garlic cloves, minced","1 teaspoon, minced fresh thyme","1 cup, low-sodium chicken broth","1 cup, dry red wine","3 , bay leaves","1 teaspoon, balsamic vinegar"]
+serves: 10
+time: "6¼ to 6¾ hours, plus 1 hour cooling"
+instructions: ["Adjust oven rack to middle position and heat oven to 300 degrees. Pat brisket dry with paper towels. Place roast fat side up on cutting board and prick all over with fork. Cut brisket in half crosswise into 2 roasts. Season with salt and pepper. Microwave water and porcini in covered bowl until steaming, about 1 minute. Let sit until softened, about 5 minutes. Drain porcini through fine-mesh strainer lined with coffee filter, reserve liquid, and mince and reserve porcini.","Heat oil in 12-inch skillet over medium-high heat until just smoking. Brown 1 roast on both sides, 10 to 14 minutes; transfer fat side up to 13 by 9-inch baking dish. Repeat with remaining roast.","Pour off all but 1 tablespoon fat from skillet. Add mushrooms and ¼ teaspoon salt and cook over medium-high heat until liquid evaporates and mushrooms are golden brown, about 8 minutes. Add onions and sugar and cook, stirring occasionally, until browned, 8 to 10 minutes. Add flour, garlic, and thyme and cook until golden and fragrant, 1 to 2 minutes. Slowly whisk in broth, wine, ½ cup reserved porcini liquid, reserved porcini, and bay leaves, scraping up any browned bits, and bring to boil. Reduce heat to medium and simmer until thickened, about 8 minutes.","Pour sauce over roasts and cover dish tightly with aluminum foil. Bake until tender and fork inserted into meat meets no resistance, 4½ to 5 hours. Let brisket cool at room temperature in dish, uncovered, for 1 hour, flipping halfway through cooling. Discard bay leaves. (Cooled brisket can be refrigerated in sauce for 2 days; reheat gently, covered, in 300-degree oven for 1 hour before proceeding with the next step.)","Transfer roasts to carving board. Strain sauce through fine-mesh strainer into fat separator; reserve mushrooms. Let liquid settle, then pour into bowl. Stir vinegar into sauce and microwave until warm, 30 to 60 seconds. Slice roasts against grain into ¼-inch-thick slices and return to dish with mushrooms. Pour 1½ cups sauce over meat. Serve with remaining sauce. (Refrigerate sliced brisket in sauce for up to 3 days; reheat meat in sauce.)"]
+nutrition: ["819 mg Potassium","401 mg Phosphorus","55 mg Calcium","3 mg Iron","50 mg Magnesium","810 mg Sodium","9 mg Zinc","47 g Fat","10 mg Niacin (B3)","20 g Monounsaturated","2 g Polyunsaturated","3 mg Vitamin C","191 mg Cholesterol","18 g Saturated","1 g Fiber","3 µg Folic acid","33 µg Folate (food)","3 g Sugars","5 µg Vitamin K","247 g Water","9 g Carbs","39 µg Folate equivalent (total)","38 g Protein","1 mg Vitamin E","2 µg Vitamin B12","1 mg Vitamin B6","1 µg Vitamin A","640 kcal Energy","1 g Sugars, added","6404 calories"]
+notes: "Flat-cut brisket is easier to find and more uniform in texture than point cut."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: From-The-Freezer Meaty Lasagna
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Lasagna is so time-consuming to assemble that most people dont mind the tired flavor and softened texture that characterize even homemade frozen lasagnas. We wanted the convenience of Stouffers but the taste of homemade."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/23409_sfs-meaty-lasagna-29
+tags: ["Main Courses","Pasta","Beef","Pork","Make Ahead","Casseroles"]
+calories: 8612
+protein: 69
+carbohydrates: 47
+fats: 
+fiber: 5
+ingredients: ["1 1/2 tablespoons, olive oil","1 , onion, chopped fine","6 cloves, garlic, minced","1/4 teaspoon, red pepper flakes","1/2 pound, ground beef chuck (85 percent lean)","1/2 pound, ground pork","1 teaspoon, salt","1/2 teaspoon, ground black pepper","1/4 cup, heavy cream","1 , (28-ounce) can tomato puree","1 can, diced tomatoes (28 ounces)","1/4 cup, chopped fresh basil","1 3/4 cups, whole-milk ricotta","1 1/4 cups, Grated Parmesan cheese","1/4 cup, chopped fresh basil","2 , large eggs, lightly beaten","1/4 teaspoon, salt","1/4 teaspoon, ground black pepper","5 cups, shredded whole milk mozzarella cheese","12 , no-boil lasagna noodles (from one 8- or 9-ounce package)"]
+serves: 8
+time: ""
+instructions: ["For the sauce: Heat oil in large Dutch oven over medium heat until shimmering, about 2 minutes. Add onion and cook until softened, about 2 minutes. Add garlic and pepper flakes and cook until fragrant, about 30 seconds. Increase heat to medium-high, add ground meats, salt, and pepper, and cook, breaking meat into small pieces, until meat is no longer pink but not browned, about 4 minutes. Add cream and simmer until liquid evaporates and only fat remains, about 4 minutes. Stir in tomato puree, diced tomatoes, and basil and bring to simmer. Reduce heat to low and simmer until flavors blend, about 3 minutes. Remove pot from heat, cool sauce for 20 minutes, then refrigerate until cool, at least 20 minutes.","For the pasta layers: Mix ricotta, 1 cup Parmesan, basil, eggs, salt, and pepper in bowl. Spread 1/4 cup meat sauce over bottom of 13 by 9-inch baking dish. Place 3 noodles crosswise on top of sauce, evenly space 9 tablespoons ricotta mixture over noodles, and sprinkle evenly with 1 1/4 cups mozzarella; spoon 1 1/2 cups sauce over cheese. Repeat layering of noodles, ricotta mixture, mozzarella, and sauce two more times. Place 3 remaining noodles on top and spread with remaining sauce. Cover with remaining 1 1/4 cups mozzarella and remaining 1/4 cup Parmesan.","Spray large sheet of aluminum foil with nonstick cooking spray and tightly cover lasagna. Wrap with plastic wrap several times and cover with another layer of foil. Freeze.","When ready to serve: Adjust oven rack to middle position and heat oven to 375 degrees. Remove all wrapping except foil layer that is flush against lasagna. Bake 1 hour and 15 minutes, then remove foil. Continue baking until cheese is spotty brown and sauce is bubbling, about 30 minutes. Let lasagna cool for 15 minutes. Serve."]
+nutrition: ["1013 mg Potassium","1185 mg Phosphorus","1426 mg Calcium","4 mg Iron","116 mg Magnesium","1775 mg Sodium","8 mg Zinc","68 g Fat","5 mg Niacin (B3)","21 g Monounsaturated","3 g Polyunsaturated","24 mg Vitamin C","1 µg Vitamin D","282 mg Cholesterol","39 g Saturated","5 g Fiber","61 µg Folate (food)","10 g Sugars","22 µg Vitamin K","378 g Water","47 g Carbs","61 µg Folate equivalent (total)","69 g Protein","2 mg Vitamin E","2 µg Vitamin B12","521 µg Vitamin A","1076 kcal Energy","8612 calories"]
+notes: "This lasagna can be assembled and frozen for up to 2 months before being baked."
+---

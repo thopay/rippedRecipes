@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Blueberry Cream Pie
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This just might be the best blueberry pie you’ll ever eat."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_FreshBlueberriesAndCreamPie_84_l9fxaq
+tags: ["Desserts or Baked Goods","Fruit","Fruit Desserts","Dessert Pies"]
+calories: 4116
+protein: 3
+carbohydrates: 44
+fats: 25
+fiber: 2
+ingredients: ["12 , whole graham crackers, broken into pieces (6½ ounces)","2 tablespoons, sugar","Pinch , table salt","6 tablespoons, unsalted butter, melted","½ cup (3½ ounces), sugar","4 teaspoons, cornstarch","¼ teaspoon, table salt","1½ pounds (about 4¾ cups), blueberries, divided","1 tablespoon, lemon juice","8 ounces, cream cheese, softened","¼ cup (1¾ ounces), sugar","1 teaspoon, vanilla extract","1 cup, heavy cream, chilled"]
+serves: 10
+time: "1 hour, plus 4 hours chilling"
+instructions: ["FOR THE CRUST: Adjust oven rack to middle position and heat oven to 325 degrees. Process cracker pieces in food processor until finely ground, about 30 seconds. Add sugar and salt and pulse to combine, about 3 pulses. Add melted butter and pulse until combined, about 8 pulses. Transfer crumbs to 9-inch pie plate. Using bottom of dry measuring cup, press crumbs into bottom and up sides of plate. Bake until crust is fragrant and beginning to brown, 16 to 18 minutes. Transfer plate to wire rack.","FOR THE FILLING: Meanwhile, whisk sugar, cornstarch, and salt in medium saucepan until no lumps of cornstarch remain. Process 2 cups blueberries in clean, dry workbowl until smooth, about 2 minutes, scraping down sides of bowl as needed. Strain puree through fine-mesh strainer into sugar mixture in saucepan, pressing on solids to extract as much liquid as possible; discard solids. Whisk puree into sugar mixture until combined.","Bring puree mixture to simmer over medium heat, whisking frequently. Continue to cook, whisking constantly, until whisk leaves trail that slowly fills in, about 1 minute longer. Off heat, whisk in lemon juice. Reserve 2 tablespoons puree for piping. Stir remaining blueberries into remaining puree in saucepan. Spread filling evenly over bottom of pie crust (crust needn't be completely cool).","FOR THE TOPPING: Using stand mixer fitted with whisk attachment, whip cream cheese, sugar, and vanilla on medium-high speed until very smooth, about 2 minutes, scraping down bowl as needed. With mixer running, slowly pour in cream and whip until stiff peaks form, 1 to 3 minutes, scraping down bowl as needed.","Fit large pastry bag with large closed star tip. Using small spatula, apply 3 vertical stripes of reserved puree up sides of pastry bag. Fill pastry bag with topping. Pipe rosettes (spiraling from inside out) in concentric circles over surface of pie, covering filling. Pipe stars in any gaps between rosettes. Refrigerate pie for at least 4 hours or up to 24 hours. Serve."]
+nutrition: ["137 mg Potassium, K","83 mg Phosphorus, P","58 mg Calcium, Ca","15 mg Magnesium, Mg","251 mg Sodium, Na","25 g Total lipid (fat)","1 mg Niacin","6 g Fatty acids, total monounsaturated","2 g Fatty acids, total polyunsaturated","7 mg Vitamin C, total ascorbic acid","75 mg Cholesterol","14 g Fatty acids, total saturated","2 g Fiber, total dietary","13 µg Folic acid","11 µg Folate, food","30 g Sugars, total","17 µg Vitamin K (phylloquinone)","87 g Water","44 g Carbohydrate, by difference","34 µg Folate, DFE","3 g Protein","1 mg Vitamin E (alpha-tocopherol)","241 µg Vitamin A, RAE","411 kcal Energy","17 g Sugars, added","4116 calories"]
+notes: "This pie highlights the flavor and texture of fresh blueberries, so use high-quality berries that you enjoy eating by themselves. Do not use frozen blueberries. We prefer Honey Maid Honey Graham Crackers for this crust. The finished pie will look best on the day its made; it will still taste delicious the next day, but the topping might not look as fresh."
+---

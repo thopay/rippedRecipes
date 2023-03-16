@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Beef Yakamein (New Orleans Spicy Beef Noodle Soup)
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This delectable beef noodle soup originated in Chinese American restaurants. Thanks to one New Orleans chef, the uniquely Creole version of it is gaining in popularity."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BeefYakamein_079_a3c4da
+tags: ["Main Courses","Creole & Cajun","Vegetables","Pasta","Beef","Soups"]
+calories: 3745
+protein: 45
+carbohydrates: 55
+fats: 24
+fiber: 3
+ingredients: ["1 (2-pound), boneless beef chuck-eye roast, trimmed","2 teaspoons, kosher salt","2 teaspoons, pepper","2 tablespoons, vegetable oil","1 , onion, chopped","1 , green bell pepper, stemmed, seeded, and chopped","1 , celery rib, chopped","4 , garlic cloves, minced","1 tablespoon, Tony Chachere's Original Creole Seasoning","1 tablespoon, sugar","1 teaspoon, onion powder","½ teaspoon, Ac’cent (optional)","8 cups, beef broth","¼ cup, soy sauce, plus extra for serving","12 ounces, spaghetti","3 hard-cooked, large eggs, halved","6 , scallions, sliced ¼ inch thick",", Crystal Hot Sauce"]
+serves: 6
+time: "3¼ hours"
+instructions: ["Pat beef dry with paper towels and sprinkle with salt and pepper. Heat oil in large Dutch oven over medium-high heat until shimmering. Add beef and cook until well browned on all sides, 8 to 12 minutes. Transfer beef to plate.","Add onion, bell pepper, and celery to fat left in pot and cook until softened, 5 to 7 minutes. Add garlic; Creole seasoning; sugar; onion powder; and Ac’cent, if using, and cook until fragrant, about 1 minute. Stir in broth and soy sauce, scraping up any browned bits. Return beef to pot and bring to boil over high heat. Cover; reduce heat to low; and simmer until beef is tender, 1½ to 2 hours.","Transfer beef to cutting board and let cool until easy to handle, at least 20 minutes. Use wide spoon to skim excess fat from broth. Set colander over large bowl. Strain broth through colander, pressing on solids to extract all liquid. Discard solids in colander. Return broth to pot; cover and keep warm over low heat.","Meanwhile, bring 3 quarts water to boil in large saucepan. Add pasta and cook until fully tender. Drain pasta and return it to saucepan. Cover and set aside.","Using chef's knife, chop beef into approximate ¾-inch pieces. Divide pasta evenly among 6 serving bowls. Divide beef, eggs, and scallions evenly among serving bowls on top of pasta. Ladle hot broth into serving bowls to cover pasta (about 1½ cups each). Serve, passing hot sauce and extra soy sauce separately."]
+nutrition: ["1378 mg Potassium, K","553 mg Phosphorus, P","115 mg Calcium, Ca","5 mg Iron, Fe","101 mg Magnesium, Mg","1479 mg Sodium, Na","12 mg Zinc, Zn","24 g Total lipid (fat)","10 mg Niacin","12 g Fatty acids, total monounsaturated","2 g Fatty acids, total polyunsaturated","20 mg Vitamin C, total ascorbic acid","185 mg Cholesterol","8 g Fatty acids, total saturated","3 g Fiber, total dietary","53 µg Folate, food","7 g Sugars, total","44 µg Vitamin K (phylloquinone)","490 g Water","55 g Carbohydrate, by difference","53 µg Folate, DFE","45 g Protein","1 mg Vitamin E (alpha-tocopherol)","3 µg Vitamin B-12","59 µg Vitamin A, RAE","624 kcal Energy","2 g Sugars, added","3745 calories"]
+notes: "Smaller chuck-eye roasts (such as the one called for in this recipe) are sometimes sold prepackaged and labeled as chuck steak. If you can find only chuck roasts larger than 2 pounds, you can ask the butcher to cut a smaller roast for you or cut your own 2-pound roast and freeze the remaining meat for another use. Sriracha or Tabasco can be substituted for the Crystal Hot Sauce, if desired. We developed this recipe with Kikkoman Soy Sauce and Better Than Bouillon Roasted Beef Base. Monosodium glutamate, an umami-enhancing seasoning that gives this yakamein broth a savory boost, is sold under the brand name Ac’cent. Look for it in the spice aisle next to the seasoning salts."
+---

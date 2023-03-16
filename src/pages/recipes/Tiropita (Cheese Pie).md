@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Tiropita (Cheese Pie)
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "A flaky, buttery Greek cheese pie for a special occasion."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Tiropita_47262_ifotdf
+tags: ["Main Courses","Greek","Cheese","Savory Pies & Tarts"]
+calories: 3224
+protein: 11
+carbohydrates: 20
+fats: 25
+fiber: 
+ingredients: ["10 ounces sheep's-milk, feta cheese in brine, drained and shredded (2 cups)","2 ounces graviera, cheese, shredded (⅔ cup)","4 ounces (½ cup) whole-milk, cottage cheese","2 , large eggs, lightly beaten","2 teaspoons, cornstarch","½ teaspoon, dried mint (optional)","16 (14 by 9-inch), phyllo sheets, thawed, divided","10 tablespoons, unsalted butter, melted"]
+serves: 9
+time: "1½ hours, plus 1 hour cooling"
+instructions: ["FOR THE FILLING: Combine all ingredients (including dried mint, if using) in bowl. Set aside.","FOR THE PHYLLO: Adjust oven rack to lowest position and heat oven to 425 degrees. Make foil sling for 8-inch square baking pan by folding 2 long sheets of aluminum foil so each is 8 inches wide. Lay sheets of foil in pan perpendicular to each other, with extra foil hanging over edges of pan. Push foil into corners and up sides of pan, smoothing foil flush to pan. Brush foil lightly with melted butter.","Lay 1 phyllo sheet on clean counter with short side parallel to edge of counter. Brush lightly with melted butter. Place second phyllo sheet directly over first sheet and brush lightly with melted butter. Repeat layering with 2 more phyllo sheets and melted butter. (You will have 4 layers total.)","Transfer phyllo stack to prepared pan. Ease dough into pan by gently lifting edge of dough with your hand while pressing into pan bottom with your other hand, letting excess dough hang over edge.","Repeat step 3. Place second phyllo stack in pan, perpendicular to first phyllo stack. Ease dough into pan by gently lifting edge of dough with your hand while pressing into pan bottom with your other hand, letting excess dough hang over edge.","Spread filling evenly over phyllo in pan.","Repeat step 3 two more times. Place phyllo stacks over filling, perpendicular to each other.","Pinch overhanging top and bottom layers of phyllo together firmly. Roll inward to create rope-like crust around tiropita; brush all over with melted butter. Using paring knife, score top phyllo stack into 9 equal pieces (2 cuts by 2 cuts), being sure to cut through rolled edges, but do not separate.","Bake until phyllo is golden and crisp, 25 to 30 minutes. Using foil overhang, immediately transfer tiropita from pan to wire rack. Carefully slide foil from underneath and discard. Let cool for 1 hour. Slide tiropita onto cutting board. Using prescored lines, cut into 9 squares and serve."]
+nutrition: ["83 mg Potassium, K","222 mg Phosphorus, P","243 mg Calcium, Ca","1 mg Iron, Fe","16 mg Magnesium, Mg","521 mg Sodium, Na","1 mg Zinc, Zn","25 g Total lipid (fat)","1 mg Niacin","6 g Fatty acids, total monounsaturated","1 g Fatty acids, total polyunsaturated","112 mg Cholesterol","15 g Fatty acids, total saturated","23 µg Folic acid","23 µg Folate, food","1 g Sugars, total","2 µg Vitamin K (phylloquinone)","52 g Water","20 g Carbohydrate, by difference","64 µg Folate, DFE","11 g Protein","187 µg Vitamin A, RAE","358 kcal Energy","3224 calories"]
+notes: "Phyllo dough is also available in larger 18 by 14-inch sheets; if using, cut them in half to make 9 by 14-inch sheets. Dont use thicker, “country-style” phyllo here. Do not thaw the phyllo in the microwave; let it sit in the refrigerator overnight or on the counter for 4 to 5 hours. While working with the phyllo, cover it with plastic wrap and then a damp dish towel to prevent drying. Shred the feta on the large holes of a box grater. You can substitute Gruyere for the graviera, if desired. Use enough butter to coat the phyllo; its OK if you dont use it all."
+---

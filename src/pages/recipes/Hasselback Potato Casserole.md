@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Hasselback Potato Casserole
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "A crowd-pleasing, showstopping dish that turns the idea of a gratin on its side."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_HolidayHasselbackPotatoes_054_k4nzut
+tags: ["Side Dishes","Potatoes","Cheese","Casseroles","Thanksgiving","Holiday"]
+calories: 3865
+protein: 22
+carbohydrates: 50
+fats: 
+fiber: 3
+ingredients: ["6 slices, bacon, chopped fine","2 cups, finely chopped onion","1¼ cups, chicken broth, divided","4 , garlic cloves, minced","1 tablespoon, minced fresh rosemary, divided","1 tablespoon, unsalted butter","4 1/4 pounds, large russet potatoes, unpeeled","6 ounces, Gruyere cheese, shredded (1½ cups), divided","2 ounces, Parmesan cheese, grated (1 cup), divided","2 teaspoons, table salt","1 teaspoon, pepper"]
+serves: 8
+time: "3 hours"
+instructions: ["Adjust oven rack to middle position and heat oven to 400 degrees. Cook bacon in 12-inch nonstick skillet over medium-high heat until crispy, 5 to 8 minutes, stirring frequently.","Stir in onion and ½ cup broth. Cover and cook until most of liquid has evaporated, 5 to 7 minutes, stirring occasionally. Uncover and continue to cook until onion is well browned, about 5 minutes longer. Add garlic and 2½ teaspoons rosemary and cook until fragrant, about 1 minute. Set aside off heat.","Grease 8-inch square baking pan with butter. Peel potatoes. Using mandoline, slice potatoes crosswise ⅛ inch thick. Combine potatoes, ¾ cup Gruyere, ½ cup Parmesan, salt, pepper, bacon-onion mixture, and remaining ¾ cup broth in large bowl and toss to thoroughly combine, breaking up any stacked potatoes and making sure potatoes are coated.","Stack 2 inches of potatoes, then lay stack on its side in 1 corner of prepared pan. Continue stacking and laying down potatoes until pan is filled with 3 rows of potatoes. (Potato slices should fit snugly without having to be squeezed in. You may not need all of them; save any extra slices for another use.) Pour remaining broth mixture in bowl over potatoes. Brush any pieces of bacon or onion on top of potatoes down into valleys between rows.","Cover pan tightly with aluminum foil and place on foil-lined rimmed baking sheet. Bake for 1¼ hours. Uncover and continue to bake until tops of potatoes are golden brown and paring knife inserted into potatoes meets very little resistance, about 30 minutes longer.","Combine remaining ¾ cup Gruyere and remaining ½ cup Parmesan in bowl. Remove potatoes from oven and sprinkle with cheese mixture. Continue to bake until potatoes are well browned, about 15 minutes longer.","Remove potatoes from oven. Sprinkle with remaining ½ teaspoon rosemary. Let cool for 15 minutes and serve."]
+nutrition: ["1191 mg Potassium","440 mg Phosphorus","473 mg Calcium","2 mg Iron","80 mg Magnesium","890 mg Sodium","2 mg Zinc","22 g Fat","4 mg Niacin (B3)","7 g Monounsaturated","2 g Polyunsaturated","17 mg Vitamin C","54 mg Cholesterol","10 g Saturated","3 g Fiber","46 µg Folate (food)","4 g Sugars","6 µg Vitamin K","282 g Water","50 g Carbs","46 µg Folate equivalent (total)","22 g Protein","1 mg Vitamin B6","108 µg Vitamin A","483 kcal Energy","3865 calories"]
+notes: "Look for oblong russets that are 4 to 6 inches long and about 3 inches in diameter at their widest. Large potatoes are easier to peel and to slice on a mandoline and fit well when stacked in an 8-inch square pan. If you can find only small russets, you may need more than 4¼ pounds to yield enough slices to fill the pan. Do not pack the potatoes in too tightly or they may not cook through in the stated time; its OK to have a few unused slices. Use the mandolines finger guard and stop slicing when youve got about a 1-inch nub of potato left."
+---

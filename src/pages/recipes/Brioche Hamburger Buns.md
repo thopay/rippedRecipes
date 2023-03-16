@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Brioche Hamburger Buns
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "One simple dough, and a process thats just as easy."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Brioche-Hamburger-Buns_11_itsyb2
+tags: ["Desserts or Baked Goods","Breads"]
+calories: 3854
+protein: 7
+carbohydrates: 39
+fats: 
+fiber: 1
+ingredients: ["3 2/3 cups (20⅛ ounces), bread flour","1 tablespoon, instant or rapid-rise yeast","1 1/4 cups (10 ounces), water, room temperature","2 , large eggs, plus 1 large egg, lightly beaten","1/4 cup (1¾ ounces), sugar","2 1/2 teaspoons, table salt","13 tablespoons, unsalted butter, cut into 13 pieces and softened","1 1/2 teaspoons, sesame seeds (optional)"]
+serves: 12
+time: "1¼ hours, plus 2 hours rising and 30 minutes cooling"
+instructions: ["Whisk flour and yeast together in bowl of stand mixer, then add room-temperature water and 2 eggs. Fit mixer with dough hook and mix on low speed until dough comes together and no dry flour remains, about 2 minutes, scraping down bowl and dough hook frequently. Turn off mixer, cover bowl with dish towel or plastic wrap, and let dough stand for 15 minutes.","Add sugar and salt to dough and knead on medium-low speed until incorporated, about 30 seconds. Increase speed to medium and, with mixer running, add butter 1 piece at a time, allowing each piece to incorporate before adding next, about 3 minutes total, scraping down bowl and dough hook as needed. Continue to knead on medium speed until dough is elastic and pulls away cleanly from sides of bowl, about 10 minutes longer. Transfer dough to greased large bowl. Cover tightly with plastic and let rise at room temperature until doubled in size, about 1 hour.","Line 2 rimmed baking sheets with parchment paper. Turn out dough onto counter and divide dough into twelve 3-ounce portions; divide any remaining dough evenly among portions. Working with 1 dough portion at a time, cup dough with your palm and roll against counter into smooth, tight ball. Evenly space 6 dough balls on each prepared sheet. Using greased bottom of dry measuring cup, press dough balls to 3-inch diameter, about ¾ inch thick. Poke any air bubbles in dough balls with tip of paring knife.","Cover loosely with plastic and let rise at room temperature until doubled in size, about 1 hour. Adjust oven racks to upper-middle and lower-middle positions and heat oven to 350 degrees.","Discard plastic and brush tops and sides of dough balls with beaten egg (you do not need to use all of it). Sprinkle tops of dough balls with sesame seeds, if using.","Bake until buns are deep golden brown and register 205 to 210 degrees in center, 18 to 20 minutes, switching and rotating sheets halfway through baking. Transfer sheets to wire racks and let cool completely, about 30 minutes. Serve. (Buns can be stored in zipper-lock bags at room temperature for up to 2 days or frozen for up to 1 month.)","To Make Ahead: At end of step 4, cover sheets with plastic wrap and refrigerate for up to 24 hours. Let dough balls sit at room temperature for 1 hour before proceeding with recipe."]
+nutrition: ["79 mg Potassium","83 mg Phosphorus","22 mg Calcium","2 mg Iron","15 mg Magnesium","243 mg Sodium","14 g Fat","4 mg Niacin (B3)","3 g Monounsaturated","1 g Polyunsaturated","79 mg Cholesterol","8 g Saturated","1 g Fiber","71 µg Folic acid","45 µg Folate (food)","4 g Sugars","1 µg Vitamin K","42 g Water","39 g Carbs","167 µg Folate equivalent (total)","7 g Protein","125 µg Vitamin A","321 kcal Energy","4 g Sugars, added","3854 calories"]
+notes: "All-purpose flour can be substituted for the bread flour, but the buns wont be as tall; use the same amount of all-purpose flour by weight, not by volume."
+---

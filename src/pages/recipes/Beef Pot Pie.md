@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Beef Pot Pie
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Meaty stew under a flaky crust—beef pot pie is as comforting as it gets. Could we revive, and reinvigorate, this satisfying one-dish dinner?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/21972_sfs-beef-pot-pie-25
+tags: ["Main Courses","Beef","Savory Pies & Tarts"]
+calories: 2827
+protein: 35
+carbohydrates: 17
+fats: 
+fiber: 2
+ingredients: ["1 (2 1/4-pound), boneless beef chuck-eye roast, trimmed and cut into 3/4-inch pieces",", Salt and pepper","3 tablespoons, vegetable oil","4 ounces, cremini mushrooms, trimmed and quartered","1 , onion, chopped fine","2 , carrots, peeled and cut into 1/2-inch pieces","2 tablespoons, tomato paste","4 , garlic cloves, minced","1/2 cup, dry red wine","3 tablespoons, all-purpose flour","1 3/4 cups, beef broth","1 tablespoon, soy sauce","1 tablespoon, Worcestershire sauce","1 , bay leaf","1 cup, frozen peas","1 1/2 teaspoons, chopped fresh thyme","1 , large egg, lightly beaten","1 (9-inch) store-bought, pie dough round"]
+serves: 6
+time: "1¾ hours, plus 50 minutes"
+instructions: ["Adjust oven rack to lower-middle position and heat oven to 350 degrees. Pat beef dry with paper towels and season with salt and pepper. Heat 1 1/2 tablespoons oil in Dutch oven over medium-high heat until just smoking. Add half of beef and cook until well browned all over, 7 to 10 minutes. Using slotted spoon, transfer beef to bowl with remaining uncooked beef.","Add remaining 1 1/2 tablespoons oil to now-empty pot and reduce heat to medium. Add mushrooms, onion, and carrots and cook until vegetables are lightly browned, about 5 minutes, scraping up any browned bits. Stir in tomato paste and garlic and cook until fragrant, about 30 seconds.","Stir in wine and cook until evaporated, about 2 minutes. Stir in flour until vegetables are well coated and cook for 1 minute. Stir in broth, soy sauce, Worcestershire, and bay leaf until combined. Add beef and bring to simmer. Cover and transfer to oven. Cook until beef is tender, about 1 1/4 hours.","Remove filling from oven and increase oven temperature to 400 degrees. Transfer filling to 9-inch deep-dish pie plate; discard bay leaf. Let filling cool, uncovered, for 30 minutes. Stir in peas and 1 teaspoon chopped thyme. Season with salt and pepper to taste.","Brush rim and interior lip of pie plate with egg. Top filling with pie dough so dough overhangs edges of pie plate slightly. Fold overhanging pie dough inward so folded edge is flush with inner edge of pie plate. Crimp dough evenly around edge of pie using your fingers.","Using paring knife, cut 1/2-inch hole in center of pie. Cut six 1/2-inch slits around hole, halfway between center and edge of pie. Brush dough with remaining egg, then season with salt, pepper, and remaining 1/2 teaspoon chopped thyme. Transfer pie to rimmed baking sheet and bake until crust is golden brown, about 30 minutes. Transfer pie to cooling rack and let cool for 20 minutes. Serve."]
+nutrition: ["979 mg Potassium","407 mg Phosphorus","75 mg Calcium","5 mg Iron","58 mg Magnesium","882 mg Sodium","12 mg Zinc","28 g Fat","9 mg Niacin (B3)","15 g Monounsaturated","3 g Polyunsaturated","9 mg Vitamin C","134 mg Cholesterol","8 g Saturated","1 g Trans","2 g Fiber","8 µg Folic acid","37 µg Folate (food)","4 g Sugars","14 µg Vitamin K","278 g Water","17 g Carbs","52 µg Folate equivalent (total)","35 g Protein","2 mg Vitamin E","4 µg Vitamin B12","217 µg Vitamin A","471 kcal Energy","2827 calories"]
+notes: "You should have about 1 3/4 pounds of meat after trimming. Note that only half of the meat is browned. You can use button mushrooms instead of the cremini. Our favorite store-bought crust is Wholly Wholesome 9 Certified Organic Traditional Bake at Home Rolled Pie Dough."
+---

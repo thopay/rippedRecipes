@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Cinnamon Swirl Raisin Bread
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Soft, sweet bread enriched by a pretty swirl of cinnamon sugar sounds appealing-but the problems can spiral out of control."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/5843_sfs-am07-opn-4c-cinnamonswirltoast-2
+tags: ["Desserts or Baked Goods","Breads","Breakfast & Brunch"]
+calories: 3734
+protein: 11
+carbohydrates: 87
+fats: 8
+fiber: 3
+ingredients: ["1/2 cup (3½ ounces), granulated sugar","1/4 cup packed (1¾ ounces), light brown sugar","5 teaspoons, ground cinnamon","1 1/2 cups, milk, heated to 110 degrees","3 tablespoons, unsalted butter, melted, plus 1 tablespoon unsalted butter","3 , large egg yolks","4 1/4 cups (21¼ ounces), all-purpose flour, plus extra as needed","2 1/4 teaspoons, rapid-rise yeast","1 tablespoon, sugar","1 1/2 teaspoons, salt","1/2 cup, raisins"]
+serves: 8
+time: "1½ hours, plus 2 to 2½ hours rising and 2 hours cooling"
+instructions: ["For the cinnamon sugar: Combine ingredients in small bowl, breaking up clumps. Cover tightly with plastic wrap.","For the bread: Spray large bowl with cooking spray. Whisk milk, melted butter, and yolks in large liquid measuring cup. Mix 1/4 cup cinnamon sugar, yeast, sugar, flour, and salt in large bowl of standing mixer fitted with dough hook. Turn mixer to low and slowly add milk mixture. After dough comes together, increase speed to medium and mix until dough is smooth and comes away from sides of bowl, 5 to 6 minutes. (If dough seems too sticky, add up to 1/4 cup more flour during kneading.) Turn dough out onto unfloured counter and knead raisins in by hand until evenly distributed. Knead to form smooth, round ball. Transfer dough to greased bowl and turn to coat. Cover bowl with plastic wrap and let rise in warm place until doubled in size, about 1 hour. (Do not place in warm oven, or sugar in dough will melt.)","Spray 9 by 5-inch loaf pan with cooking spray. On lightly floured surface, press dough into 20 by 8-inch rectangle, with short side facing you. Using spray bottle, lightly and evenly spray dough with water. Sprinkle 1/2 cup cinnamon sugar over dough, leaving 2-inch border along top edge. Lightly spray cinnamon sugar with water until damp but not wet. Starting at edge nearest you, roll up dough, then pinch seam and ends closed. Place loaf seam side down in prepared pan, cover loosely with plastic wrap, and let rise at room temperature until 1 inch above rim of pan, 1 to 1 1/2 hours.","Adjust oven rack to middle position and heat oven to 350 degrees. Melt remaining 1 tablespoon butter and brush over top of dough. Sprinkle with remaining cinnamon sugar and bake until top is deep brown and center of bread registers 185 to 190 degrees on instant-read thermometer, 45 to 60 minutes. Turn bread out onto rack and cool to room temperature, about 2 hours. Slice as desired. (Bread can be kept in airtight container at room temperature for up to 3 days.)"]
+nutrition: ["241 mg Potassium, K","163 mg Phosphorus, P","97 mg Calcium, Ca","4 mg Iron, Fe","26 mg Magnesium, Mg","379 mg Sodium, Na","8 g Total lipid (fat)","5 mg Niacin","2 g Fatty acids, total monounsaturated","1 µg Vitamin D (D2 + D3)","85 mg Cholesterol","4 g Fatty acids, total saturated","3 g Fiber, total dietary","115 µg Folic acid","60 µg Folate, food","26 g Sugars, total","1 µg Vitamin K (phylloquinone)","55 g Water","87 g Carbohydrate, by difference","257 µg Folate, DFE","11 g Protein","82 µg Vitamin A, RAE","466 kcal Energy","18 g Sugars, added","3734 calories"]
+notes: "You will need a spray bottle filled with water for this recipe. Whole milk is best in the dough, although low-fat milk will work; skim milk will make the bread too dry."
+---

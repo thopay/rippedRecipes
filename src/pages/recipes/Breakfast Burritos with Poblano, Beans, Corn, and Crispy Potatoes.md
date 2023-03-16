@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Breakfast Burritos with Poblano, Beans, Corn, and Crispy Potatoes
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Its never too early for extra-crispy tater tots."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BreakfastBurritosPoblanoBeansCornCrispyPotatoes-20_deqcu9
+tags: ["Main Courses","Southwest (Tex-Mex)","Vegetables","Eggs","Beans","Breakfast & Brunch"]
+calories: 2804
+protein: 28
+carbohydrates: 47
+fats: 
+fiber: 5
+ingredients: ["¼ cup, sour cream","2 tablespoons, minced canned chipotle chile in adobo sauce","2 teaspoons, lime juice","1 , garlic clove, minced","¼ teaspoon, cayenne pepper","1/4 teaspoon, table salt","6 tablespoons, vegetable oil, divided","2 cups, frozen tater tots, thawed and patted dry","1 , poblano chile, stemmed, seeded, and chopped","½ cup, canned pinto bean, rinsed","½ cup, frozen corn","¼ cup chopped, onion","1 teaspoon, chili powder","½ teaspoon, table salt","8 , large eggs, beaten","3 ounces, sharp cheddar cheese, shredded (¾ cup)","4 (10-inch), flour tortillas"]
+serves: 4
+time: "55 minutes"
+instructions: ["FOR THE CHIPOTLE SOUR CREAM: Stir all ingredients together in bowl; set aside.","FOR THE BURRITOS: Heat 3 tablespoons oil in 12-inch nonstick skillet over medium-high heat until shimmering. Add tater tots to skillet and press with spatula or underside of dry measuring cup to flatten slightly. Cook until crispy and deep golden brown, about 4 minutes per side. Transfer tater tots to paper towel–lined plate and set aside. Wipe skillet clean with paper towels.","Heat 2 tablespoons oil in now-empty skillet over medium heat until shimmering. Add poblano, beans, corn, onion, chili powder, and salt and cook until softened, 6 to 8 minutes. Add eggs and, using heat-resistant rubber spatula, constantly and firmly scrape along bottom and sides of skillet until eggs begin to clump and spatula leaves trail on bottom of skillet, about 2 minutes. Reduce heat to low and add cheddar. Gently but constantly fold eggs until clumped and slightly wet, 30 to 60 seconds. Remove from heat and cover to keep warm.","Wrap tortillas in damp dish towel and microwave until warm and pliable, about 1 minute. Arrange tortillas on counter. Spread about 1½ tablespoons chipotle sour cream across bottom third of each tortilla, leaving 1-inch border. Divide tater tots and eggs evenly over chipotle sour cream. Working with 1 burrito at a time, fold sides of tortilla over filling, then fold up bottom of tortilla and roll tightly around filling.","Wipe skillet clean with paper towels. Heat remaining 1 tablespoon oil in now-empty skillet over medium heat until shimmering. Arrange burritos in skillet seam side down and cook until crisp and golden, about 1 minute per side. Serve."]
+nutrition: ["699 mg Potassium","543 mg Phosphorus","331 mg Calcium","5 mg Iron","81 mg Magnesium","673 mg Sodium","3 mg Zinc","44 g Fat","3 mg Niacin (B3)","23 g Monounsaturated","7 g Polyunsaturated","27 mg Vitamin C","2 µg Vitamin D","401 mg Cholesterol","10 g Saturated","5 g Fiber","49 µg Folic acid","201 µg Folate (food)","4 g Sugars","7 µg Vitamin K","151 g Water","47 g Carbs","284 µg Folate equivalent (total)","28 g Protein","6 mg Vitamin E","1 µg Vitamin B12","262 µg Vitamin A","701 kcal Energy","2804 calories"]
+notes: "If you are spice averse, omit the cayenne pepper and reduce the chipotle chile to 1 tablespoon. To thaw frozen tater tots, either let them sit in the refrigerator for 24 hours or arrange them on a paper towel–lined plate and microwave them for 1½ minutes. Its important to follow the visual cues when making the eggs, as your skillets thickness will affect the cooking time. If youre using an electric stovetop, heat a second burner on low and move the skillet to it when its time to adjust the heat for the eggs. You can serve the burritos right after theyre rolled, if you prefer, but we like the crispy texture the tortillas get from browning them in step 5."
+---

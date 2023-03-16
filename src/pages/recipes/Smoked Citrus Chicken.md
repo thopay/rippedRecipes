@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Smoked Citrus Chicken
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "It’s inspiring—and delicious—when citrus, smoke, and spice come together."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_SmokedCitrusChicken_015_u8o3oq
+tags: ["Main Courses","Chicken","Grilling & Barbecue"]
+calories: 3457
+protein: 42
+carbohydrates: 2
+fats: 43
+fiber: 
+ingredients: ["¼ cup, extra-virgin olive oil","4 , garlic cloves, minced","1 tablespoon, kosher salt","1½ teaspoons, grated orange zest, plus orange wedges for serving","1½ teaspoons, ground cumin","1 teaspoon, grated lemon zest, plus lemon wedges for serving","¾ teaspoon, ground cinnamon","½ teaspoon, pepper","⅛ teaspoon, cayenne pepper","3 pounds, bone-in chicken pieces (split breasts cut in half crosswise, drumsticks, and/or thighs), trimmed","1 cup, wood chips"]
+serves: 6
+time: "1½ hours, plus 1 hour marinating"
+instructions: ["Whisk oil, garlic, salt, orange zest, cumin, lemon zest, cinnamon, pepper, and cayenne together in large bowl. Cut two ½-inch-deep slits in skin side of each chicken breast half, two ½-inch-deep slits in skin side of each thigh, and two ½-inch-deep slits in each drumstick. Transfer chicken to bowl with marinade and turn to thoroughly coat. Cover and refrigerate for at least 1 hour or up to 24 hours.","Using large piece of heavy-duty aluminum foil, wrap wood chips in 8 by 4-inch foil packet. (Make sure chips do not poke holes in sides or bottom of packet.) Cut 2 evenly spaced 2-inch slits in top of packet.","FOR A CHARCOAL GRILL: Open bottom vent completely. Light large chimney starter mounded with charcoal briquettes (7 quarts). When top coals are partially covered with ash, pour evenly over half of grill. Place wood chip packet on coals. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.","FOR A GAS GRILL: Remove cooking grate and place wood chip packet directly on primary burner. Set grate in place; turn all burners to high; cover; and heat grill until hot, about 15 minutes. Leave primary burner on high and turn off other burner(s). (Adjust primary burner [or, if using 3-burner grill, primary burner and second burner] as needed to maintain grill temperature between 350 and 400 degrees.)","Clean and oil cooking grate. Place chicken skin side up on cooler side of grill, with breast pieces farthest away from heat. Cover and cook until breasts register 160 degrees and drumsticks/thighs register 175 degrees, 22 to 28 minutes, transferring pieces to plate, skin side up, as they come to temperature. (Re-cover grill after checking pieces for doneness.)","Transfer chicken, skin side down, to hotter side of grill. Cook until skin is well browned, 2 to 5 minutes, moving pieces as needed for even browning. Transfer chicken to platter, tent with foil, and let rest for 10 minutes. Serve with orange and lemon wedges."]
+nutrition: ["460 mg Potassium, K","340 mg Phosphorus, P","41 mg Calcium, Ca","2 mg Iron, Fe","49 mg Magnesium, Mg","568 mg Sodium, Na","3 mg Zinc, Zn","43 g Total lipid (fat)","15 mg Niacin","20 g Fatty acids, total monounsaturated","8 g Fatty acids, total polyunsaturated","7 mg Vitamin C, total ascorbic acid","170 mg Cholesterol","11 g Fatty acids, total saturated","15 µg Folate, food","9 µg Vitamin K (phylloquinone)","155 g Water","2 g Carbohydrate, by difference","15 µg Folate, DFE","42 g Protein","2 mg Vitamin E (alpha-tocopherol)","94 µg Vitamin A, RAE","576 kcal Energy","3457 calories"]
+notes: "If you prefer, you can use two wood chunks in place of the wood chip packet if youre using a charcoal grill. We tested this recipe with applewood, cherrywood, and hickory wood chips, but feel free to use any type of wood chips you like."
+---

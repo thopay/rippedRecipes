@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Country-Fried Steak
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This classic chuckwagon recipe needed to be lassoed in."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_CountryFriedSteakWithGravy-21_vvuldm
+tags: ["Main Courses","American","Southern","Beef"]
+calories: 4613
+protein: 48
+carbohydrates: 69
+fats: 
+fiber: 2
+ingredients: ["4 (4- to 6-ounce), cube steaks, trimmed","1/4 cup, water","1 1/2 teaspoons, table salt, divided","1/4 teaspoon, baking soda","1 cup, all-purpose flour, divided","3/4 cup, buttermilk","1 , large egg","35 square, saltines","1/2 cup, cornstarch","2 teaspoons, pepper","1 teaspoon, baking powder","1 teaspoon, dried oregano","1 teaspoon, granulated garlic","1/4 teaspoon, cayenne pepper","1 1/2 cups peanut or, vegetable oil for frying","2 tablespoons, all-purpose flour","1 1/2 cups, whole milk","1/4 teaspoon, table salt","1/4 teaspoon, pepper"]
+serves: 4
+time: "1¾ hours, plus 1 hour marinating"
+instructions: ["FOR THE STEAK: Using meat pounder, pound each steak to even ¼-inch thickness between 2 sheets of plastic wrap. Whisk water, 1 teaspoon salt, and baking soda in medium bowl until baking soda and salt are dissolved. Add steaks and toss until coated and no liquid pools at bottom of bowl. Let sit for 15 minutes.","Meanwhile, place ½ cup flour in shallow dish. Whisk buttermilk and egg together in second shallow dish. Place saltines in large zipper-lock bag, seal bag, and crush to fine crumbs with rolling pin. Whisk saltine crumbs, cornstarch, pepper, baking powder, oregano, granulated garlic, cayenne, remaining ½ teaspoon salt, and remaining ½ cup flour together in third shallow dish.","Pat steaks dry with paper towels. Working with 1 steak at a time, dredge steaks in flour, shaking off excess; dip in buttermilk mixture, allowing excess to drip off; then coat with saltine mixture, pressing firmly to adhere. Transfer steaks to parchment paper–lined rimmed baking sheet; refrigerate for at least 1 hour or up to 2 hours.","Adjust oven rack to middle position and heat oven to 200 degrees. Set wire rack in second rimmed baking sheet and line half of rack with triple layer of paper towels. Heat oil in 12-inch nonstick skillet over medium-high heat to 375 degrees (to take temperature, tilt skillet so oil pools to 1 side). Carefully place 2 steaks side by side in skillet (they may overlap slightly; this is OK).","Cook until evenly well browned on bottom, 3 to 5 minutes. Using 2 spatulas, carefully flip steaks and continue to cook until evenly well browned on second side, 3 to 5 minutes longer, gently pressing on steaks with spatula as needed for even browning.","Transfer steaks to paper towel–lined side of prepared rack to drain for about 15 seconds per side, then move to unlined side of rack and transfer sheet to oven. Return oil to 375 degrees and repeat with remaining steaks.","FOR THE GRAVY: Carefully pour hot oil from skillet into heatproof container. Add 2 tablespoons hot oil back to skillet and place skillet over medium heat (discard remaining oil). Whisk in flour and cook until mixture is peanut butter–colored, about 3 minutes, whisking often. Gradually whisk in milk, salt, and pepper. Bring to boil and cook until thickened, about 2 minutes.","Serve with steaks with gravy."]
+nutrition: ["617 mg Potassium","555 mg Phosphorus","279 mg Calcium","6 mg Iron","57 mg Magnesium","1033 mg Sodium","7 mg Zinc","74 g Fat","10 mg Niacin (B3)","47 g Monounsaturated","11 g Polyunsaturated","1 µg Vitamin D","163 mg Cholesterol","10 g Saturated","2 g Fiber","84 µg Folic acid","39 µg Folate (food)","7 g Sugars","13 µg Vitamin K","241 g Water","69 g Carbs","183 µg Folate equivalent (total)","48 g Protein","13 mg Vitamin E","2 µg Vitamin B12","71 µg Vitamin A","1153 kcal Energy","4613 calories"]
+notes: "There are about 35 crackers in one sleeve of saltines. Use more or less cayenne to suit your taste."
+---

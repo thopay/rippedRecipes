@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Hummingbird Cake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Somewhere this beloved Southern cake took a wrong turn. The combination of pineapples, bananas, and pecans should be fantastic. Instead, recipes yielded heavy, bland cakes."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/20392_sfs-hummingbirdcake-v3-30
+tags: ["Desserts or Baked Goods","Cakes","Cookbook Collection"]
+calories: 13567
+protein: 8
+carbohydrates: 108
+fats: 
+fiber: 3
+ingredients: ["2 (8-ounce) cans, crushed pineapple in juice","3 cups (15 ounces), all-purpose flour","2 teaspoons, baking powder","1 teaspoon, baking soda","1 teaspoon, ground cinnamon","1 teaspoon, salt","2 cups (14 ounces), granulated sugar","3 , large eggs","1 cup, vegetable oil","4 very ripe, large bananas, peeled and mashed (2 cups)","1 1/2 cups, pecans, toasted and chopped","2 teaspoons, vanilla extract","20 tablespoons, unsalted butter, softened","5 cups (20 ounces), confectioners' sugar","2 1/2 teaspoons, vanilla extract","1/2 teaspoon, salt","20 ounces, cream cheese, chilled and cut into 20 equal pieces","1/2 cup, pecans, toasted and chopped"]
+serves: 14
+time: "2 hours, plus 2⅓ hours cooling and 1 hour chilling"
+instructions: ["FOR THE CAKE: Adjust oven rack to middle position and heat oven to 350 degrees. Grease 2 light-colored 9-inch round cake pans, line with parchment paper, grease parchment, and flour pans. Drain pineapple in fine-mesh strainer set over bowl, pressing to remove juice. Pour juice into small saucepan and cook over medium heat until reduced to 1/3 cup, about 5 minutes; set aside.","Whisk flour, baking powder, baking soda, cinnamon, and salt together in bowl. Whisk sugar and eggs together in separate large bowl; whisk in oil. Stir in bananas, pecans, vanilla, drained pineapple, and reduced pineapple juice. Stir in flour mixture until just combined.","Divide batter evenly between prepared pans and smooth tops with rubber spatula. Bake until dark golden brown on top and toothpick inserted in center comes out clean, 50 to 55 minutes, rotating pans halfway through baking. Let cakes cool in pans on wire rack for 20 minutes. Remove cakes from pans, discarding parchment, and let cool completely on rack, about 2 hours.","FOR THE FROSTING: Using stand mixer fitted with paddle, beat butter, sugar, vanilla, and salt together on low speed until smooth; continue to mix for 2 minutes, scraping down bowl as needed. Increase speed to medium-low, add cream cheese 1 piece at a time, and mix until smooth; continue to mix for 2 minutes.","Place 1 cake layer on platter. Spread 2 cups frosting evenly over top, right to edge of cake. Top with second cake layer, press lightly to adhere, then spread 2 cups frosting evenly over top. Spread remaining frosting evenly over sides of cake. To smooth frosting, run edge of offset spatula around cake sides and over top. Sprinkle top of cake with pecans. Refrigerate cake for at least 1 hour before serving. (Cake can be refrigerated for up to 2 days.)"]
+nutrition: ["296 mg Potassium","214 mg Phosphorus","122 mg Calcium","2 mg Iron","41 mg Magnesium","558 mg Sodium","1 mg Zinc","57 g Fat","2 mg Niacin (B3)","25 g Monounsaturated","7 g Polyunsaturated","4 mg Vitamin C","128 mg Cholesterol","20 g Saturated","3 g Fiber","46 µg Folic acid","28 µg Folate (food)","78 g Sugars","3 µg Vitamin K","83 g Water","108 g Carbs","108 µg Folate equivalent (total)","8 g Protein","4 mg Vitamin E","305 µg Vitamin A","969 kcal Energy","73 g Sugars, added","13567 calories"]
+notes: "Toast a total of 2 cups of pecans to divide between the cake and the frosting. The cake will slice more cleanly if you refrigerate it for at least 1 hour."
+---

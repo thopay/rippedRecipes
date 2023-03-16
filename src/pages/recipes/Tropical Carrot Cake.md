@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Tropical Carrot Cake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Our tropical carrot cake uses coconut and pineapple to give carrot cake a fruity twist."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/5797_sfs-am07-opn-4c-tropicalcarrotcake3-290881
+tags: ["Desserts or Baked Goods","Cakes"]
+calories: 12211
+protein: 8
+carbohydrates: 105
+fats: 
+fiber: 3
+ingredients: ["1 pound, frozen pineapple chunks, thawed","1/2 cup, frozen pineapple juice concentrate, thawed","6 tablespoons (1½ ounces), cornstarch","2 1/2 cups (12½ ounces), all-purpose flour","1 tablespoon, baking powder","4 teaspoons, pumpkin pie spice","3/4 teaspoon, ground ginger","1/2 teaspoon, table salt","12 ounces, carrots (about 6 medium), peeled and cut into 1-inch chunks","1 cup (3 ounces), sweetened shredded coconut","1 1/4 cups (8¾ ounces), granulated sugar","1/2 cup packed (3½ ounces), light brown sugar","4 , large eggs","1 1/2 cups, vegetable oil","12 tablespoons, unsalted butter, softened","3 cups (12 ounces), confectioners' sugar","16 ounces, cream cheese, cut into 8 pieces and softened","Pinch, table salt","3 cups (9 ounces), sweetened shredded coconut, toasted"]
+serves: 12
+time: "2 hours, plus 1½ hours chilling"
+instructions: ["FOR THE PUDDING: Process pineapple chunks and concentrate in food processor until smooth. Transfer to medium saucepan and whisk in cornstarch until smooth. Bring to simmer over medium heat and cook, stirring constantly, until thickened, about 2 minutes. Transfer to bowl and refrigerate until cold, at least 1 1/2 hours.","FOR THE CAKE: Adjust oven rack to middle position and heat oven to 350 degrees. Spray two 9-inch cake pans with cooking spray. Line pans with parchment and spray parchment with cooking spray. Whisk flour, baking powder, pumpkin pie spice, ginger, and salt in large bowl.","Process carrots in food processor until finely ground. Transfer to large bowl and wipe processor bowl dry. Process coconut with granulated sugar until coconut is finely chopped. Add brown sugar and eggs and blend until mixture is smooth, about 1 minute. With machine running, slowly pour in oil and process until combined.","Transfer mixture to bowl with carrots. Add flour mixture and 3/4 cup pudding mixture and stir until no streaks of flour remain. Pour into prepared pans and bake until toothpick inserted into center of cake comes out clean, 30 to 35 minutes, rotating pans halfway through baking time. Cool cakes in pans 10 minutes, then turn out onto rack, peel off parchment, and let cool completely, about 2 hours.","FOR THE FROSTING: With electric mixer at medium-high speed, beat butter and sugar until fluffy, about 2 minutes. Add cream cheese, 1 piece at a time, and beat until incorporated. Beat in remaining 1 cup pineapple pudding and salt. (Mixture will appear slightly grainy.) Refrigerate until ready to use.","When cakes are cooled, spread 2 cups frosting on 1 cake. Top with second cake and spread top and sides with remaining frosting. Refrigerate for 15 minutes. Sprinkle toasted coconut on top and press into sides of cake. Cover and refrigerate until ready to serve, up to 2 days."]
+nutrition: ["365 mg Potassium","268 mg Phosphorus","168 mg Calcium","2 mg Iron","37 mg Magnesium","461 mg Sodium","1 mg Zinc","64 g Fat","2 mg Niacin (B3)","27 g Monounsaturated","6 g Polyunsaturated","21 mg Vitamin C","134 mg Cholesterol","25 g Saturated","3 g Fiber","45 µg Folic acid","37 µg Folate (food)","73 g Sugars","6 µg Vitamin K","109 g Water","105 g Carbs","114 µg Folate equivalent (total)","8 g Protein","7 mg Vitamin E","500 µg Vitamin A","1017 kcal Energy","54 g Sugars, added","12211 calories"]
+notes: "Youll need one 14-ounce bag of sweetened shredded coconut for this recipe. To toast the coconut for the frosting, spread it on a rimmed baking sheet and bake in a 325-degree oven, stirring often, until golden brown, about 15 minutes."
+---

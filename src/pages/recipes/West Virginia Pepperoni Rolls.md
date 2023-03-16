@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: West Virginia Pepperoni Rolls
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "From the land of ramps and fried pickles comes another unusual and delicious food.  "
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/9851_sfs-westvirginiapepperonirolls-19
+tags: ["Main Courses","Southern"]
+calories: 8126
+protein: 19
+carbohydrates: 48
+fats: 
+fiber: 1
+ingredients: ["4 (7- to 8-ounce) sticks, pepperoni, 8 inches long","1 1/2 cups, water","1 cup, whole milk","2 tablespoons plus 2 teaspoons, sugar","6 2/3 cups (33 1/3 ounces) plus 1 tablespoon, all-purpose flour, plus extra as needed","1 tablespoon, instant or rapid-rise yeast","2 teaspoons, salt","1 large, egg, beaten with 1 tablespoon water","4 teaspoons, sesame seeds"]
+serves: 16
+time: "2 hours, plus 2 hours rising"
+instructions: ["Line rimmed baking sheet with parchment paper. Cut pepperoni sticks in half crosswise, then cut each half in half lengthwise. Slice each quarter lengthwise into four 4-inch wedges. (You should have 64 wedges.) Place pepperoni in large bowl and microwave until fat is rendered, about 3 minutes. Using tongs, transfer pepperoni to paper towel–lined plate; reserve 3 tablespoons pepperoni oil. Do not wash bowl.","Combine water, milk, and sugar in 4-cup liquid measuring cup. Microwave until temperature registers 110 degrees, 1 to 2 minutes. Stir in reserved pepperoni oil.","Using stand mixer fitted with dough hook, mix 6 2/3 cups flour, yeast, and salt on low speed until combined, about 30 seconds. With mixer running, slowly add water mixture until incorporated. Increase speed to medium and mix until dough is shiny and smooth and pulls away from sides of bowl, about 8 minutes. (If dough appears wet, add additional flour 1 tablespoon at a time.) Turn dough onto lightly floured counter and knead briefly to form cohesive ball. Transfer dough to reserved bowl and turn to coat with residual pepperoni oil in bowl. Cover with plastic wrap and let rise in warm place until doubled in size, 50 to 60 minutes.","Transfer dough to lightly floured counter and divide into 16 equal (3 1/2-ounce) pieces. Working with 1 piece at a time (keep remaining pieces covered with plastic), form dough into balls, cover with plastic, and let rest for 5 minutes.","Toss pepperoni wedges with remaining 1 tablespoon flour to coat. Working with 1 dough ball at a time, use hands to press ball into 6 by 4-inch rectangle. Starting along short side of rectangle, lay 4 pieces of pepperoni side by side, 1/2 inch apart, and roll into tight cylinder, pinching seam to seal. Leave ends of rolls open. Arrange rolls seam side down on prepared baking sheet, end to end, 1/2 inch apart, and 4 per row. Cover with plastic and let rise until doubled in size, 50 to 60 minutes. Adjust oven rack to middle position and heat oven to 375 degrees.","Brush rolls with egg mixture and sprinkle with sesame seeds. Bake until golden brown, 24 to 28 minutes. Transfer baking sheet to wire rack and let cool for at least 15 minutes. Serve. (Baked and cooled rolls can be wrapped in plastic, placed in a zipper-lock bag, and frozen for up to 1 month. To reheat, adjust oven rack to middle position and heat oven to 350 degrees. Remove plastic and wrap each roll in foil. Bake directly on oven rack until heated through, 35 to 45 minutes.)"]
+nutrition: ["247 mg Potassium","186 mg Phosphorus","47 mg Calcium","3 mg Iron","29 mg Magnesium","949 mg Sodium","1 mg Zinc","24 g Fat","6 mg Niacin (B3)","9 g Monounsaturated","2 g Polyunsaturated","68 mg Cholesterol","8 g Saturated","1 g Fiber","91 µg Folic acid","40 µg Folate (food)","3 g Sugars","3 µg Vitamin K","60 g Water","48 g Carbs","196 µg Folate equivalent (total)","19 g Protein","1 µg Vitamin B12","12 µg Vitamin A","507 kcal Energy","2 g Sugars, added","8126 calories"]
+notes: "Our favorite pepperoni is Margherita Italian Style Pepperoni."
+---

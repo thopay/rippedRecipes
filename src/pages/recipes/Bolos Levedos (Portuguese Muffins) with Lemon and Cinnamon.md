@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Bolos Levedos (Portuguese Muffins) with Lemon and Cinnamon
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Once you have these Portuguese breakfast treats around the house, you’ll find dozens of ways to enjoy them."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BolosLevedos-87_zffmj3
+tags: ["Desserts or Baked Goods","Spanish & Portuguese","Breads"]
+calories: 2723
+protein: 8
+carbohydrates: 57
+fats: 
+fiber: 1
+ingredients: ["2/3 cup, water","1/4 cup (1¼ ounces), all-purpose flour","6 tablespoons, whole milk","4 tablespoons, unsalted butter, cut into 4 pieces and softened","2 , large eggs","3 cups (15 ounces), all-purpose flour, plus extra for shaping","1 1/2 teaspoons, grated lemon zest","1 teaspoon, instant or rapid-rise yeast","1/4 teaspoon, ground cinnamon","1/2 cup (3½ ounces), sugar","1 teaspoon, table salt","1 teaspoon, vegetable oil"]
+serves: 8
+time: "1½ hours, plus 2½ hours rising and cooling"
+instructions: ["FOR THE FLOUR PASTE: Whisk water and flour in medium bowl until no lumps remain. Microwave, whisking every 20 seconds, until mixture thickens to stiff, smooth, pudding-like consistency, 40 to 80 seconds. Transfer paste to bowl of stand mixer.","FOR THE DOUGH: Whisk milk into flour paste in stand mixer until combined. Whisk in butter until fully incorporated. Whisk in eggs until fully incorporated.","Add flour, lemon zest, yeast, and cinnamon to paste mixture. Fit mixer with dough hook and mix on low speed until dough comes together and no dry flour remains, about 2 minutes. Turn off mixer, cover bowl with dish towel or plastic wrap, and let dough stand for 15 minutes.","Add sugar and salt to dough and mix on low speed until incorporated, about 1 minute. Increase speed to medium and mix until dough is elastic and pulls away from sides of bowl but still sticks to bottom (dough will be sticky), about 8 minutes. Transfer dough to greased large bowl; cover tightly with plastic wrap; and let rise until doubled in size, about 1½ hours.","Line rimmed baking sheet with parchment paper. Turn out dough onto clean counter and divide into 8 equal pieces, about 4 ounces each. Working with 1 piece of dough at a time, cup dough with your palm and roll against counter in circular motion into smooth, tight ball.","Place ¼ cup flour on counter. Working with 1 dough ball at a time, turn dough ball in flour and press with your hand to flatten into 3½- to 4-inch disk. Transfer dough disks to prepared sheet. Lay second sheet of parchment over dough disks, then place second rimmed baking sheet on top to keep disks flat during second rise. Let rise for 30 minutes. Adjust oven rack to middle position and heat oven to 350 degrees.","Heat oil in 12-inch nonstick skillet over medium-low heat until shimmering. Using paper towels, carefully wipe out oil from skillet.","Transfer 4 dough disks to skillet and cook until deeply browned on both sides, 2 to 4 minutes per side. Return toasted disks to sheet. Repeat with remaining 4 dough disks.","Bake until muffins register 190 degrees in center, 11 to 14 minutes. Transfer muffins to wire rack and let cool for 30 minutes. Serve. (Muffins can be stored in airtight container for up to 3 days or frozen for up to 1 month.)"]
+nutrition: ["101 mg Potassium","101 mg Phosphorus","32 mg Calcium","2 mg Iron","16 mg Magnesium","284 mg Sodium","8 g Fat","3 mg Niacin (B3)","2 g Monounsaturated","62 mg Cholesterol","4 g Saturated","1 g Fiber","88 µg Folic acid","35 µg Folate (food)","13 g Sugars","47 g Water","57 g Carbs","185 µg Folate equivalent (total)","8 g Protein","73 µg Vitamin A","340 kcal Energy","12 g Sugars, added","2723 calories"]
+notes: "If you don’t own a microwave, the flour paste can also be made in a small sauce- pan over medium heat. Just be sure to whisk it constantly so that the ingredients don’t scorch. Split the muffins with a knife. Serve them with butter."
+---

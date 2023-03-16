@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Italian Steak Modiga
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This St. Louis specialty features a juicy steak topped with crunchy bread crumbs and a buttery, cheese-enriched sauce."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Steak_Modiga-9_x3yp1u
+tags: ["Main Courses","Italian","Beef","Weeknight","Cookbook Collection"]
+calories: 4044
+protein: 91
+carbohydrates: 19
+fats: 60
+fiber: 1
+ingredients: ["4 (10- to 12-ounce), boneless strip steaks, about 1 inch thick, trimmed",", Salt and pepper","1 tablespoon, unsalted butter","8 ounces, white mushrooms, trimmed and sliced thin","1/4 cup, dry white wine","1 tablespoon, all-purpose flour","4 , garlic cloves, minced","1 cup, chicken broth","1/4 cup, heavy cream","1/4 cup plus 1 teaspoon, olive oil","1 cup, panko bread crumbs","1/4 cup, chopped fresh parsley","2 slices, deli provolone cheese (2 ounces), torn into 1-inch pieces"]
+serves: 4
+time: "55 minutes"
+instructions: ["Adjust oven rack to middle position and heat oven to 400 degrees. Set wire rack in rimmed baking sheet. Pat steaks dry with paper towels and season with salt and pepper; set aside.","Melt butter in large saucepan over medium-high heat. Add mushrooms, 1/2 teaspoon salt, and 1/2 teaspoon pepper and cook until liquid has evaporated and mushrooms begin to brown, 5 to 7 minutes. Add wine and cook until evaporated, about 3 minutes.","Stir in flour and half of garlic and cook until mushrooms are well coated and garlic is fragrant, about 1 minute. Stir in broth and cream, scraping up any browned bits. Bring to boil and cook until slightly thickened, about 3 minutes. Remove from heat, cover, and keep warm.","Pour 1/4 cup oil into shallow dish. Process panko in food processor until finely ground, about 10 seconds. Combine 3 tablespoons parsley, ground panko, remaining garlic, 3/4 teaspoon salt, and 3/4 teaspoon pepper in second shallow dish.","Working with 1 steak at a time, add to oil and turn to coat on all sides. Transfer oiled steak to panko mixture and press firmly to coat only 1 side of steak with mixture. Transfer steak, breaded side up, to prepared wire rack and let sit for 5 minutes.","Heat remaining 1 teaspoon oil in 12-inch nonstick skillet over mediumhigh heat until shimmering. Place steaks in skillet, breaded side down, and cook until well browned, about 3 minutes. Flip steaks and continue to cook until well browned on second side, about 3 minutes. Return steaks to wire rack, breaded side up.","Roast until meat registers 120 to 125 degrees (for medium-rare), 4 to 7 minutes. Let steaks cool on wire rack for 5 minutes while finishing sauce.","Return sauce to simmer over medium heat. Whisk in provolone until melted, about 1 minute. Serve steaks with sauce, sprinkled with remaining 1 tablespoon parsley."]
+nutrition: ["1391 mg Potassium, K","919 mg Phosphorus, P","209 mg Calcium, Ca","11 mg Iron, Fe","74 mg Magnesium, Mg","1199 mg Sodium, Na","14 mg Zinc, Zn","60 g Total lipid (fat)","19 mg Niacin","29 g Fatty acids, total monounsaturated","3 g Fatty acids, total polyunsaturated","1 mg Riboflavin","7 mg Vitamin C, total ascorbic acid","309 mg Cholesterol","22 g Fatty acids, total saturated","1 g Fatty acids, total trans","1 g Fiber, total dietary","3 µg Folic acid","41 µg Folate, food","3 g Sugars, total","78 µg Vitamin K (phylloquinone)","313 g Water","19 g Carbohydrate, by difference","46 µg Folate, DFE","91 g Protein","2 mg Vitamin E (alpha-tocopherol)","12 µg Vitamin B-12","2 mg Vitamin B-6","155 µg Vitamin A, RAE","1011 kcal Energy","4044 calories"]
+notes: "Note that only one side of the steak is coated with bread crumbs; the other sides remain bare."
+---

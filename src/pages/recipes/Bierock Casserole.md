@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Bierock Casserole
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Bierocks—handheld buns filled with beef, cabbage, and cheese—are definitely tasty, but they take a long time to make. We wanted the same great flavors in casserole form."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/23735_sfs-bierock-casserole-7
+tags: ["Main Courses","Beef","Casseroles"]
+calories: 5557
+protein: 43
+carbohydrates: 44
+fats: 
+fiber: 4
+ingredients: ["1 cup, whole milk","1 tablespoon, instant or rapid-rise yeast","2 tablespoons, sugar","2 cups (10 ounces), all-purpose flour","1 3/4 teaspoons, baking powder","1/2 teaspoon, salt","2 tablespoons, unsalted butter, melted","1 tablespoon, vegetable oil","3 pounds, 85 percent lean ground beef","1 small head, green cabbage, cored and chopped fine (8 cups)","2 , onions, chopped fine",", Salt and pepper","1 tablespoon, all-purpose flour","6 ounces, American cheese, chopped","2 tablespoons, yellow mustard","1 large, egg beaten with 1 tablespoon water"]
+serves: 8
+time: "1 hour, plus 30 minutes rising and 20 minutes cooling"
+instructions: ["FOR THE DOUGH: Microwave 1/4 cup milk in small bowl until it registers 110 degrees, 15 to 20 seconds. Stir in yeast and 1 teaspoon sugar and let sit until mixture is bubbly, about 5 minutes.","Whisk flour, baking powder, salt, and remaining 5 teaspoons sugar together in large bowl. Stir in melted butter, yeast mixture, and remaining 3/4 cup milk until dough forms (dough will be sticky). Transfer dough to well-floured counter and knead until smooth ball forms, about 2 minutes. Transfer dough to greased large bowl, cover tightly with plastic wrap, and let rise for 30 minutes.","FOR THE FILLING: Meanwhile, adjust oven rack to middle position and heat oven to 375 degrees. Heat oil in Dutch oven over medium-high heat until just smoking. Add beef, cabbage, onions, 2 1/2 teaspoons salt, and 2 1/2 teaspoons pepper; cover and cook for 5 minutes. Uncover and continue to cook, breaking up beef with spoon, until beef is no longer pink and cabbage is wilted, 10 to 15 minutes. Stir in flour until fully incorporated and cook for 1 minute. Let beef mixture drain in colander set in sink for 5 minutes.","Return beef mixture to now-empty pot and stir in cheese and mustard. Season with salt and pepper to taste. Transfer filling to 13 by 9-inch baking dish and let cool for 10 minutes.","Roll dough into 18 by 12-inch rectangle. Brush rim and interior lip of dish with egg wash (reserve remainder). Loosely roll dough around rolling pin and unroll it over dish. Trim overhanging dough to 1/2 inch beyond lip of dish. Fold overhanging dough inward so folded edge is flush with inner edge of dish. Crimp dough evenly around edge of dish with your fingers.","Brush top of casserole liberally with remaining egg wash. Using paring knife, cut nine 1-inch vent holes in dough. Bake until crust is golden brown and filling is bubbling, about 20 minutes. Transfer casserole to wire rack and let cool for 20 minutes. Serve."]
+nutrition: ["900 mg Potassium","601 mg Phosphorus","300 mg Calcium","6 mg Iron","67 mg Magnesium","932 mg Sodium","9 mg Zinc","37 g Fat","10 mg Niacin (B3)","15 g Monounsaturated","1 g Polyunsaturated","34 mg Vitamin C","163 mg Cholesterol","15 g Saturated","1 g Trans","4 g Fiber","56 µg Folic acid","106 µg Folate (food)","8 g Sugars","72 µg Vitamin K","270 g Water","44 g Carbs","201 µg Folate equivalent (total)","43 g Protein","1 mg Vitamin E","4 µg Vitamin B12","60 µg Vitamin A","694 kcal Energy","3 g Sugars, added","5557 calories"]
+notes: "We prefer whole milk here, but reduced-fat milk will also work in the dough."
+---

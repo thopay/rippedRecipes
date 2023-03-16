@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Pecan Sour Cream Coffee Cake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Most coffee cakes arent much more than yellow cake swirled with a sugary streusel. We wanted something different: a light coffee cake flavored with pecans and warm spices."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/4657_sfs-coffeecake
+tags: ["Desserts or Baked Goods","Make Ahead","Breakfast & Brunch","Cakes","Cook's Country TV"]
+calories: 6992
+protein: 7
+carbohydrates: 59
+fats: 
+fiber: 1
+ingredients: ["1/2 cup, pecans, toasted, cooled, and ground fine","3 tablespoons packed, dark brown sugar","1 tablespoon, all-purpose flour","1 teaspoon, ground cinnamon","16 tablespoons, unsalted butter (2 sticks), cut into 1/2-inch pieces, at room temperature, plus 1 additional tablespoon for greasing pan","6 , large eggs","1 3/4 cups, sour cream","1/4 cup, maple syrup","1 1/2 tablespoons, vanilla extract","3 cups (15 ounces), all-purpose flour","1/2 cup, pecans, toasted, cooled, and ground fine","1 1/4 cups (8¾ ounces), granulated sugar","1 1/2 tablespoons, baking powder","1 1/4 teaspoons, baking soda","1 teaspoon, table salt","1 cup (4 ounces), confectioners' sugar","1 tablespoon, maple syrup","2 tablespoons, milk"]
+serves: 14
+time: ""
+instructions: ["For the streusel: Combine pecans, brown sugar, flour, and cinnamon in small bowl and set aside.","For the cake: Adjust oven rack to lowest position and heat oven to 350 degrees. Grease 12-cup nonstick Bundt pan with 1 tablespoon softened butter. Whisk eggs, sour cream, maple syrup, and vanilla together in medium bowl.","With electric mixer, mix flour, pecans, sugar, baking powder, baking soda, and salt on lowest setting in large bowl until combined. Add room-temperature butter and half of egg mixture and beat on lowest setting, taking care not to splatter ingredients, until mixture starts to come together, about 15 seconds. Scrape down sides of bowl, add remaining egg mixture, and beat on medium speed until batter is light and fluffy, about 2 minutes (scrape down sides of bowl again after 1 minute).","Add 5 cups batter to prepared Bundt pan, using rubber spatula to smooth out surface. Sprinkle streusel evenly over batter and then cover with remaining batter, spreading it out evenly.","Bake until skewer inserted into middle of cake comes out with a few crumbs attached, about 60 minutes. Cool cake in pan on wire rack for 30 minutes, then invert onto wire rack to cool completely before glazing, about 1 hour.","For Glaze: Whisk together sugar, syrup, and milk. Using fork or whisk, drizzle glaze over top and sides of cake. Slice and serve.","Make Ahead The finished cake can be wrapped in plastic and stored at room temperature for up to 3 days. If you want to plan ahead even further, wrap the cooled but unglazed cake in two layers of plastic and then one layer of foil and freeze the cake for several weeks. Defrost the wrapped cake overnight on the counter, glaze, and serve."]
+nutrition: ["161 mg Potassium","281 mg Phosphorus","180 mg Calcium","2 mg Iron","23 mg Magnesium","338 mg Sodium","1 mg Zinc","26 g Fat","1 mg Niacin (B3)","8 g Monounsaturated","2 g Polyunsaturated","129 mg Cholesterol","12 g Saturated","1 g Fiber","47 µg Folic acid","23 µg Folate (food)","34 g Sugars","2 µg Vitamin K","49 g Water","59 g Carbs","104 µg Folate equivalent (total)","7 g Protein","196 µg Vitamin A","499 kcal Energy","32 g Sugars, added","6992 calories"]
+notes: "Very soft butter can be incorporated into the cake easily, whereas cold or even cool butter will form unblended nuggets in the batter. You can toast, cool, and grind the nuts for both the streusel and cake together. See related recipes for other glaze suggestions."
+---

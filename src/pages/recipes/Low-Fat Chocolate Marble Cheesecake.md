@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Low-Fat Chocolate Marble Cheesecake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Most low-fat marble cheesecakes dont have much chocolate flavor and, frankly, arent worth eating. A potent paste made from cocoa powder, sugar, and vanilla gives the chocolate swirls in this light cheesecake plenty of flavor."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_LowFatMarbleCheesecake_078_cxww3d
+tags: ["Desserts or Baked Goods","Light","Cakes","Cookbook Collection"]
+calories: 4722
+protein: 11
+carbohydrates: 42
+fats: 
+fiber: 
+ingredients: ["9 , whole graham crackers, broken into rough pieces","4 tablespoons, unsalted butter, melted","1 tablespoon, sugar","1 pound, 1% cottage cheese, drained 10 to 24 hours","1 pound, plain low-fat yogurt, drained 10 to 24 hours","1 pound, light cream cheese, at room temperature","1 1/2 cups (10½ ounces) plus 2 tablespoons, sugar","2 tablespoons, vanilla extract","1/4 teaspoon, salt","3 , large eggs, at room temperature","2 tablespoons, Dutch-processed cocoa powder"]
+serves: 12
+time: ""
+instructions: ["For the crust: Adjust oven rack to middle position and heat oven to 325 degrees. Process crackers in food processor to fine crumbs. Combine crumbs with butter and sugar in small bowl. Transfer mixture to 9-inch springform pan and press evenly into pan bottom. Bake until fragrant and beginning to brown, 10 to 15 minutes. Cool on wire rack. Taking care not to disturb crust, coat inside of springform pan with cooking spray and set pan on rimmed baking sheet.","For the filling: Increase oven temperature to 500 degrees. Process drained cottage cheese in food processor until no visible lumps remain, about 1 minute, scraping down bowl as needed. Add drained yogurt and cream cheese and process until smooth, 1 to 2 minutes, scraping down bowl as needed. Add 1 1/2 cups sugar, 1 tablespoon vanilla, and salt and process until smooth, about 1 minute, scraping down bowl as needed. With processor running, add eggs, one at a time, and process until smooth.","Combine remaining 2 tablespoons sugar and cocoa in medium bowl. Stir in 1 cup cheesecake batter and remaining 1 tablespoon vanilla until smooth.","Pour plain cheesecake batter into prepared pan. Following photos, spoon and swirl chocolate batter into cake. Bake for 10 minutes. Reduce oven temperature to 200 degrees (hold oven door open until oven thermometer reads 200 degrees) and bake until center of cheesecake registers 150 degrees, about 1 hour.","Transfer cake to wire rack and run paring knife around edge of cake to loosen. Cool completely, about 3 hours, then wrap pan tightly in plastic wrap and refrigerate until cold, at least 3 hours.","To unmold cheesecake, remove sides of pan and blot any excess moisture from top of cheesecake with paper towels. Let cheesecake stand at room temperature for 30 minutes before slicing.","Make Ahead: The pan with the cooled crust can be wrapped in plastic and kept at room temperature for up to 2 days. The baked cheesecake can be refrigerated for up to 3 days, although the crust will become progressively softer."]
+nutrition: ["235 mg Potassium","197 mg Phosphorus","147 mg Calcium","22 mg Magnesium","400 mg Sodium","1 mg Zinc","20 g Fat","5 g Monounsaturated","1 g Polyunsaturated","102 mg Cholesterol","10 g Saturated","7 µg Folic acid","21 µg Folate (food)","35 g Sugars","3 µg Vitamin K","95 g Water","42 g Carbs","34 µg Folate equivalent (total)","11 g Protein","200 µg Vitamin A","393 kcal Energy","27 g Sugars, added","4722 calories"]
+notes: "Be sure to use light cream cheese (usually sold in tubs), not 1/3 less fat cream cheese (commonly sold in blocks)."
+---

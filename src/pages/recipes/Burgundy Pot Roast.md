@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Burgundy Pot Roast
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Julia Child herself introduced classic boeuf bourguignon to America. We wanted to translate the flavors of her stew into a faster, easier holiday pot roast."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/10331_sfs-burgandypotroast-14
+tags: ["Main Courses","Beef"]
+calories: 6204
+protein: 60
+carbohydrates: 17
+fats: 
+fiber: 2
+ingredients: ["1 (5- to 6-pound), boneless beef chuck-eye roast, pulled apart at seam into 2 separate roasts, fat trimmed, and roasts tied individually at 1-inch intervals",", Salt and pepper","4 slices, bacon, halved","4 , carrots, peeled and chopped","1 , onion, chopped","1/4 cup, all-purpose flour","3 , garlic cloves, minced","1 (750-ml) bottle, red wine","2 cups, beef broth","2 teaspoons, minced fresh thyme","2 , bay leaves","2 cups, frozen pearl onions","1/2 cup, beef broth","3 tablespoons, unsalted butter","2 teaspoons, sugar","1 pound, white mushrooms, trimmed and quartered",", Salt and pepper","2 tablespoons, minced fresh parsley"]
+serves: 8
+time: "4¼ to 4¾ hours"
+instructions: ["FOR THE POT ROAST: Adjust oven rack to lower-middle position and heat oven to 300 degrees. Pat beef dry with paper towels and season with salt and pepper. Cook bacon in Dutch oven over medium heat until crisp, 6 to 8 minutes. Transfer to paper towel–lined plate. Pour off all but 2 tablespoons fat from pot and heat over medium-high heat until just smoking. Add beef and brown on all sides, 8 to 10 minutes. Transfer to plate.","Add carrots and onion to now-empty pot and cook over medium heat until browned, about 5 minutes. Stir in flour and garlic and cook until fragrant, about 1 minute. Whisk in wine and bring to simmer, scraping up any browned bits. Reduce heat to medium-low and cook until reduced by half and slightly thickened, 8 to 10 minutes. Stir in broth, bacon, thyme, and bay leaves. Return beef and any accumulated juice to pot and bring to simmer. Place large sheet of aluminum foil over pot and cover tightly with lid. Bake until fork slips easily in and out of beef, 2½ to 3 hours.","FOR THE VEGETABLES: When beef is nearly done, bring onions, broth, butter, and sugar to boil in 12-inch skillet over medium-high heat. Cover, reduce heat to low, and cook until onions are tender, 5 to 8 minutes. Uncover, increase heat to medium-high, and cook until all liquid evaporates, 3 to 5 minutes. Add mushrooms and ¼ teaspoon salt and cook until vegetables are browned and glazed, 8 to 12 minutes. Season with salt and pepper to taste. Cover and set aside until beef is done.","Transfer beef to carving board, tent with foil, and let rest for 30 minutes. Let braising liquid settle, then skim any fat from surface with large kitchen spoon. Bring liquid to boil over medium-high heat and cook until reduced to 3 cups and slightly thickened, 15 to 20 minutes.","Strain sauce through fine-mesh strainer into 4-cup liquid measuring cup; discard solids. Season with salt and pepper to taste. Reheat vegetables over medium heat, about 3 minutes. Stir parsley into vegetables. Discard twine, slice beef against grain into ½-inch-thick slices, and transfer to platter. Spoon vegetables around beef. Pour 1½ cups sauce over beef. Serve, passing remaining sauce separately."]
+nutrition: ["1538 mg Potassium","672 mg Phosphorus","102 mg Calcium","7 mg Iron","91 mg Magnesium","1436 mg Sodium","22 mg Zinc","44 g Fat","16 mg Niacin (B3)","20 g Monounsaturated","3 g Polyunsaturated","6 mg Vitamin C","211 mg Cholesterol","19 g Saturated","2 g Trans","2 g Fiber","6 µg Folic acid","33 µg Folate (food)","5 g Sugars","30 µg Vitamin K","452 g Water","17 g Carbs","44 µg Folate equivalent (total)","60 g Protein","1 mg Vitamin E","7 µg Vitamin B12","1 mg Vitamin B6","309 µg Vitamin A","775 kcal Energy","1 g Sugars, added","6204 calories"]
+notes: "Use a dry red wine, such as Burgundy or Cotes du Rhone. Don’t thaw the pearl onions before cooking."
+---

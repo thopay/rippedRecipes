@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Rosemary Focaccia
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "The dense, greasy bread bricks populating most bakery shelves don’t deserve their hearth-inspired name. Could a little patience—and a hands-off approach—lighten the loaf?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_rosemary_focaccia-32_ju9z0l
+tags: ["Appetizers","Italian","Breads","Cookbook Collection","Cookbook Collection"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["1/2 cup (2 1/2 ounces), unbleached all-purpose flour","1/3 cup (2 2/3 ounces), warm water (100-110 degrees F)","1/4 teaspoon, instant or rapid-rise yeast","2 1/2 cups (12 1/2 ounces), unbleached all-purpose flour, plus extra for shaping","1 1/4 cups (10 ounces), warm water (100-110 degrees F)","1 teaspoon, instant or rapid-rise yeast","2 teaspoons, kosher salt","1/4 cup, extra-virgin olive oil","2 tablespoons, chopped fresh rosemary"]
+serves: 
+time: ""
+instructions: ["FOR THE BIGA: Combine flour, water, and yeast in large bowl and stir with wooden spoon until uniform mass forms and no dry flour remains, about 1 minute. Cover bowl tightly with plastic wrap and let stand at room temperature (about 70 degrees) overnight (at least 8 hours and up to 24 hours.) Use immediately or store in refrigerator for up to 3 days (allow to stand at room temperature 30 minutes before proceeding with recipe.)","FOR THE DOUGH: Stir flour, water, and yeast into biga with wooden spoon until uniform mass forms and no dry flour remains, about 1 minute. Cover with plastic wrap and let rise at room temperature for 15 minutes.","Sprinkle 2 teaspoons salt over dough; stir into dough until thoroughly incorporated, about 1 minute. Cover with plastic wrap and let rise at room temperature 30 minutes. Spray rubber spatula or bowl scraper with nonstick cooking spray; fold partially risen dough over itself by gently lifting and folding edge of dough toward middle. Turn bowl 90 degrees; fold again. Turn bowl and fold dough 6 more times (total of 8 turns). Cover with plastic wrap and let rise for 30 minutes. Repeat folding, turning, and rising 2 more times, for total of three 30-minute rises. Meanwhile, adjust oven rack to upper-middle position, place baking stone on rack, and heat oven to 500 degrees at least 30 minutes before baking.","Gently transfer dough to lightly floured counter. Lightly dust top of dough with flour and divide in half. Shape each piece of dough into 5-inch round by gently tucking under edges. Coat two 9-inch round cake pans with 2 tablespoons olive oil each. Sprinkle each pan with ½ teaspoon kosher salt. Place round of dough in pan, top side down; slide dough around pan to coat bottom and sides, then flip over. Repeat with second piece of dough. Cover pans with plastic wrap and let rest for 5 minutes.","Using fingertips, press dough out toward edges of pan. (If dough resists stretching, let it relax for 5 to 10 minutes before trying again.) Using dinner fork, poke surface of dough 25 to 30 times, popping any large bubbles. Sprinkle rosemary evenly over top of dough. Let dough rest until slightly bubbly, 5 to 10 minutes.","Place pans on baking stone and reduce oven temperature to 450 degrees. Bake until tops are golden brown, 25 to 28 minutes, switching placement of pans halfway through baking. Transfer pans to wire rack and let cool 5 minutes. Remove loaves from pan and return to wire rack. Brush tops with any oil remaining in pan. Let cool 30 minutes before serving."]
+nutrition: undefined
+notes: "If you don’t have a baking stone, bake the bread on an overturned, preheated rimmed baking sheet set on the upper-middle oven rack. The bread can be kept for up to 2 days well wrapped at room temperature or frozen for 2 months wrapped in foil and placed in a zipper-lock bag."
+---

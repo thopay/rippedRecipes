@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Sopa Seca
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This comfort-food dish—a staple in Mexican and Mexican American cuisine—takes one-pan noodles to the next level."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_SopaSeca-54_whap1g
+tags: ["Main Courses","Mexican","Vegetables","Pork","Pasta","Chicken"]
+calories: 1980
+protein: 12
+carbohydrates: 47
+fats: 27
+fiber: 6
+ingredients: ["8 ounces, fideos (2 cups)","¼ cup, vegetable oil, divided","1 pound, plum tomatoes, cored and quartered (4 to 6 tomatoes)","1 , onion, chopped","2 , garlic cloves, smashed and peeled","2 cups, water, plus extra as needed","2 tablespoons, chicken bouillon powder","½–1 tablespoon, minced canned chipotle chile in adobo sauce","1 teaspoon, dried oregano","½ teaspoon, table salt","½ teaspoon, pepper","1 , avocado, halved, pitted, and sliced thin","1½ ounces, queso fresco, crumbled (⅓ cup)","½ cup, Mexican crema","¼ cup, chopped fresh cilantro","½ cup crushed, chicharrones (optional)"]
+serves: 4
+time: "1 hour"
+instructions: ["Heat fideos and 3 tablespoons oil in 12-inch nonstick skillet over medium-high heat, stirring constantly, until fideos are deep golden brown but not burnt, 4 to 5 minutes. Transfer fideos to large bowl; set aside. Wipe skillet clean with paper towels.","Heat remaining 1 tablespoon oil in now-empty skillet over medium heat until shimmering. Add tomatoes, onion, and garlic and cook until tomatoes are very soft and have released some of their juices, 8 to 10 minutes.","Process tomato mixture, water, bouillon powder, chipotle, oregano, salt, and pepper in blender until smooth, about 1 minute, scraping down sides of blender as needed. Transfer mixture to 8-cup liquid measuring cup; add extra water as needed to reach 5 cups.","Transfer tomato mixture to again-empty skillet. Using rubber spatula or wooden spoon, gently stir in fideos until fully submerged in tomato mixture. Spread fideos into even layer, and bring to simmer over medium-high heat. Reduce heat to low, cover, and simmer, stirring every 5 minutes, until fideos are tender and sauce is fully absorbed, 20 to 25 minutes, adjusting heat as needed to maintain very gentle simmer. Season with salt and pepper to taste.","Transfer sopa seca to serving bowls. Divide avocado, queso fresco, crema, and cilantro evenly over fideos. Sprinkle with chicharrones, if using. Serve."]
+nutrition: ["736 mg Potassium, K","240 mg Phosphorus, P","144 mg Calcium, Ca","1 mg Iron, Fe","65 mg Magnesium, Mg","1027 mg Sodium, Na","1 mg Zinc, Zn","27 g Total lipid (fat)","2 mg Niacin","14 g Fatty acids, total monounsaturated","3 g Fatty acids, total polyunsaturated","28 mg Vitamin C, total ascorbic acid","22 mg Cholesterol","6 g Fatty acids, total saturated","6 g Fiber, total dietary","63 µg Folate, food","8 g Sugars, total","23 µg Vitamin K (phylloquinone)","345 g Water","53 g Carbohydrate, by difference","63 µg Folate, DFE","12 g Protein","4 mg Vitamin E (alpha-tocopherol)","152 µg Vitamin A, RAE","47 g Carbohydrates (net)","495 kcal Energy","1980 calories"]
+notes: "Look for short, “broken” fideos pasta, about 1 inch in length, and not coiled noodles, which are also known as fideos. If you cant find short fideos, substitute 8 ounces thin spaghetti or angel hair, broken into 1- to 2-inch lengths; loosely wrap pasta in dish towel and then press the bundle against the corner of the counter to break into short pieces. Knorr brand chicken bouillon is traditional; if you cant find the loose powder, you can crush two to three bouillon cubes and then measure 2 tablespoons. For a spicier dish, use the greater amount of chipotle chile."
+---

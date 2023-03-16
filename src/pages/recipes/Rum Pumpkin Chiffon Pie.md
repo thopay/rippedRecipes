@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Rum Pumpkin Chiffon Pie
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Pumpkin pie is great. But this year, we were in the mood for something exceptional."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/32005_sfs-rum-pumpkin-chiffon-pie-26
+tags: ["Desserts or Baked Goods","American","Make Ahead","Dessert Pies","Thanksgiving","Cookbook Collection"]
+calories: 3413
+protein: 4
+carbohydrates: 33
+fats: 
+fiber: 1
+ingredients: ["9 , whole graham crackers, broken into 1-inch pieces","3 tablespoons, granulated sugar","1/2 teaspoon, ground ginger","5 tablespoons, unsalted butter, melted","1 tablespoon, unflavored gelatin","1/4 cup, dark rum","1 (15-ounce) can unsweetened, pumpkin puree","1/3 cup packed (2 1/3 ounces), dark brown sugar","1 teaspoon, ground cinnamon","3/4 teaspoon, Salt","1/2 cup, heavy cream","4 , large egg whites","1/3 cup (2 1/3 ounces), granulated sugar","1 cup, heavy cream, chilled","1 tablespoon, granulated sugar","1/2 teaspoon, vanilla extract","4 , gingersnap cookies, crushed into 1/4-inch pieces"]
+serves: 10
+time: "1¼ hours, plus 30 minutes cooling and 4 hours chilling"
+instructions: ["FOR THE CRUST: Adjust oven rack to middle position and heat oven to 325 degrees. Process graham cracker pieces, sugar, and ginger in food processor until finely ground, about 30 seconds. Add melted butter and pulse until combined, about 8 pulses. Transfer crumbs to 9-inch pie plate. Using bottom of dry measuring cup, press crumbs into bottom and up sides of plate. Bake until crust is fragrant and beginning to brown, 14 to 16 minutes. Let crust cool completely on wire rack, about 30 minutes.","FOR THE FILLING: Sprinkle gelatin over rum in large bowl and let sit until gelatin softens, about 5 minutes. Microwave until mixture is bubbling around edges and gelatin dissolves, about 30 seconds. Let cool until slightly warm, about 110 degrees. (It will be syrupy.)","Meanwhile, microwave pumpkin until heated to 110 degrees, 30 to 60 seconds. Process pumpkin, brown sugar, cinnamon, and salt in food processor until completely smooth, about 1 minute. Scrape down sides of bowl and process until no streaks remain, 10 to 15 seconds. Transfer pumpkin mixture to bowl with gelatin mixture and stir to combine. Stir in cream.","Using stand mixer fitted with whisk, whip egg whites on medium-low speed until foamy, about 1 minute. Increase speed to medium-high and whip whites to soft, billowy mounds, about 1 minute. Gradually add granulated sugar and whip until glossy, stiff peaks form, 2 to 3 minutes. Whisk one-third of meringue into pumpkin mixture until smooth. Using rubber spatula, fold remaining meringue into pumpkin mixture until only few white streaks remain.","Spoon filling into center of cooled crust. Gently spread filling to edges of crust, leaving mounded dome in center. Refrigerate pie for at least 4 hours or up to 24 hours.","FOR THE TOPPING: Using stand mixer fitted with whisk, whip cream, sugar, and vanilla on medium-low speed until foamy, about 1 minute. Increase speed to high and whip until soft peaks form, 1 to 3 minutes. Spread whipped cream evenly over pie, following domed contours. Sprinkle gingersnap pieces over top. Serve."]
+nutrition: ["178 mg Potassium","67 mg Phosphorus","56 mg Calcium","1 mg Iron","21 mg Magnesium","287 mg Sodium","20 g Fat","5 g Monounsaturated","1 g Polyunsaturated","2 mg Vitamin C","64 mg Cholesterol","12 g Saturated","1 g Fiber","11 µg Folic acid","10 µg Folate (food)","22 g Sugars","10 µg Vitamin K","76 g Water","33 g Carbs","29 µg Folate equivalent (total)","4 g Protein","1 mg Vitamin E","526 µg Vitamin A","341 kcal Energy","16 g Sugars, added","3413 calories"]
+notes: "If you prefer to use pasteurized egg whites in the filling, use ½ cup and increase the whipping time in step 4 to 5 to 6 minutes. For a well-mounded pie, be sure to fully whip the egg whites to glossy, stiff peaks in step 4. Plan ahead: This pie needs to be chilled for at least 4 hours before serving."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Grilled Boneless Short Ribs with Argentine-Style Pepper Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We decided to bring this low-and-slow favorite into the fast lane."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/31014_sfs-grilled-boneless-short-ribs-argentine-style-pepper-sauce-56
+tags: ["Main Courses","Beef","Grilling & Barbecue"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["2 1/2 - 3 pounds, boneless beef short ribs 1 1/2 to 2 inches thick, 2 inches wide, and 4 to 5 inches long, trimmed","1 tablespoon, kosher salt","1 1/2 cups, wood chips","1/2 cup finely chopped, red bell pepper","1/3 cup finely chopped, red onion","1/4 cup, extra-virgin olive oil","3 , garlic cloves, minced","1 teaspoon, paprika","1/2 teaspoon, ground cumin","1/4 teaspoon, cayenne pepper","1/2 teaspoon additional, kosher salt","1/3 cup, minced fresh cilantro","2 tablespoons, lemon juice","1 , Disposable 13 by 9-inch aluminum roasting pan (if using charcoal)"]
+serves: 6
+time: "1½ hours, plus 1 hour salting"
+instructions: ["Pat beef dry with paper towels and sprinkle all over with 1 tablespoon salt. Let sit at room temperature for at least 1 hour before grilling. Just before grilling, soak wood chips in water for 15 ­minutes, then drain.","Meanwhile, combine bell pepper, onion, oil, garlic, paprika, cumin, cayenne, and 1/2 teaspoon salt in small saucepan. Cook over medium-high heat until vegetables are softened, about 5 minutes. Remove from heat and stir in cilantro and lemon juice. Transfer to bowl and set aside.","FOR A CHARCOAL GRILL: Using large piece of heavy-duty aluminum foil, wrap soaked chips in 12 by 10-inch foil packet. (Make sure chips do not poke holes in sides or bottom of packet.) Cut 3 evenly spaced 2-inch slits in top of packet. Open bottom vent completely. Light large chimney starter mounded with charcoal briquettes (7 quarts). When top coals are partially covered with ash, pour two-thirds evenly over half of grill, then pour remaining coals over other half of grill. Place wood chip packet on smaller pile of coals, set cooking grate in place, cover, and open lid vent completely. Heat grill until hot and wood chips are smoking, about 5 minutes.","FOR A GAS GRILL: Using large piece of heavy-duty aluminum foil, wrap soaked chips in 8 by 4 1/2-inch foil packet. (Make sure chips do not poke holes in sides or bottom of packet.) Cut 2 evenly spaced 2-inch slits in top of packet. Remove cooking grate and place wood chip packet directly on primary burner. Set grate in place, turn all burners to high, cover, and heat grill until hot and wood chips are smoking, about 15 minutes. Turn primary burner to medium and secondary burner(s) to medium-high.","Clean and oil cooking grate. Season beef with pepper. Place beef on grill directly over foil packet. Cover beef with disposable pan if using charcoal (if using gas, close lid) and cook for 5 minutes. Flip beef and cook 5 minutes longer, covering in same manner.","Slide beef to hotter side of grill and cook, covered if using gas, until well browned on all sides and beef registers 125 degrees, 4 to 8 minutes, turning often. Transfer beef to carving board, tent with foil, and let rest for 10 minutes. Slice beef against grain as thin as possible. Serve with pepper sauce."]
+nutrition: undefined
+notes: "The thickness and marbling of boneless short ribs can vary a good deal. Look for lean ribs cut from the chuck. If in doubt, ask your butcher for the cut by its technical designation: NAMP 130A. If you need to buy bone-in English-style ribs, slice off the ribs, cartilage, and excess fat. If your short ribs are a single slab, cut them into 2- to 3-inch-wide strips. Plan ahead: The salted short ribs need to sit for at least an hour before grilling."
+---

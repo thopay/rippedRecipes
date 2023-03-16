@@ -1,0 +1,5 @@
+---
+import Search from './Search';
+const allRecipes = await Astro.glob('../pages/recipes/*.md');
+---
+<Search client:load searchList={allRecipes} />

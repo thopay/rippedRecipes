@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Garlic–Herb Butter Rolls
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "These fluffy, savory rolls are destined to become a new holiday favorite."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_GarlicHerbButterRolls_051_k8wbeu
+tags: ["Desserts or Baked Goods","Make Ahead","Breads","Thanksgiving","Holiday"]
+calories: 2472
+protein: 4
+carbohydrates: 23
+fats: 10
+fiber: 
+ingredients: ["¾ cup, whole milk","4 tablespoons, unsalted butter, melted, plus 1 tablespoon, softened, for baking dish","2 , large eggs, divided","2 1/4 cups (11¼ ounces), all-purpose flour","2¼ teaspoons, instant or rapid-rise yeast","2 tablespoons, sugar","1 teaspoon plus pinch, table salt, divided","4 tablespoons, unsalted butter","3 , garlic cloves, minced","¼ teaspoon, table salt","1 tablespoon, minced fresh parsley"]
+serves: 12
+time: "1 hour, plus 1 hour 50 minutes rising and cooling"
+instructions: ["FOR THE DOUGH: Whisk milk, melted butter, and 1 egg together in bowl of stand mixer. Add flour and yeast. Fit mixer with dough hook and mix on medium speed until dough comes together and no dry flour remains, about 2 minutes, scraping down dough hook and bowl as needed. Turn off mixer, cover bowl with dish towel or plastic wrap, and let dough stand for 15 minutes.","Add sugar and 1 teaspoon salt and knead dough on medium speed until incorporated, about 30 seconds. Increase speed to medium-high and continue to knead until dough begins to pull away from sides and bottom of bowl (dough will be sticky), 8 to 12 minutes longer. Transfer dough to greased large bowl. Cover tightly with plastic and let rise at room temperature until doubled in size, about 1 hour.","Grease 13 by 9-inch baking dish with softened butter. Turn out dough onto clean counter and divide into 12 equal portions (about 1¾ ounces each). Working with 1 dough portion at a time, cup dough with your palm and roll against counter into smooth, tight ball.","Place dough balls in prepared dish in 3 rows of four. Cover tightly with plastic and let rise at room temperature until doubled in size, about 30 minutes.","Adjust oven rack to middle position and heat oven to 350 degrees. Beat remaining egg with remaining pinch salt. Brush tops of rolls evenly with egg mixture (you may have some left over). Bake until rolls are deep golden brown and register 200 to 205 degrees in center, about 20 minutes.","FOR THE GARLIC–HERB BUTTER: Meanwhile, melt butter in small saucepan over medium heat. Add garlic and salt and cook until just fragrant, about 1 minute. Off heat, stir in parsley.","Remove dish from oven and let rolls cool in dish for 15 minutes. Brush tops and sides of warm rolls with garlic-herb butter (use all of it). Let rolls sit for 5 minutes. Serve warm.","TO MAKE AHEAD: Before second rise in step 4, cover dough balls with plastic wrap and refrigerate for up to 24 hours. Let dough balls sit at room temperature for 30 minutes before proceeding with step 5."]
+nutrition: ["74 mg Potassium, K","66 mg Phosphorus, P","30 mg Calcium, Ca","1 mg Iron, Fe","9 mg Magnesium, Mg","150 mg Sodium, Na","10 g Total lipid (fat)","1 mg Niacin","2 g Fatty acids, total monounsaturated","55 mg Cholesterol","6 g Fatty acids, total saturated","40 µg Folic acid","30 µg Folate, food","2 g Sugars, total","6 µg Vitamin K (phylloquinone)","25 g Water","23 g Carbohydrate, by difference","100 µg Folate, DFE","4 g Protein","94 µg Vitamin A, RAE","206 kcal Energy","2 g Sugars, added","2472 calories"]
+notes: "We developed this recipe using a ceramic baking dish. If you choose to use a metal baking pan, check the rolls for doneness 5 minutes early in step 5. The slight tackiness of the dough aids in rolling it into smooth balls in step 3, so do not dust your counter with flour."
+---

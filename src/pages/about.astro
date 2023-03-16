@@ -1,24 +1,32 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import '../styles/global.css';
+const pageTitle = "About Me";
+const identity = {
+  firstName: "Thomas",
+  country: "United States",
+  occupation: "student",
+  hobbies: ["programming", "lifting", "frisbee"],
+};
+
+const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
 ---
+<BaseLayout pageTitle={"About Me"}>
+	<h2>What is Ripped Recipes?</h2>
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<a href="/">Home</a>
-		<a href="/recipes/">Recipes</a>
-		<a href="/about/">About</a>
+	<p>This is an Astro blog hosted on Vercel that holds a blog containing my collection recipes.</p>
 
-		<h1>About</h1>
-		<h2>What is Ripped Recipes?</h2>
-
-		<p>This is an Astro blog hosted on Vercel that holds a blog containing my collection recipes.</p>
-
-		<p>This will be continually updated with my collection of recipes and is designed to make it easy for me to navigate through the 4000+ recipes I've collected already.</p>
-	</body>
-</html>
+	<p>This will be continually updated with my collection of recipes and is designed to make it easy for me to navigate through the 4000+ recipes I've collected already.</p>
+	<p>Here are a few facts about me:</p>
+	<ul>
+	<li>My name is {identity.firstName}.</li>
+	<li>I live in {identity.country} and I work as a {identity.occupation}.</li>
+	{identity.hobbies.length >= 2 && 
+		<li>Two of my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}</li>
+	} 
+	</ul>
+	<p>My skills are:</p>
+	<ul>
+	{skills.map((skill) => <li>{skill}</li>)}
+	</ul>
+</BaseLayout>

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Classic Shepherds Pie
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Too often shepherds pie is a soupy, flavorless gruel with a mushy topping. Heres the secret to creating a full-flavored, firm-topped shepherds pie."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/29860_sfs-shepherds-pie-049
+tags: ["Main Courses","Beef","Make Ahead","Savory Pies & Tarts","Cook's Country TV"]
+calories: 4385
+protein: 28
+carbohydrates: 34
+fats: 30
+fiber: 4
+ingredients: ["2 tablespoons, unsalted butter","1 , large onion, chopped fine","2 , medium carrots, peeled and chopped fine","2 pounds, 85 percent lean ground beef",", Salt and pepper","5 tablespoons, all-purpose flour","1 tablespoon, tomato paste","1/4 cup, heavy cream","1 3/4 cups, low-sodium chicken broth","3/4 cup, beer","2 tablespoons, soy sauce","2 teaspoons, minced fresh thyme leaves","1 cup, frozen peas","2 1/2 pounds, russet potatoes . peeled and cut into 2-inch pieces",", Table salt","2 tablespoons, unsalted butter, melted","1/3 cup, heavy cream, warmed",", Ground black pepper","1 , large egg, beaten"]
+serves: 8
+time: "1¾ hours"
+instructions: ["FOR THE FILLING: Heat butter in large skillet over medium-high heat until foaming. Add onion and carrots and cook until soft, about 8 minutes. Add meat, 1/2 teaspoon salt, and 1/2 teaspoon pepper and cook, breaking up meat into small pieces with wooden spoon, until browned, about 12 minutes. Add flour and tomato paste and cook until paste begins to darken, about 1 minute.","Add cream and cook until it spatters, about 1 minute. Add broth, beer, soy sauce, and thyme and simmer over medium heat, stirring frequently, until mixture is thick but still saucy, 15 to 20 minutes. Remove from heat, stir in peas, adjust seasonings, and transfer to broilersafe 2-quart casserole dish.","FOR THE TOPPING: Adjust oven rack to upper-middle position and heat oven to 375 degrees. Bring potatoes, 1/2 teaspoon salt, and water to cover to boil in large saucepan over high heat. Reduce heat to medium-low and simmer until tender, 15 to 20 minutes. Drain potatoes, return to saucepan, and mash potatoes with butter and cream until smooth. Season with salt and pepper.","Spread potatoes over filling, using spatula to smooth top (see photo). Brush with egg and drag fork across top to make ridges. Bake until filling is bubbling, about 15 minutes. Turn on broiler and cook until top is golden brown, 3 to 5 minutes. Remove from oven and cool 10 minutes. Serve.","To make ahead: Make the filling through step 2, but do not add the peas. Store in an airtight container in the refrigerator for up to two days. When ready to proceed, reheat the filling in a large saucepan, stir in the peas, and transfer to a broilersafe 2-quart casserole. Proceed with the recipe from step 3."]
+nutrition: ["1179 mg Potassium, K","357 mg Phosphorus, P","83 mg Calcium, Ca","4 mg Iron, Fe","74 mg Magnesium, Mg","988 mg Sodium, Na","5 mg Zinc, Zn","30 g Total lipid (fat)","8 mg Niacin","11 g Fatty acids, total monounsaturated","1 g Fatty acids, total polyunsaturated","14 mg Vitamin C, total ascorbic acid","139 mg Cholesterol","14 g Fatty acids, total saturated","1 g Fatty acids, total trans","4 g Fiber, total dietary","7 µg Folic acid","49 µg Folate, food","4 g Sugars, total","16 µg Vitamin K (phylloquinone)","321 g Water","39 g Carbohydrate, by difference","62 µg Folate, DFE","28 g Protein","2 µg Vitamin B-12","281 µg Vitamin A, RAE","34 g Carbohydrates (net)","548 kcal Energy","4385 calories"]
+notes: "Although just about any mild beer will work in this recipe, we particularly enjoyed the sweet flavor of O’Doul’s nonalcoholic amber."
+---

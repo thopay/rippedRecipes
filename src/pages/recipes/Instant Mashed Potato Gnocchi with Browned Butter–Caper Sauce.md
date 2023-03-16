@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Instant Mashed Potato Gnocchi with Browned Butter–Caper Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "These tender, plump dumplings are easy to make and delightful to eat."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_InstantMashedPotatoGnocchiLemonCaperBrownedButter_007_viujzc
+tags: ["Main Courses","Italian","Pasta","Potatoes","Cheese","Vegetarian"]
+calories: 1320
+protein: 6
+carbohydrates: 32
+fats: 
+fiber: 1
+ingredients: ["2 cups (4 ounces) plain, instant mashed potato flakes","1 cup (5 ounces), all-purpose flour","2 teaspoons, table salt, plus salt for cooking gnocchi","1½ cups, water","1 , large egg","6 tablespoons, unsalted butter","2 tablespoons, minced shallot","2 tablespoons, capers, minced","1 tablespoon, lemon juice",", Grated Parmesan cheese"]
+serves: 4
+time: "1½ hours"
+instructions: ["FOR THE GNOCCHI: Whisk potato flakes, flour, and salt together in large bowl. Whisk water and egg together in separate bowl. Add water mixture to potato flake mixture and stir with wooden spoon until fully combined and mixture forms dough ball. Let sit for 3 minutes for potato flakes and flour to hydrate.","Turn out dough onto lightly floured counter and knead until dough has texture of Play-Doh and springs back halfway when poked with your finger, about 3 minutes. Lightly dust dough with flour and let rest on counter for 5 minutes.","Divide dough into 6 equal pieces. On very lightly floured counter, roll 1 piece into ¾-inch-thick rope. Lightly dust rope with flour. Using floured bench scraper, cut rope crosswise into ¾-inch pieces; transfer gnocchi to lightly floured rimmed baking sheet. Repeat with remaining dough pieces.","Press gnocchi, cut side down, on tines of fork, then roll downward to create grooves. If dough sticks, dust your thumb and fork with flour. Return gnocchi to sheet.","FOR THE SAUCE: Melt butter in 12-inch skillet over medium heat. Cook, swirling skillet often, until butter is color of milk chocolate and has toasty aroma, 3 to 5 minutes. Add shallot and cook until fragrant, about 30 seconds. Off heat, stir in capers and lemon juice. Cover to keep warm.","Bring 4 quarts water to boil in large pot over high heat. Add 1 tablespoon salt to boiling water. Add half of gnocchi, then stir gently to keep from sticking. Simmer until just cooked through and gnocchi float to top, about 1½ minutes. Using spider skimmer or slotted spoon, transfer gnocchi to skillet with sauce. Return water to boil and repeat with remaining gnocchi.","Place skillet over medium-high heat. Cook, stirring gently, until hot throughout and gnocchi are well coated with sauce, about 2 minutes. Season with salt to taste. Sprinkle with Parmesan and serve.","TO MAKE AHEAD: At end of step 4, gnocchi can be frozen on sheet. Once frozen, transfer to airtight container or zipper‑lock bag and keep frozen for up to 1 month. Cook from frozen and increase cooking time to 3 minutes."]
+nutrition: ["163 mg Potassium","88 mg Phosphorus","29 mg Calcium","2 mg Iron","17 mg Magnesium","464 mg Sodium","19 g Fat","2 mg Niacin (B3)","5 g Monounsaturated","1 g Polyunsaturated","2 mg Vitamin C","92 mg Cholesterol","11 g Saturated","1 g Fiber","54 µg Folic acid","22 µg Folate (food)","4 µg Vitamin K","140 g Water","32 g Carbs","115 µg Folate equivalent (total)","6 g Protein","178 µg Vitamin A","330 kcal Energy","1320 calories"]
+notes: "For this recipe we used Idahoan Original Mashed Potatoes. Do not use flavored instant mashed potato flakes. It is important to knead the dough to the texture of Play-Doh in step 2, or it will be too tender and difficult to roll into ropes. In step 3, be sure to very lightly dust the counter with flour before rolling the dough into ropes to keep them from sticking. If using salt-packed capers, rinse them before mincing."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Grilled Bone-In Leg of Lamb with Charred-Scallion Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "It took 112 pounds of meat, but we finally achieved a leg of lamb that tasted as impressive as it looked."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/43860-sfs-grilled-leg-of-lamb-48
+tags: ["Main Courses","Lamb","Grilling & Barbecue"]
+calories: 7778
+protein: 44
+carbohydrates: 3
+fats: 
+fiber: 1
+ingredients: ["12 , garlic cloves, minced","2 tablespoons, vegetable oil","2 tablespoons, kosher salt","1 1/2 tablespoons, pepper","1 tablespoon, fresh thyme leaf","1 tablespoon, dried oregano","2 tablespoons, finely grated lemon zest","1 teaspoon, ground coriander","1 (8-pound) bone-in, leg of lamb, trimmed","3/4 cup, extra-virgin olive oil","1/4 cup, chopped fresh parsley","1 tablespoon, red wine vinegar","2 , garlic cloves, minced","1 teaspoon, pepper","3/4 teaspoon, kosher salt","1/4 teaspoon, red pepper flakes","12 , scallions, trimmed"]
+serves: 12
+time: "2½ to 3 hours, plus 12 hours marinating and 30 minutes resting"
+instructions: ["For the lamb: Combine garlic, oil, salt, pepper, thyme, oregano, lemon zest, and coriander in bowl. Place lamb on rimmed baking sheet and rub all over with garlic paste. Cover with plastic wrap and refrigerate for at least 12 hours or up to 24 hours.","For the scallion sauce: Combine oil, parsley, vinegar, garlic, pepper, salt, and pepper flakes in bowl; set aside.","For a charcoal grill: Open bottom vent completely. Light large chimney starter filled with charcoal briquettes (6 quarts). When top coals are partially covered with ash, pour evenly over half of grill. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.","For a gas grill: Turn all burners to high, cover, and heat grill until hot, about 15 minutes. Leave primary burner on high and turn off other burner(s). (Adjust primary burner [or, if using 3-burner grill, primary burner and second burner] as needed to maintain grill temperature between 350 and 400 degrees.)","Clean and oil cooking grate. Place scallions on hotter side of grill. Cook (covered if using gas) until lightly charred on both sides, about 3 minutes per side. Transfer scallions to plate.","Uncover lamb and place fat side up on cooler side of grill, parallel to fire. (If using gas, it may be necessary to angle thicker end of lamb toward hotter side of grill to fit.) Cover grill (position lid vent directly over lamb if using charcoal) and cook until thickest part of meat (½ inch from bone) registers 120 degrees, 1¼ hours to 1¾ hours.","Transfer lamb, fat side down, to hotter side of grill. Cook (covered if using gas) until fat side is well browned, 7 to 9 minutes. Transfer lamb to carving board, fat side up, and tent with aluminum foil. Let rest for 30 minutes.","Cut scallions into ½-inch pieces, then stir into reserved oil mixture. Season sauce with salt and pepper to taste. Slice lamb thin and serve with sauce."]
+nutrition: ["694 mg Potassium","427 mg Phosphorus","50 mg Calcium","4 mg Iron","64 mg Magnesium","795 mg Sodium","8 mg Zinc","49 g Fat","14 mg Niacin (B3)","25 g Monounsaturated","4 g Polyunsaturated","7 mg Vitamin C","160 mg Cholesterol","16 g Saturated","1 g Fiber","59 µg Folate (food)","63 µg Vitamin K","175 g Water","3 g Carbs","59 µg Folate equivalent (total)","44 g Protein","2 mg Vitamin E","5 µg Vitamin B12","13 µg Vitamin A","648 kcal Energy","7778 calories"]
+notes: "The seasoned meat must be refrigerated for at least 12 hours before cooking. For an accurate temperature reading in step 5, insert your thermometer into the thickest part of the leg until you hit bone, then pull it about ½ inch away from the bone."
+---

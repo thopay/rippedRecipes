@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Potato, Pastrami, and Gruyere Knishes
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Portable, flaky, and satisfying, these stuffed pastries have been a popular street food in New York for 100 years."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_PotatoPastramiKnish-ipad-10-2_mlpygr
+tags: ["Desserts or Baked Goods","Eastern European & German","Cheese","Potatoes","Cookbook Collection"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["2 1/4 pounds, russet potatoes, peeled and cut into 1-inch pieces","1 teaspoon, table salt, divided plus extra for boiling","1/2 teaspoon, black pepper","4 ounces, Gruyere cheese, shredded (1 cup)","4 ounces, sliced deli pastrami, chopped","2 tablespoons, yellow mustard","1 teaspoon crushed, caraway seeds","1/2 teaspoon, dried dill","1 tablespoon, olive oil","3 , onions, chopped fine","2 cups, all-purpose flour","1 1/2 teaspoons, baking powder","3/4 cup, olive oil","1/2 cup, water","2 , large eggs, 1 egg beaten with 1 tablespoon water","1 teaspoon, salt"]
+serves: 
+time: "2¾ hours, plus 1 hour resting"
+instructions: ["FOR THE FILLING: Combine potatoes and 1 tablespoon salt in Dutch oven and cover with water by 1 inch. Bring to boil over high heat. Reduce heat to medium and cook until potatoes are tender, 20 to 25 minutes. Drain potatoes and return to pot. Cook over low heat until potatoes are thoroughly dry, about 1 minute. Mash potatoes with potato masher until very few lumps remain. Transfer to large bowl and stir in Gruyere, pastrami, mustard, caraway seeds, dill, and ½ teaspoon pepper.","Meanwhile, heat oil in 12-inch nonstick skillet over medium-high heat until shimmering. Add onions and ½ teaspoon salt and cook, stirring occasionally, until well browned, about 10 minutes. Transfer to bowl with mashed potatoes and stir to combine. Let filling cool completely. (Filling can be made up to 24 hours in advance, covered, and refrigerated.)","FOR THE DOUGH: Whisk flour and baking powder together in large bowl. Whisk 6 tablespoons oil, water, 1 egg, and salt together in separate bowl. Add wet ingredients to dry ingredients and stir with rubber spatula until dough forms. Transfer dough to floured counter and knead until smooth, about 1 minute. Wrap in plastic wrap and let rest on counter for 1 hour or refrigerate for up to 4 hours (let dough come to room temperature before rolling).","Adjust oven rack to middle position and heat oven to 350 degrees. Line rimmed baking sheet with parchment paper and brush parchment with 2 tablespoons oil. Divide dough in half and form each half into 4-inch square on well-floured counter. Working with 1 square at a time (keep remaining dough covered with plastic), roll dough into 16-inch square. Lightly brush dough with 2 tablespoons oil, leaving 1-inch border at farthest edge.","Form half of filling into 1-inch log along near edge of dough, leaving 1-inch border on sides. Brush far edge of dough with water. Roll dough around filling and seal edge. Trim knish log on each end so log measures 16 inches long. Cut log into 8 (2-inch) pieces. Stand each knish on end and press to 1-inch thickness. Space evenly apart on prepared sheet. Repeat with remaining dough, remaining 2 tablespoons oil, and remaining filling.","Brush tops and sides of knishes with egg-water mixture and bake until golden brown, 35 to 40 minutes, rotating sheet halfway through baking. Transfer knishes to wire rack and let cool for 15 minutes. Serve.","TO MAKE AHEAD: Knishes can be made through step 5 and frozen for up to 1 month. If baking from frozen, increase baking time to 50 to 55 minutes."]
+nutrition: undefined
+notes: "A well-floured counter is essential to rolling this dough thin. To reheat baked knishes, place them in a 350-degree oven for 10 to 15 minutes."
+---

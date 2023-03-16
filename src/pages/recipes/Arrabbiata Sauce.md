@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Arrabbiata Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We wanted a from-scratch pasta sauce with depth and complexity—in just 15 minutes’ time."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/10468_sfs-5easytomatosauces-master-11
+tags: ["Sauces"]
+calories: 620
+protein: 2
+carbohydrates: 11
+fats: 
+fiber: 2
+ingredients: ["2 tablespoons, unsalted butter","1/4 cup finely chopped, onion","3/4 teaspoon, red pepper flakes","1/2 teaspoon, Salt","1/4 teaspoon, dried oregano","4 , garlic cloves, minced","1 (28-ounce) can, crushed tomatoes","1/4 teaspoon, sugar","2 tablespoons chopped, fresh parsley","1 tablespoons, extra-virgin olive oil"]
+serves: 6
+time: "30 minutes"
+instructions: ["Melt butter in medium saucepan over medium-low heat. Add onion, pepper flakes, ½ teaspoon salt, and oregano and cook, stirring occasionally, until onion is golden brown, 3 to 5 minutes. Add garlic and cook until fragrant, about 30 seconds. Stir in tomatoes and sugar, increase heat to high, and bring to simmer. Reduce heat to medium-low and simmer until thickened slightly, about 10 minutes. Off heat, stir in parsley and oil. Season with salt and pepper to taste, and serve."]
+nutrition: ["415 mg Potassium","49 mg Phosphorus","53 mg Calcium","1 mg Iron","28 mg Magnesium","347 mg Sodium","6 g Fat","1 mg Niacin (B3)","2 g Monounsaturated","15 mg Vitamin C","10 mg Cholesterol","2 g Saturated","2 g Fiber","20 µg Folate (food)","6 g Sugars","29 µg Vitamin K","127 g Water","11 g Carbs","20 µg Folate equivalent (total)","2 g Protein","2 mg Vitamin E","53 µg Vitamin A","103 kcal Energy","620 calories"]
+notes: "The test kitchen’s preferred brands of crushed tomatoes are Muir Glen Organic Crushed Tomatoes with Basil and Tuttorosso Crushed Tomatoes in Thick Puree with Basil."
+---

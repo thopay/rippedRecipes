@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Quick Grilled Pizza
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Pizza is a natural for the grill. But who wants to spend three hours of preparation time before the dough goes over the coals?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/8745_sfs-grilledpizza-18-280034
+tags: ["Main Courses","Cheese","Weeknight","Grilling & Barbecue","Pizza"]
+calories: 4538
+protein: 21
+carbohydrates: 44
+fats: 
+fiber: 3
+ingredients: ["2 (14.5-ounce) cans, diced tomatoes, drained well","2 tablespoons, chopped fresh basil","2 tablespoons, extra virgin olive oil","2 , garlic cloves, minced","1/4 teaspoon, salt","1 cup, water, heated to 110 degrees","1 tablespoon, extra virgin olive oil, plus additional for brushing dough","1 tablespoon, sugar","1 envelope (2 1/4 teaspoons), instant or rapid-rise yeast","2 3/4 cups, all-purpose flour, plus additional as needed","1/4 cup, grated Parmesan cheese","1 teaspoon, salt","2 1/2 cups, shredded mozzarella cheese"]
+serves: 10
+time: "1 hour"
+instructions: ["MAKE SAUCE Combine tomatoes, basil, oil, garlic, and salt in medium bowl; set aside.","PREPARE DOUGH Whisk water, 1 tablespoon oil, sugar, and yeast in large liquid measuring cup. Let sit 5 minutes. Pulse flour, Parmesan, and salt in food processor until combined. With machine running, slowly pour in water mixture and process until dough pulls away from sides and forms shaggy ball, about 1 minute. (If dough seems too sticky, add up to 2 tablespoons more flour.) Turn dough onto floured work surface and knead 3 or 4 times until cohesive.","SHAPE PIZZA Line rimmed baking sheet with parchment paper and dust with flour. Divide dough into 4 equal pieces. Working with 1 piece at a time, press into small circle. Using rolling pin, roll and stretch dough to form 9-inch circle. Transfer to prepared baking sheet and dust dough with flour. Repeat with remaining dough, stacking each round on floured parchment.","HEAT GRILL Meanwhile, heat all burners on high, covered, for 15 -minutes. Leave primary burner on high and turn other burner(s) to medium-low. (For charcoal grill, light about 100 coals; when they are covered with fine gray ash, spread over half of grill. Set cooking grate in place and heat, covered, with lid vent open completely, for 5 minutes.) Scrape and oil cooking grate.","GRILL PIZZA Brush tops of 2 dough rounds lightly with oil. Peel rounds off parchment and place, oiled side down, on cool side of grill. Grill, covered, until undersides are spotty brown and tops are covered with bubbles, poking large -bubbles with tongs, 3 to 5 minutes. Brush each lightly with oil and flip. Top each round with one-quarter sauce and one-quarter mozzarella. Grill, covered, until undersides are spotty brown and cheese is melted, 3 to 5 minutes. Move pizzas to hot side of grill to crisp, about 1 minute. Repeat with remaining rounds. Serve."]
+nutrition: ["283 mg Potassium","375 mg Phosphorus","470 mg Calcium","2 mg Iron","38 mg Magnesium","662 mg Sodium","2 mg Zinc","21 g Fat","4 mg Niacin (B3)","7 g Monounsaturated","1 g Polyunsaturated","10 mg Vitamin C","60 mg Cholesterol","11 g Saturated","3 g Fiber","89 µg Folic acid","50 µg Folate (food)","4 g Sugars","8 µg Vitamin K","147 g Water","44 g Carbs","202 µg Folate equivalent (total)","21 g Protein","1 mg Vitamin E","155 µg Vitamin A","453 kcal Energy","1 g Sugars, added","4538 calories"]
+notes: "Don’t move the dough during the first minute of grilling or it will tear. Keep the  first batch of cooked pizzas warm on a wire rack set inside a rimmed baking sheet in a 200-degree oven. If you like pepperoni, arrange 2 ounces pepperoni slices over each pizza after you’ve topped it with sauce."
+---

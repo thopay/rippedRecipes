@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Hazelnut Espresso Truffle Cookies
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Inspired by a rich chocolate truffle with a hazelnut in the middle, a sweet Italian treat, these cookies incorporate finely ground hazelnuts into the dough for a nutty flavor and just a touch of texture."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/19081_sfs-hazlenutespressotrufflecookies-3
+tags: ["Desserts or Baked Goods","Cookies"]
+calories: 7890
+protein: 3
+carbohydrates: 36
+fats: 
+fiber: 2
+ingredients: ["2 1/2 cups (12 1/2 ounces), all-purpose flour","1 cup, hazelnuts, toasted, skinned, and finely ground","1/2 teaspoon, salt","1/2 teaspoon, baking powder","16 tablespoons, unsalted butter, softened","1 1/4 cups (8 3/4 ounces), superfine sugar","1 , large egg plus 1 large yolk","4 teaspoons, instant espresso powder","2 teaspoons, vanilla extract","3/4 cup, heavy cream","3 cups (18 ounces), bittersweet chocolate chips"]
+serves: 24
+time: "2 hours, plus 1½ hours chilling"
+instructions: ["Whisk flour, hazelnuts, salt, and baking powder together in medium bowl. Using stand mixer fitted with paddle, beat butter and sugar on medium-high speed until pale and fluffy, about 3 minutes. Add egg and yolk, one at a time, espresso powder, and vanilla and beat until combined. Reduce speed to low and add flour mixture in 3 additions until just combined, scraping down bowl as needed. Divide dough in half. Form each half into 5-inch disk, wrap tightly in plastic wrap, and refrigerate for 1 hour.","Adjust oven racks to upper-middle and lower-middle positions and heat oven to 375 degrees. Line 2 baking sheets with parchment paper. Let chilled dough soften on counter for 10 minutes. Roll 1 disk of dough into 14-inch circle, about 1/8 inch thick, on lightly floured counter. Using 2¼-inch cookie cutter, cut out 30 rounds, rerolling scraps just once. Space cookies ½ inch apart on prepared sheets. Bake until edges are slightly browned, about 7 minutes, switching and rotating sheets halfway through baking. Let cookies cool on sheets for 5 minutes, then transfer to wire rack. Repeat with second disk of dough and cooled sheets. Let cookies cool completely before frosting.","Heat cream in small saucepan over medium heat until simmering. Place 1 3/4 cups chocolate chips in medium bowl. Pour hot cream over chocolate chips; cover with aluminum foil and let sit for 5 minutes. Whisk chocolate mixture until smooth. Refrigerate chocolate ganache, uncovered, stirring occasionally, until thickened, about 40 minutes.","Using small metal spatula, spread 2 teaspoons ganache on bottoms of each of 30 cookies. Top with remaining cookies to form sandwiches. Microwave remaining 1¼ cups chocolate chips in bowl at 50 percent power, stirring occasionally, until melted, 2 to 4 minutes. Drizzle chocolate over cookies and let set, about 30 minutes, before serving. (Cookies can be stored at room temperature for up to 3 days.)"]
+nutrition: ["144 mg Potassium","80 mg Phosphorus","30 mg Calcium","1 mg Iron","38 mg Magnesium","65 mg Sodium","20 g Fat","1 mg Niacin (B3)","7 g Monounsaturated","1 g Polyunsaturated","38 mg Cholesterol","10 g Saturated","2 g Fiber","22 µg Folic acid","14 µg Folate (food)","22 g Sugars","2 µg Vitamin K","10 g Water","36 g Carbs","53 µg Folate equivalent (total)","3 g Protein","1 mg Vitamin E","98 µg Vitamin A","328 kcal Energy","21 g Sugars, added","7890 calories"]
+notes: "Both the dough and the filling need to chill. If you don’t have superfine sugar, you can use granulated sugar processed for 30 seconds in a food processor. Use a thin spatula to help move these thin cookies from the counter to the baking sheets. To quickly cool the baking sheets between batches, run them under cold water."
+---

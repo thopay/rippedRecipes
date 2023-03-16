@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Prosciutto Bread
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Why just pile cured meats atop your bread when you can embed them deep within?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/39454_sfs-prosciutto-bread-5
+tags: ["Desserts or Baked Goods","Pork","Make Ahead","Breads","Cookbook Collection"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["3 cups (16 1/2 ounces), bread flour","1 1/2 teaspoons, instant or rapid-rise yeast","1 teaspoon, salt","1 cup mild, lager, room temperature","6 tablespoons, water, room temperature","3 tablespoons, extra-virgin olive oil","3 ounces (1/4-inch-thick) sliced, prosciutto, cut into 1/2-inch pieces","3 ounces (1/4-inch-thick) sliced, pepperoni, cut into 1/2-inch pieces","3 ounces (1/4-inch-thick) sliced, capicola, cut into 1/2-inch pieces","1 1/2 teaspoons coarsely ground, pepper",", cornmeal"]
+serves: 
+time: "1½ hours, plus 2¼ hours rising and 3 hours cooling"
+instructions: ["Whisk flour, yeast, and salt together in bowl of stand mixer. Whisk beer, room-temperature water, and oil together in 2-cup liquid measuring cup.","Fit mixer with dough hook. Mix flour mixture on low speed while slowly adding beer mixture until cohesive dough starts to form and no dry flour remains, about 2 minutes, scraping down bowl as needed. Increase speed to medium and knead until dough is smooth and elastic and clears sides of bowl, about 8 minutes.","Reduce speed to low and add prosciutto, pepperoni, capicola, and pepper. Continue to knead until combined, about 2 minutes longer (some meats may not be fully incorporated into dough at this point; this is OK). Transfer dough and any errant pieces of meats to lightly floured counter and knead by hand to evenly incorporate meats into dough, about 1 minute.","Form dough into smooth, round ball and place seam side down in lightly greased large bowl. Cover tightly with plastic wrap and let dough rise at room temperature until doubled in size, about 1½ hours.","Line baking sheet with parchment paper and lightly dust with cornmeal. Turn out dough onto counter and gently press down to deflate any large air pockets. Cut dough into 2 even pieces. Press each piece of dough into 8 by 5-inch rectangle with long side parallel to counter's edge.","Working with 1 piece of dough at a time, fold top edge of rectangle down to midline, pressing to seal. Fold bottom edge of rectangle up to midline and pinch to seal. Flip dough seam side down and gently roll into 12-inch loaf with tapered ends. Transfer loaf to 1 side of prepared sheet. Repeat shaping with second piece of dough and place loaf about 3 inches from first loaf on sheet. Cover with greased plastic and let rise at room temperature until puffy and dough springs back slowly when pressed lightly with your finger, about 45 minutes.","Adjust oven rack to middle position and heat oven to 450 degrees. Using sharp paring knife in swift, fluid motion, make ½-inch-deep lengthwise slash along top of each loaf, starting and stopping about 1½ inches from ends. Bake until loaves register 205 to 210 degrees, 22 to 25 minutes. Transfer loaves to wire rack and let cool completely, about 3 hours. Serve.","TO MAKE AHEAD: Make dough through step 3, form into ball, and place seam side down in lightly greased large bowl. Cover tightly with plastic wrap and refrigerate for at least 16 hours or up to 24 hours. Let dough come to room temperature, about 3 hours, before proceeding with step 5."]
+nutrition: ["null calories"]
+notes: "We love the combination of prosciutto, pepperoni, and capicola in this bread, but you can use 9 ounces of any combination of your favorite cured meats; just be sure to have each sliced ¼ inch thick at the deli counter. Do not use thinly sliced deli meats, as they will adversely affect the breads texture. Use a mild lager, such as Budweiser; strongly flavored beers will make this bread taste bitter."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Philadelphia Pork Sandwiches
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We went to Philadelphia for the cheesesteak. We stayed for the roast pork sandwich."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41066-sfs-philadelphia-pork-sandwiches-30
+tags: ["Main Courses","Pork","Sandwiches","Cookbook Collection"]
+calories: 5677
+protein: 50
+carbohydrates: 36
+fats: 
+fiber: 3
+ingredients: ["1 tablespoon, kosher salt","2 teaspoons, minced fresh rosemary","2 teaspoons, dried thyme","2 teaspoons, dried oregano","2 teaspoons, fennel seeds","1 teaspoon, red pepper flakes","1 (4-pound), boneless pork butt roast, trimmed","2 cups, chicken broth, plus extra as needed","8 , garlic cloves, peeled and smashed","2 tablespoons, extra-virgin olive oil","3 , garlic cloves, sliced thin","1 pound, broccoli rabe, trimmed and cut into ½-inch pieces","2 teaspoons, kosher salt","Pinch, red pepper flakes","8 (8-inch) Italian, sub rolls, split lengthwise","12 ounces sliced sharp, provolone cheese"]
+serves: 8
+time: "3½ to 4 hours, plus 1 hour cooling and 1 hour refrigerating"
+instructions: ["FOR THE PORK AND JUS: Adjust oven rack to lower-middle position and heat oven to 300 degrees. Combine salt, rosemary, thyme, oregano, fennel seeds, and pepper flakes in bowl. Tie pork with kitchen twine at 1-inch intervals. Sprinkle pork with salt mixture and transfer to large Dutch oven. Pour broth around pork and add garlic to pot. Cover, transfer to oven, and cook until meat registers 190 degrees, 2½ to 3 hours.","Transfer pork to large plate. Transfer braising liquid to 4-cup liquid measuring cup; add extra broth, if necessary, to equal 3 cups. Let pork and liquid cool completely, about 1 hour. Cover and refrigerate both for at least 1 hour or up to 2 days.","FOR THE BROCCOLI RABE: Heat oil and garlic in Dutch oven over medium heat until garlic is golden brown, 3 to 5 minutes. Add broccoli rabe, salt, and pepper flakes and cook, stirring occasionally, until tender, 4 to 6 minutes. Transfer to bowl.","About 20 minutes before serving, adjust oven rack to middle position and heat oven to 450 degrees. Remove twine and cut cooled pork in half lengthwise to make 2 even-size roasts. Position roasts cut side down and slice each crosswise as thin as possible.","Spoon solidified fat off cooled jus and discard. Transfer jus to Dutch oven and bring to boil over high heat. Reduce heat to low, add pork, cover, and cook until pork is heated through, about 3 minutes, tossing occasionally. Cover and keep warm.","FOR THE SANDWICHES: Arrange rolls on 2 rimmed baking sheets (4 rolls per sheet). Divide provolone evenly among rolls. Bake, 1 sheet at a time, until cheese is melted and rolls are warmed, about 3 minutes. Using tongs, divide pork and broccoli rabe evenly among rolls (about 1 cup pork and ⅓ cup broccoli rabe per roll). Serve, passing any remaining jus separately."]
+nutrition: ["873 mg Potassium","662 mg Phosphorus","488 mg Calcium","5 mg Iron","80 mg Magnesium","1049 mg Sodium","7 mg Zinc","39 g Fat","11 mg Niacin (B3)","15 g Monounsaturated","4 g Polyunsaturated","1 mg Riboflavin (B2)","1 mg Thiamin (B1)","12 mg Vitamin C","1 µg Vitamin D","138 mg Cholesterol","15 g Saturated","3 g Fiber","45 µg Folic acid","64 µg Folate (food)","2 g Sugars","136 µg Vitamin K","264 g Water","36 g Carbs","142 µg Folate equivalent (total)","50 g Protein","2 mg Vitamin E","2 µg Vitamin B12","1 mg Vitamin B6","181 µg Vitamin A","709 kcal Energy","5677 calories"]
+notes: "Plan ahead: You need to let the pork cool for 1 hour and then refrigerate it for at least 1 hour to make slicing easier. Sharp provolone is often labeled “Provolone Picante,” but you can use standard deli provolone, too. If youre using table salt, cut the amounts in half. Serve with jarred hot cherry peppers, if desired."
+---

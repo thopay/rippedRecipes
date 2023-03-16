@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Buffalo-Style Grill-Fried Chicken Wings
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We wanted the crunch of fried chicken without the frying. So we took it outside."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/35346_buffalo-grill-fried-wings
+tags: ["Main Courses","Chicken","Grilling & Barbecue"]
+calories: 4905
+protein: 45
+carbohydrates: 56
+fats: 
+fiber: 2
+ingredients: ["1 cup, Frank’s Red Hot Original Sauce",", Salt and pepper","1/4 cup, sugar","3 pounds, whole chicken wings, cut at joints, wingtips discarded","2 cups, all-purpose flour","1 teaspoon, granulated garlic","2 teaspoons, paprika","1/2 teaspoon, cayenne pepper","3 tablespoons, vegetable oil","4 tablespoons, unsalted butter"]
+serves: 6
+time: "2¼ hours, plus 1 hour brining and 30 minutes chilling"
+instructions: ["Dissolve 1/2 cup hot sauce, 1/4 cup salt, and sugar in 2 quarts cold water in large container. Add chicken and refrigerate, covered, for at least 1 hour or up to 3 hours.","Set wire rack in rimmed baking sheet. Whisk flour, granulated garlic, paprika, cayenne, 1 tablespoon pepper, and 1 teaspoon salt together in large bowl. Remove chicken from brine. Working in batches of four, dredge chicken pieces in flour mixture, pressing to adhere. Place chicken on prepared rack. Refrigerate chicken, uncovered, for at least 30 minutes or up to 2 hours.","FOR A CHARCOAL GRILL: Open bottom vent completely. Light large chimney starter mounded with charcoal briquettes (7 quarts). When top coals are partially covered with ash, pour into steeply banked pile against side of grill. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.","FOR A GAS GRILL: Turn all burners to high, cover, and heat grill until hot, about 15 minutes. Turn primary burner to high and turn off other burner(s). (Adjust primary burner [or, if using three-burner grill, primary burner and second burner] as needed to maintain grill temperature of 425 degrees.)","Clean and oil cooking grate. Place chicken, fatty side up, on cooler side of grill, arranging drumettes closest to coals. Cook chicken, covered, until lightly browned and coating is set, about 30 minutes for charcoal or about 45 minutes for gas.","Brush chicken with oil until no traces of flour remain (use all oil). Cover and continue to cook until coating is golden brown and chicken registers between 180 and 200 degrees, about 30 minutes longer for charcoal or about 45 minutes longer for gas. Transfer chicken to clean wire rack and let cool for 10 minutes.","Combine butter and remaining 1/2 cup hot sauce in large bowl and microwave, covered, until butter is melted, about 1 minute. Whisk to fully combine. Add chicken and toss to coat. Serve."]
+nutrition: ["535 mg Potassium","346 mg Phosphorus","110 mg Calcium","10 mg Iron","54 mg Magnesium","730 mg Sodium","3 mg Zinc","45 g Fat","17 mg Niacin (B3)","21 g Monounsaturated","8 g Polyunsaturated","272 mg Cholesterol","14 g Saturated","2 g Fiber","89 µg Folic acid","37 µg Folate (food)","8 g Sugars","11 µg Vitamin K","165 g Water","56 g Carbs","188 µg Folate equivalent (total)","45 g Protein","3 mg Vitamin E","1 mg Vitamin B6","107 µg Vitamin A","817 kcal Energy","8 g Sugars, added","4905 calories"]
+notes: "We prefer to buy whole chicken wings and butcher them ourselves because they tend to be larger than wings that come presplit. If you can find only presplit wings, opt for larger ones, if possible. Ideally, 12 whole wings should equal 3 pounds, which will yield 24 pieces of chicken (12 drumettes and 12 flats, tips discarded) once broken down. Do not brine the chicken for longer than 3 hours in step 1 or it will become too salty. Charcoal grills tend to produce more-intense heat than gas grills do, hence the difference in cooking times."
+---

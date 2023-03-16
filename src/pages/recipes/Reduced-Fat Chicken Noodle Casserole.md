@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Reduced-Fat Chicken Noodle Casserole
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Weve made a from-scratch version of this American favorite thats rich and creamy. Could we trim fat and calories without losing the cheesy appeal?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/24270_sfs-chicken-noodle-casserole-13
+tags: ["Main Courses","Chicken","Light","Casseroles"]
+calories: 3843
+protein: 31
+carbohydrates: 45
+fats: 
+fiber: 3
+ingredients: ["8 ounces, wide egg noodles",", Salt and pepper","1 tablespoon, vegetable oil","8 ounces, white mushrooms, trimmed and chopped","1 , red bell pepper, stemmed, seeded, and chopped fine","1 , onion, chopped fine","1 , carrot, peeled and chopped fine","1 1/2 teaspoons, minced fresh thyme","3 tablespoons, cornstarch","3 cups, chicken broth","1 (12-ounce) can 2 percent low-fat, evaporated milk","1 pound, boneless, skinless chicken breasts, trimmed and halved lengthwise","4 ounces, 50 percent light cheddar cheese, shredded (1 cup)","4 ounces reduced-fat, American cheese, chopped (1 cup)","1 1/2 cups, frozen peas","20 reduced-fat, Ritz Crackers, crushed coarse"]
+serves: 8
+time: ""
+instructions: ["Adjust oven rack to upper-middle position and heat oven to 425 degrees. Bring 2 quarts water to boil in Dutch oven. Add noodles and 1 1/2 teaspoons salt and cook until just al dente, about 3 minutes. Drain noodles in colander and rinse under cold running water until cool, about 2 minutes. Drain again thoroughly and set aside.","Heat oil in now-empty pot over medium-high heat until shimmering. Add mushrooms, bell pepper, onion, carrot, and 1/4 teaspoon salt and cook until beginning to brown, 5 to 7 minutes. Stir in thyme and cook until fragrant, about 30 seconds. Transfer to bowl.","Whisk cornstarch together with 3 tablespoons broth in small bowl; set aside. Combine evaporated milk and remaining broth in now-empty pot and bring to boil over high heat. Add chicken, reduce heat to medium-low, and cook until chicken registers 155 degrees, 8 to 10 minutes. Transfer chicken to plate.","Whisk cornstarch mixture into sauce, return to boil, and cook until thickened, about 1 minute. Remove pot from heat and whisk cheddar and American cheeses into sauce until smooth. Shred chicken into bite-size pieces using 2 forks. Stir peas, shredded chicken, noodles, mushroom mixture, 1 1/2 teaspoons salt, and 1 1/4 teaspoons pepper into cheese sauce until combined.","Transfer mixture to 13 by 9-inch baking dish and top with crackers. Bake until golden brown and bubbling, about 15 minutes. Let casserole cool on wire rack for 10 minutes. Serve.","TO MAKE AHEAD: Casserole can be prepared through step 4, transferred to baking dish, and refrigerated without cracker topping for up to 24 hours. To serve: Heat casserole in microwave until hot throughout, about 5 minutes; then top with crackers and bake as directed."]
+nutrition: ["776 mg Potassium","504 mg Phosphorus","323 mg Calcium","2 mg Iron","71 mg Magnesium","817 mg Sodium","2 mg Zinc","19 g Fat","11 mg Niacin (B3)","6 g Monounsaturated","2 g Polyunsaturated","26 mg Vitamin C","1 µg Vitamin D","103 mg Cholesterol","8 g Saturated","3 g Fiber","61 µg Folic acid","56 µg Folate (food)","10 g Sugars","15 µg Vitamin K","251 g Water","45 g Carbs","161 µg Folate equivalent (total)","31 g Protein","1 mg Vitamin E","188 µg Vitamin A","480 kcal Energy","3843 calories"]
+notes: "Cooking the egg noodles until just al dente and then shocking them in cold water prevents them from overcooking when baked in the casserole. To keep the sauce from breaking, be sure to remove the Dutch oven from the heat before adding the cheese."
+---

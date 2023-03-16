@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Kesra Rakhsis (Semolina Flatbread)
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Tear it, cut it, or just pick it up and take a bite—no matter how you get at it, this flatbread is amazing."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_RekSas_121_wfevo2
+tags: ["Side Dishes","Grains","Quick Breads"]
+calories: 2884
+protein: 8
+carbohydrates: 46
+fats: 15
+fiber: 3
+ingredients: ["2 tablespoons, sesame seeds","2¾–3 cups (16½ to 18 ounces) fine, semolina flour","1 1/4 teaspoons, table salt","1 teaspoon active dry, yeast","1 teaspoon, sugar","1 teaspoon, nigella seeds","1 teaspoon, chia seeds (optional)","1 cup warm tap, water","1/2 cup, extra-virgin olive oil"]
+serves: 8
+time: "1 hour, plus 1 hour resting"
+instructions: ["Toast sesame seeds in 8-inch skillet over medium heat until deep golden brown and fragrant, 4 to 6 minutes. Transfer sesame seeds to large bowl. Add 2¾ cups flour; salt; yeast; sugar; nigella seeds; and chia seeds, if using.","Stir in warm tap water and oil until fully combined. (Dough should be soft and tacky but still workable. If dough is too wet, stir in additional flour, 1 tablespoon at a time, up to ¼ cup, until dough can hold its shape.) Turn out dough onto clean counter and knead by hand until dough feels less sticky and springs back when pressed lightly with your fingertip (continue kneading if it doesn’t), 3 to 5 minutes.","Divide dough into 2 equal pieces (about 14 ounces each). Shape each piece into ball. Working with 1 dough ball at a time, place ball seam side down on clean counter and drag in small circles until ball is taut. Cover dough balls loosely with plastic wrap. Let rest for 1 hour.","Roll 1 dough ball into 8-inch round. Repeat with remaining dough ball.","Heat 12-inch cast-iron skillet over medium-low heat for 10 minutes. Prick 1 dough round all over with fork. Loosely roll dough around rolling pin and gently and carefully unroll it into skillet. Cook until underside is deep golden brown, about 5 minutes, rotating flatbread as needed for even browning. Flip flatbread and continue to cook until second side is deep golden brown, about 4 minutes longer. Transfer to large plate.","Repeat pricking and cooking with remaining dough round (you needn’t preheat skillet again). Tear or cut into wedges and serve warm."]
+nutrition: ["132 mg Potassium, K","107 mg Phosphorus, P","40 mg Calcium, Ca","1 mg Iron, Fe","40 mg Magnesium, Mg","252 mg Sodium, Na","15 g Total lipid (fat)","2 mg Niacin","10 g Fatty acids, total monounsaturated","2 g Fatty acids, total polyunsaturated","2 g Fatty acids, total saturated","3 g Fiber, total dietary","58 µg Folate, food","8 µg Vitamin K (phylloquinone)","37 g Water","46 g Carbohydrate, by difference","58 µg Folate, DFE","8 g Protein","1 mg Vitamin E (alpha-tocopherol)","360 kcal Energy","2884 calories"]
+notes: "We adapted this recipe from a recipe by Wafa Bahloul, chef and co-owner of Kayma, a restaurant serving Algerian food in the La Cocina Municipal Marketplace in San Francisco. In her recipe, Bahloul uses Algerian extra‑virgin olive oil, which is made with black olives and has a distinct flavor, but you can use any high-quality extra-virgin olive oil here. You can substitute black sesame seeds for the nigella seeds, if desired. Different semolina flours absorb different amounts of water. In our testing, the finer the flour, the sturdier the dough. We had the best results with a very fine semolina flour such as Caputo Durum Wheat Semolina. If your dough is too soft in step 2, add extra flour; the dough’s texture should be similar to that of Play-Doh. Serve the bread warm with butter and/or olives or alongside dips or soup."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Brown Sugar Pavlova with Stone Fruit
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This dessert is as airy as a ballerina’s tutu, but it tastes way better."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BrownSugarPavlova_127_cb6lew
+tags: ["Desserts or Baked Goods","Fruit","Make Ahead"]
+calories: 2963
+protein: 4
+carbohydrates: 58
+fats: 14
+fiber: 2
+ingredients: ["1 cup (7 ounces), granulated sugar","½ cup packed (3½ ounces), light brown sugar","2 tablespoons, cornstarch","6 , large egg whites","Pinch , table salt","2 teaspoons, distilled white vinegar","2 teaspoons, vanilla extract","1½ pounds, ripe peaches, nectarines, plums, apricots, or a combination, halved, pitted, and cut into ½-inch wedges","8 ounces, fresh sweet cherries, pitted and halved","2 tablespoons, packed light brown sugar","Pinch , table salt","1 cup, heavy cream, chilled","½ cup, sour cream, chilled","2 tablespoons, packed light brown sugar"]
+serves: 8
+time: "2¼ hours, plus 1¾ hours cooling"
+instructions: ["FOR THE MERINGUE: Adjust oven rack to middle position and heat oven to 275 degrees. Line baking sheet with parchment paper. Whisk granulated sugar, brown sugar, and cornstarch together in bowl.","Using stand mixer fitted with whisk attachment, whip egg whites and salt on medium speed until foamy, about 1 minute. Increase speed to medium-high and whip until soft peaks form, about 1 minute. With mixer running, slowly add sugar mixture until fully incorporated, about 90 seconds. Stop mixer and scrape down bowl with spatula. Whip on high speed until very thick stiff peaks form and sugar is fully dissolved (meringue should feel smooth, not gritty, when rubbed between your fingers), 4 to 6 minutes. Add vinegar and vanilla and whip until combined, about 10 seconds.","Pile meringue in center of prepared sheet. Spread and smooth meringue with back of spoon or spatula from center outward, building 9-inch disk that is slightly taller around edges.","Bake meringue until exterior is dry and crisp, about 1½ hours. Turn off oven, prop door open with wooden spoon, and let meringue cool in oven for 1½ hours. Remove from oven and let cool completely before topping, about 15 minutes. (Cooled meringue can be wrapped tightly in plastic wrap and stored at room temperature for up to 3 days.)","FOR THE TOPPING: Toss all ingredients together in large bowl. Set aside for 30 minutes, tossing occasionally.","FOR THE WHIPPED CREAM: Using stand mixer fitted with whisk attachment, whip heavy cream, sour cream, and brown sugar together on medium-low speed until foamy, about 1 minute. Increase speed to high and whip until soft peaks form, about 1 minute.","Carefully peel meringue away from parchment and place on large serving platter. Spread whipped cream over meringue. Spoon fruit over whipped cream. Cut into wedges and serve."]
+nutrition: ["368 mg Potassium, K","64 mg Phosphorus, P","64 mg Calcium, Ca","18 mg Magnesium, Mg","102 mg Sodium, Na","14 g Total lipid (fat)","4 g Fatty acids, total monounsaturated","9 mg Vitamin C, total ascorbic acid","48 mg Cholesterol","8 g Fatty acids, total saturated","2 g Fiber, total dietary","12 µg Folate, food","54 g Sugars, total","4 µg Vitamin K (phylloquinone)","148 g Water","58 g Carbohydrate, by difference","12 µg Folate, DFE","4 g Protein","1 mg Vitamin E (alpha-tocopherol)","231 µg Vitamin A, RAE","370 kcal Energy","44 g Sugars, added","2963 calories"]
+notes: "Open the oven door as infrequently as possible while the meringue is inside. Do not worry if the meringue cracks; it is part of the desserts charm. The inside of the meringue will remain soft. Additional peaches, nectarines, plums, and/or apricots can be used in place of the cherries. Avoid making pavlova on humid days or the meringue shell may turn out sticky."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Two-Hour Turkey and Gravy
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "With two small cuts, we cooked a juicy roast turkey for the holidays in just 2 hours."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/25107_sfs-no-fuss-turkey-with-gravy-14
+tags: ["Main Courses","American","Turkey","Roasts","Thanksgiving"]
+calories: 6856
+protein: 76
+carbohydrates: 7
+fats: 
+fiber: 1
+ingredients: ["2 , onions, quartered through root end","2 , carrots, peeled and cut into 3-inch pieces","1 , celery rib, cut into 3-inch pieces","1 (12- to 14-pound) prebrined, turkey, neck reserved, giblets discarded","3 tablespoons, extra-virgin olive oil",", Kosher salt and pepper","3 cups, water, plus extra as needed","1 tablespoon, unsalted butter","1/4 cup, dry white wine","1/4 cup, all-purpose flour","4 sprigs, fresh thyme","1 sprig fresh, sage"]
+serves: 12
+time: "2¾ hours, plus 45 minutes resting"
+instructions: ["Adjust oven rack to lowest position and heat oven to 450 degrees. Scatter onions, carrots, celery, and turkey neck in bottom of large roasting pan. Set V-rack over vegetables in roasting pan. Pat turkey dry with paper towels and tuck wingtips behind back. Transfer turkey, breast side up, to V-rack.","Using sharp knife, slice through skin between breast and leg on each side of turkey to expose entire underside of thigh without cutting into meat. Combine oil, 1 tablespoon salt, and 1 1/2 teaspoons pepper in small bowl. Brush turkey all over with oil mixture.","Roast turkey until thickest part of breast registers 120 degrees and thickest part of thighs registers at least 135 degrees, 60 to 70 minutes.","Reduce oven temperature to 250 degrees and continue to roast turkey until breast registers 160 degrees and thighs register 175 degrees, 35 to 45 minutes longer. Transfer turkey to carving board and let rest for 45 minutes.","While turkey rests, transfer vegetables and turkey neck from roasting pan to bowl, leaving turkey juices behind. Add water to roasting pan with turkey juices and scrape up any browned bits from pan bottom. Transfer deglazed juices to 4-cup liquid measuring cup; add extra water, if needed, to equal 4 cups.","Melt butter in Dutch oven over medium-high heat. Add vegetables and turkey neck and cook until any liquid has evaporated and browned bits begin to form on bottom of pot, 3 to 5 minutes. Add wine and cook until nearly evaporated, about 2 minutes, scraping up any browned bits.","Sprinkle flour over top and cook, stirring constantly, for 1 minute. Add thyme sprigs, sage sprig, deglazed pan juices, 1/2 teaspoon salt, and 1/2 teaspoon pepper. Bring to boil, then reduce heat to medium-low and simmer until thickened to gravy consistency, 12 to 15 minutes.","Strain gravy through fine-mesh strainer set over medium saucepan; discard solids. Season with salt and pepper to taste. Carve turkey and serve with gravy."]
+nutrition: ["897 mg Potassium","657 mg Phosphorus","74 mg Calcium","3 mg Iron","100 mg Magnesium","1396 mg Sodium","6 mg Zinc","24 g Fat","26 mg Niacin (B3)","9 g Monounsaturated","5 g Polyunsaturated","4 mg Vitamin C","1 µg Vitamin D","253 mg Cholesterol","6 g Saturated","1 g Fiber","4 µg Folic acid","34 µg Folate (food)","1 g Sugars","18 µg Vitamin K","349 g Water","7 g Carbs","41 µg Folate equivalent (total)","76 g Protein","4 µg Vitamin B12","2 mg Vitamin B6","157 µg Vitamin A","571 kcal Energy","6856 calories"]
+notes: "If you can’t find a self-basting turkey, a kosher turkey can be substituted. Avoid opening the oven too frequently to take the turkey’s temperature. If your turkey is on the smaller side of the weight range, follow the lower end of the time ranges given, and vice versa."
+---

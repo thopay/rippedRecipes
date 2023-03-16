@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Reduced-Fat Pastitsio (Greek Lasagna)
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "The classic version of this rich, creamy layered Greek casserole is easy to love. Could we say the same for the lower-fat version?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/21990_sfs-pastitsio-17
+tags: ["Main Courses","Turkey","Casseroles"]
+calories: 3299
+protein: 29
+carbohydrates: 43
+fats: 
+fiber: 3
+ingredients: ["1 pound, white mushrooms, trimmed and halved","1 slice, hearty white sandwich bread, torn into quarters","2 tablespoons 2 percent, low-fat milk",", Salt and pepper","1 pound, 93 percent lean ground turkey","1 teaspoon, olive oil","1 , onion, chopped fine","2 tablespoons, tomato paste","4 , garlic cloves, minced","1 1/2 teaspoons, dried oregano","1 teaspoon, ground cinnamon","1 , (15-ounce) can tomato sauce","8 ounces (2 cups), elbow macaroni",", Salt and pepper","3 tablespoons, cornstarch","3 cups 2 percent, low-fat milk","1 teaspoon, olive oil","3 , garlic cloves, minced","1 (12-ounce) can evaporated, skim milk","2 1/2 ounces, Pecorino Romano cheese, grated (1 1/4 cups)","1/3 cup, 2 percent Greek yogurt"]
+serves: 8
+time: "2 hours, plus 20 minutes cooling"
+instructions: ["FOR THE MEAT SAUCE: Process mushrooms in food processor until coarsely chopped, about 10 pulses, scraping down sides of bowl as needed. Transfer mushrooms to bowl; set aside. In now-empty processor, pulse bread, milk, 1/2 teaspoon salt, and 1/2 teaspoon pepper until paste forms, about 8 pulses. Add turkey and pulse until well combined, about 6 pulses.","Heat oil in 12-inch skillet over medium heat until shimmering. Add onion, mushrooms, 1/2 teaspoon salt, and 1/4 teaspoon pepper and cook until liquid has evaporated, 8 to 10 minutes. Stir in tomato paste, garlic, oregano, and cinnamon and cook until fragrant and tomato paste turns rust colored, about 1 minute. Stir in tomato sauce. Add turkey mixture and cook, breaking into small pieces with spoon, until no longer pink, about 6 minutes. Remove from heat and set aside.","FOR THE PASTA AND BECHAMEL: Adjust oven rack to middle position and heat oven to 375 degrees. Bring 2 quarts water to boil in Dutch oven. Add macaroni and 1/2 tablespoon salt and cook until al dente. Drain in colander, rinse with cold water until cool, and then drain again thoroughly. Transfer macaroni to large bowl.","Whisk cornstarch together with 1/2 cup low-fat milk and set aside. Combine oil and garlic in now-empty pot and set over medium-high heat. Once garlic begins to brown, add evaporated milk and remaining 2 1/2 cups low-fat milk and bring to boil, stirring occasionally to prevent scorching. Whisk cornstarch mixture to recombine, then whisk into pot. Return to boil, whisking constantly, and cook until thickened, about 1 minute. Off heat, whisk in 1 cup Pecorino. Season bechamel with salt and pepper to taste.","Grease 13 by 9-inch baking dish with vegetable oil spray. Stir 2 cups bechamel into macaroni until combined. Transfer sauced macaroni to prepared dish. Spread meat sauce over macaroni. Whisk yogurt into remaining bechamel, then pour over meat sauce. Sprinkle pastitsio with remaining 1/4 cup Pecorino. Bake until golden brown, 30 to 35 minutes, rotating dish halfway through baking. Let cool for 20 minutes. Serve."]
+nutrition: ["869 mg Potassium","538 mg Phosphorus","491 mg Calcium","2 mg Iron","74 mg Magnesium","926 mg Sodium","3 mg Zinc","14 g Fat","6 mg Niacin (B3)","4 g Monounsaturated","2 g Polyunsaturated","8 mg Vitamin C","2 µg Vitamin D","70 mg Cholesterol","6 g Saturated","3 g Fiber","38 µg Folate (food)","12 g Sugars","8 µg Vitamin K","295 g Water","43 g Carbs","39 µg Folate equivalent (total)","29 g Protein","1 mg Vitamin E","1 µg Vitamin B12","161 µg Vitamin A","412 kcal Energy","3299 calories"]
+notes: "The meat sauce can be made and refrigerated up to two days in advance. The bechamel is best made the day of use."
+---

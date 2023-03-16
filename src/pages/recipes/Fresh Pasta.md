@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Fresh Pasta
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Rolling out pasta by hand is fun—and it produces beautifully tender, tasty noodles every time."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_FreshPasta_2_gl0ffu
+tags: ["Main Courses","Italian","Pasta"]
+calories: 1413
+protein: 6
+carbohydrates: 36
+fats: 
+fiber: 1
+ingredients: ["2 cups (10 ounces), all-purpose flour","2 , large eggs plus 6 large yolks","2 tablespoons, extra-virgin olive oil",", Table salt for cooking pasta"]
+serves: 6
+time: "2¼ hours"
+instructions: ["Process flour, eggs and yolks, and oil in food processor until mixture forms cohesive dough that feels soft and is barely tacky to touch, about 45 seconds. (If dough sticks to your fingers, add up to ¼ cup flour, 1 tablespoon at a time, until barely tacky. If dough doesn't become cohesive, add up to 1 tablespoon water, 1 teaspoon at a time, until it just comes together; process 30 seconds longer.)","Turn dough ball onto dry surface; knead until smooth, about 30 seconds. Shape dough into 6-inch-long cylinder. Wrap in plastic wrap. Let rest at room temperature for at least 1 hour or up to 4 hours.","Cut cylinder crosswise into 6 equal pieces. Working with 1 piece of dough (rewrap remaining dough), dust both sides with flour, place cut side down on clean counter, and press into 3-inch square.","Using heavy rolling pin, roll into 6-inch square. Dust both sides of dough lightly with flour. Starting at center of square, roll dough away from you in 1 motion. Return rolling pin to center of dough and roll toward you in 1 motion. Repeat rolling steps until dough sticks to counter and measures roughly 12 inches long.","Lightly dust both sides of dough with flour. Roll dough until it measures roughly 20 inches long and 6 inches wide, frequently lifting dough to release it from counter. (Outline of your fingers should be easily visible through dough.) If dough firmly sticks to counter and wrinkles when rolled out, dust dough lightly with flour.","Transfer pasta sheet to clean dish towel on counter and let stand, uncovered, until firm around edges, about 15 minutes. Meanwhile, roll out remaining dough. Starting with 1 short end, gently fold pasta sheet at 2-inch intervals until sheet has been folded into flat, rectangular roll.","Using sharp chef's knife, slice crosswise into ⅛-inch-thick noodles for linguine, ¼-inch-thick noodles for tagliatelle, or ½-inch-thick noodles for pappardelle. Use your fingers to unfurl pasta; transfer to rimmed baking sheet. Repeat folding and cutting with remaining pasta sheets.","Bring 4 quarts water to boil in large Dutch oven. Add 1 tablespoon salt and pasta and cook until tender but still al dente, about 3 minutes. Reserve 1 cup cooking water. Drain pasta and toss with desired sauce, adjusting consistency with reserved cooking water as needed. Serve immediately.","TO MAKE AHEAD: At end of step 7, place baking sheet in freezer and freeze until pasta is firm. Transfer pasta to zipper-lock bag and freeze for up to 2 weeks. Cook pasta from frozen as directed in step 8."]
+nutrition: ["73 mg Potassium","84 mg Phosphorus","16 mg Calcium","2 mg Iron","12 mg Magnesium","159 mg Sodium","6 g Fat","2 mg Niacin (B3)","3 g Monounsaturated","62 mg Cholesterol","1 g Saturated","1 g Fiber","72 µg Folic acid","21 µg Folate (food)","2 µg Vitamin K","18 g Water","36 g Carbs","145 µg Folate equivalent (total)","6 g Protein","26 µg Vitamin A","235 kcal Energy","1413 calories"]
+notes: "The longer the dough rests in step 2, the easier it will be to roll out. When rolling out the dough in step 4, be sure to avoid dusting the dough with too much flour; that may result in the dough snapping back into shape as you roll. Cook the noodles within 1 hour of cutting them."
+---

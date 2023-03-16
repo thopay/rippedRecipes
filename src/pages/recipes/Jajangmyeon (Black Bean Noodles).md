@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Jajangmyeon (Black Bean Noodles)
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Popular in Korean cuisine, this quick-cooking, intensely flavorful dish of noodles crowned with a supersavory sauce deserves a wider audience."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Jajangmyeon-85_fqky92
+tags: ["Main Courses","Korean","Pasta","Beans","Weeknight"]
+calories: 6819
+protein: 43
+carbohydrates: 167
+fats: 33
+fiber: 12
+ingredients: ["12 ounces, russet potatoes, peeled and cut into ½-inch pieces","4 cups chopped, onion, divided","⅔ cup roasted, chunjang (Korean black bean paste)","2 tablespoons, sugar","2 tablespoons, oyster sauce","1½ teaspoons, monosodium glutamate (optional)","4 teaspoons, cornstarch","10 ounces, ground pork","2 tablespoons, soy sauce","2 teaspoons, grated fresh ginger","10 , scallions, sliced thin","½ cup, canola oil","4 cups chopped, green cabbage","6 ounces, shrimp, peeled, deveined, tails removed, and cut into ¼-inch pieces","35 ounces fresh Korean udon, noodles","1 , English cucumber, cut into matchsticks","1 danmuji (Korean pickled, daikon radish ), halved lengthwise and sliced thin crosswise (optional)"]
+serves: 6
+time: "50 minutes"
+instructions: ["Place potatoes in large saucepan and cover with water by 1 inch. Bring to boil over high heat. Reduce heat to medium-low and simmer until potatoes are al dente and paring knife inserted into them meets some resistance, about 3 minutes. Drain potatoes in colander and transfer to bowl; set aside.","Combine 2 cups onion; chunjang; sugar; oyster sauce; and monosodium glutamate, if using, in second bowl and set aside. Stir 1 cup water and cornstarch together in liquid measuring cup; set aside.","Cook pork in 14-inch wok or large Dutch oven over medium-high heat, breaking up meat with wooden spoon, until no longer pink, about 3 minutes. Stir in soy sauce and ginger and cook until fragrant, about 1 minute.","Add scallions and oil to pork mixture and cook for 1 minute. Stir in chunjang mixture and cook until onion is softened, about 3 minutes. Add cabbage, potatoes, and remaining 2 cups onion and cook until cabbage is softened, 5 to 7 minutes. Stir in shrimp and cook for 30 seconds.","Stir cornstarch mixture to recombine, then stir into sauce. Bring to boil and cook, stirring often, until sauce is thickened and glossy, about 3 minutes; remove from heat. (Jajang sauce can be refrigerated for up to 3 days.)","Meanwhile, bring 4 quarts water to boil in large pot. Add noodles and cook, stirring often, until tender. Drain noodles and rinse under hot running water, tossing gently, for 1 minute. Drain noodles again and transfer to serving bowls. Spoon jajang sauce over noodles. Serve with cucumber and danmuji, if using."]
+nutrition: ["1401 mg Potassium, K","622 mg Phosphorus, P","168 mg Calcium, Ca","5 mg Iron, Fe","174 mg Magnesium, Mg","1855 mg Sodium, Na","5 mg Zinc, Zn","33 g Total lipid (fat)","6 mg Niacin","16 g Fatty acids, total monounsaturated","8 g Fatty acids, total polyunsaturated","49 mg Vitamin C, total ascorbic acid","79 mg Cholesterol","6 g Fatty acids, total saturated","12 g Fiber, total dietary","120 µg Folate, food","19 g Sugars, total","102 µg Vitamin K (phylloquinone)","396 g Water","167 g Carbohydrate, by difference","120 µg Folate, DFE","43 g Protein","3 mg Vitamin E (alpha-tocopherol)","13 µg Vitamin A, RAE","1136 kcal Energy","4 g Sugars, added","6819 calories"]
+notes: "We prefer to use roasted chunjang for its more complex flavor; you can substitute an unroasted version if thats all you can find. Monosodium glutamate is optional but provides the sauce with deep seasoning. Fresh (or fresh-frozen) Korean udon noodles are often sold in 1-kilogram (35-ounce) packages and contain individual bundles of noodles weighing 8 to 9 ounces each; these are thinner and less chewy than Japanese udon. You can use any size shrimp here."
+---

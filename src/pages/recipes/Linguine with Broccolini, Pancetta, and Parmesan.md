@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Linguine with Broccolini, Pancetta, and Parmesan
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This delicious weeknight pasta comes together quickly and packs deeply satisfying flavor."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_LinguineBroccoliniPancettaParmesan_022_asqfx1
+tags: ["Main Courses","Vegetables","Pork","Pasta","Cheese","Weeknight"]
+calories: 4118
+protein: 24
+carbohydrates: 69
+fats: 34
+fiber: 4
+ingredients: ["1 cup, panko bread crumbs","1 tablespoon, extra-virgin olive oil","1/4 teaspoon, table salt","1 pound, broccolini, trimmed, stalks cut into 1-inch pieces, florets left whole","1 teaspoon, table salt, plus salt for cooking broccolini and pasta","1 pound, linguine","1/4 cup, extra-virgin olive oil","4 ounces, pancetta, cut into 1⁄4-inch pieces","2 , garlic cloves, minced","3/4 teaspoon, red pepper flakes","2 ounces, Parmesan cheese, grated (1 cup), plus extra for serving","4 tablespoons, unsalted butter, cut into 4 pieces"]
+serves: 6
+time: "1¼ hours"
+instructions: ["FOR THE BREAD CRUMBS: Combine panko, oil, and salt in 12-inch nonstick skillet. Cook over medium heat, stirring frequently, until panko is golden brown, 3 to 6 minutes. Transfer to bowl and set aside.","FOR THE PASTA: Bring 4 quarts water to boil in Dutch oven over high heat. Add broccolini stalks and 1 tablespoon salt. Cook, stirring often, until crisp-tender, about 1 minute. Add florets and continue to cook 1 minute longer. Using spider skimmer or slotted spoon, transfer broccolini to second bowl and set aside.","Return water to boil; add pasta; and cook, stirring often, until strands are flexible but still very firm in center, 5 to 7 minutes. Reserve 2 cups cooking water, then drain pasta and set aside.","Wipe pot dry with paper towels. Combine oil and pancetta in now‑empty pot and cook over medium heat until pancetta is golden brown and beginning to crisp, 6 to 8 minutes. Add garlic, pepper flakes, and salt and cook until fragrant, about 30 seconds.","Add 1½ cups reserved cooking water to oil mixture, increase heat to medium-high, and bring to boil. Stir in pasta and broccolini and cook, stirring often and folding pasta over itself, until water is mostly absorbed and pasta is al dente, about 3 minutes.","Off heat, stir in Parmesan and butter until butter is melted. Adjust consistency with remaining reserved cooking water as needed. Transfer to serving dish; sprinkle with ½ cup bread crumbs; and serve, passing extra Parmesan and remaining ½ cup bread crumbs separately."]
+nutrition: ["476 mg Potassium, K","396 mg Phosphorus, P","369 mg Calcium, Ca","2 mg Iron, Fe","69 mg Magnesium, Mg","527 mg Sodium, Na","2 mg Zinc, Zn","34 g Total lipid (fat)","2 mg Niacin","15 g Fatty acids, total monounsaturated","3 g Fatty acids, total polyunsaturated","68 mg Vitamin C, total ascorbic acid","49 mg Cholesterol","13 g Fatty acids, total saturated","4 g Fiber, total dietary","63 µg Folate, food","4 g Sugars, total","85 µg Vitamin K (phylloquinone)","93 g Water","69 g Carbohydrate, by difference","63 µg Folate, DFE","24 g Protein","2 mg Vitamin E (alpha-tocopherol)","142 µg Vitamin A, RAE","686 kcal Energy","4118 calories"]
+notes: "Note that the pasta is cooked to very al dente in step 3; it should be flexible but still very firm in the center because it finishes cooking in the sauce in step 5. Broccolini is also sold as baby broccoli. Broccolini stalks can vary greatly in thickness. Try to find bunches with stalks that are all about ¼ inch thick. If the stalks are thicker than ¼ inch, cut them in half lengthwise before cutting them into 1-inch pieces. Buy a hunk of pancetta from the deli counter rather than presliced pancetta."
+---

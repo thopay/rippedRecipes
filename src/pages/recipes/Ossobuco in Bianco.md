@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Ossobuco in Bianco
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "This hallmark Milanese veal braise revisits its humble roots."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_OssoBucoBianco-16_h1xpx8
+tags: ["Main Courses","Cheese","Beef"]
+calories: 3138
+protein: 51
+carbohydrates: 17
+fats: 22
+fiber: 1
+ingredients: ["6 (10- to 14-ounce), veal shanks, 1½ inches thick, 4 to 5 inches in diameter","4 teaspoons, kosher salt","2 teaspoons, pepper","¾ cup plus 1 tablespoon, all-purpose flour, divided","¼ cup, extra-virgin olive oil, divided","2 tablespoons, unsalted butter","1 , onion, chopped fine","6 , garlic cloves, minced, divided","3 , anchovy fillets","1 cup, dry white wine","5 cups, water","6 fresh, thyme sprigs","2 , bay leaves","1 ounce, Parmesan rind (optional)","¼ cup, chopped fresh parsley","2 teaspoons, grated lemon zest"]
+serves: 6
+time: "3 hours, plus 20 minutes resting"
+instructions: ["Adjust oven rack to lower-middle position and heat oven to 325 degrees. Tie each shank tightly around equator with butcher's twine and pat dry with paper towels. Sprinkle all over with salt and pepper. Spread ¾ cup flour in shallow dish and dredge each shank in flour, shaking off excess.","Heat 2 tablespoons oil in Dutch oven over medium-high heat until shimmering. Add half of shanks in single layer and cook without moving them until well browned on both sides, 4 to 6 minutes per side. Transfer shanks to large plate. Repeat with remaining 2 tablespoons oil and remaining shanks.","Reduce heat to medium-low. Add butter to fat left in pot and cook until melted. Stir in onion, half of garlic, and anchovies and cook until onion is softened and lightly browned, 3 to 5 minutes. Stir in remaining 1 tablespoon flour and cook for 1 minute. Stir in wine, scraping up any browned bits, and cook until reduced by about half, about 1 minute.","Stir in water; thyme sprigs; bay leaves; and Parmesan rind, if using, and bring to simmer over medium-high heat. Nestle shanks into pot, overlapping slightly as needed, and return to simmer. Cover; transfer pot to oven; and cook until shanks are fork-tender, 2 to 2½ hours.","Remove pot from oven and let shanks rest in liquid, covered, for 20 minutes. Using tongs and spatula, carefully transfer shanks to serving platter, remove twine, and tent with aluminum foil. Discard thyme sprigs; bay leaves; and Parmesan rind, if using, from braising liquid. Bring braising liquid to simmer over medium-high heat and cook until thickened slightly and sauce measures about 2 cups, 10 to 15 minutes.","Combine parsley, lemon zest, and remaining garlic in small bowl. Off heat, stir half of parsley mixture into sauce. Season sauce with salt and pepper to taste. Ladle sauce over shanks and sprinkle with remaining parsley mixture. Serve."]
+nutrition: ["910 mg Potassium, K","542 mg Phosphorus, P","155 mg Calcium, Ca","3 mg Iron, Fe","74 mg Magnesium, Mg","1500 mg Sodium, Na","10 mg Zinc, Zn","22 g Total lipid (fat)","19 mg Niacin","11 g Fatty acids, total monounsaturated","2 g Fatty acids, total polyunsaturated","11 mg Vitamin C, total ascorbic acid","196 mg Cholesterol","7 g Fatty acids, total saturated","1 g Fiber, total dietary","26 µg Folic acid","52 µg Folate, food","1 g Sugars, total","48 µg Vitamin K (phylloquinone)","447 g Water","18 g Carbohydrate, by difference","96 µg Folate, DFE","51 g Protein","1 mg Vitamin E (alpha-tocopherol)","3 µg Vitamin B-12","1 mg Vitamin B-6","60 µg Vitamin A, RAE","17 g Carbohydrates (net)","523 kcal Energy","3138 calories"]
+notes: "The pot will grow increasingly hot during the searing process in step 2; browning will happen faster with the second batch. Briefly turn down the heat between batches if the oil is smoking too much. More economical beef shanks can be substituted for the veal shanks, with the same specifications. The dish will have a stronger meaty flavor and the meat will have a slightly firmer texture. Serve with our Risotto Milanese, if desired."
+---

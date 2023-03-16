@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Potato-Sauerkraut Pierogi
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We scoured Pittsburgh’s Polish Hill neighborhood for the secrets to these popular potato-stuffed boiled dumplings."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/37698_sfs-potato-cheddar-pierogi-3
+tags: ["Main Courses","Potatoes","Vegetables","Make Ahead","Savory Pies & Tarts"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["1 pound, russet potatoes, peeled and sliced 1/2 inch thick","1/2 teaspoon, table salt, plus extra for boiling","1 1/4 cups, sauerkraut, drained and chopped fine","2 tablespoons, unsalted butter","2 1/2 cups (13 3/4 ounces), bread flour","1 teaspoon, baking powder","1/2 teaspoon, table salt","1 cup, sour cream","1 , large egg plus 1 large egg yolk","4 tablespoons, unsalted butter","1 , large onion, chopped fine","1/4 teaspoon, white pepper","1/2 teaspoon, salt"]
+serves: 
+time: "2¼ hours, plus 30 minutes chilling"
+instructions: ["FOR THE FILLING: Combine potatoes and 1 tablespoon salt in large saucepan and cover with water by 1 inch. Bring to boil over medium-high heat; reduce heat to medium and cook at vigorous simmer until potatoes are very tender, about 15 minutes.","Drain potatoes in colander. While still hot, combine potatoes, sauerkraut, butter, 1/2 teaspoon salt, and 1/4 teaspoon white pepper in bowl of stand mixer. Fit mixer with paddle and mix on medium speed until potatoes are smooth and all ingredients are fully combined, about 1 minute. Transfer filling to 8-inch square baking dish and refrigerate until fully chilled, about 30 minutes, or cover with plastic wrap and refrigerate for up to 24 hours.","FOR THE DOUGH: Whisk flour, baking powder, and 1/2 teaspoon salt together in clean bowl of stand mixer. Add sour cream and egg and yolk. Fit mixer with dough hook and knead on medium-high speed for 8 minutes (dough will be smooth and elastic). Transfer dough to floured bowl, cover with plastic, and refrigerate until ready to assemble.","Line rimmed baking sheet with parchment paper and dust with flour. Roll dough on lightly floured counter into 18-inch circle, about 1/8 inch thick. Using 3-inch biscuit cutter, cut 20 to 24 circles from dough. Place 1 tablespoon chilled filling in center of each dough round. Fold dough over filling to create half-moon shape and pinch edges firmly to seal. Transfer to prepared sheet.","Gather dough scraps and reroll to 1/8-inch thickness. Cut 6 to 10 more circles from dough and repeat with remaining filling. (It may be necessary to reroll dough once more to yield 30 pierogi.) Cover pierogi with plastic and refrigerate until ready to cook, up to 3 hours.","FOR THE TOPPING: Melt butter in 12-inch skillet over medium-low heat. Add onion and salt and cook until onion is caramelized, 15 to 20 minutes. Remove skillet from heat and set aside.","Bring 4 quarts water to boil in Dutch oven. Add 1 tablespoon salt and half of pierogi to boiling water and cook until tender, about 5 minutes. Using spider or slotted spoon, remove pierogi from water and transfer to skillet with caramelized onion. Return water to boil, cook remaining pierogi, and transfer to skillet with first batch.","Add 2 tablespoons cooking water to pierogi in skillet. Cook over medium-low heat, stirring gently, until onion mixture is warmed through and adhered to pierogi. Transfer to platter and serve.","TO MAKE AHEAD: Uncooked pierogi can be frozen for several weeks. After sealing pierogi in step 4, freeze them on baking sheet, about 3 hours. Transfer frozen pierogi to zipper-lock freezer bag. When ready to cook, extend boiling time in step 7 to about 7 minutes."]
+nutrition: undefined
+notes: "When rolling the dough in step 4, be sure not to dust the top surface with too much flour, as that will prevent the edges from forming a tight seal when pinched."
+---

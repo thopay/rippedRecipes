@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Alabama Orange Rolls
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "In Cullman, Alabama, people stand in line for these citrusy, sticky-sweet treats. We wanted to let the rest of the country in on the fun."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/27506_sfs-alabama-orange-rolls-038-1
+tags: ["Desserts or Baked Goods","Southern","Breads","Breakfast & Brunch"]
+calories: 3918
+protein: 7
+carbohydrates: 68
+fats: 
+fiber: 1
+ingredients: ["3 cups (15 ounces), all-purpose flour","1/4 cup (1 3/4 ounces), sugar","2 1/4 teaspoons, instant or rapid-rise yeast","1 teaspoon, salt","1/2 cup, orange juice, warm (110 degrees)","1/4 cup, heavy cream","6 tablespoons, unsalted butter, cut into 6 pieces and softened","1 , large egg plus 1 large yolk","1/2 cup (3 1/2 ounces), sugar","2 teaspoons, grated orange zest","2 tablespoons, unsalted butter, softened","1/4 cup, heavy cream","1/4 cup (1 3/4 ounces), sugar","2 tablespoons, orange juice","2 tablespoons, unsalted butter","1/8 teaspoon, salt"]
+serves: 8
+time: "1¾ hours, plus 2½ hours rising and 30 minutes cooling"
+instructions: ["FOR THE DOUGH: In bowl of stand mixer, whisk flour, sugar, yeast, and salt together. Add orange juice, cream, butter, and egg and yolk. Fit mixer with dough hook and knead on medium speed until dough comes together, about 2 minutes. Increase speed to medium-high and continue to knead dough until smooth and elastic, about 8 minutes longer. Dough will be soft.","Transfer dough to lightly floured counter and knead until smooth ball forms, about 30 seconds. Place dough in greased large bowl, cover tightly with plastic wrap, and let rise in warm place until doubled in size, 1 1/2 to 2 hours.","FOR THE FILLING: Combine sugar and zest in small bowl. Transfer dough to lightly floured counter. Roll dough into 16 by 8-inch rectangle with long side parallel to counter’s edge. Spread butter over surface of dough using small offset spatula, then sprinkle evenly with sugar mixture. Roll dough away from you into tight, even log and pinch seam to seal.","Grease dark-colored 9-inch cake pan, line bottom with parchment paper, then grease parchment. Roll log seam side down and cut into eight 2-inch-thick slices using serrated knife. Place 1 roll in center of prepared pan and others around perimeter of pan, seam sides facing center. Cover with plastic and let rise in warm place until doubled in size, 1 to 1 1/2 hours. Adjust oven rack to middle position and heat oven to 325 degrees.","Discard plastic and bake rolls until golden brown on top and interior of center roll registers 195 degrees, 40 to 45 minutes. Let rolls cool in pan on wire rack for 30 minutes.","FOR THE GLAZE: Once rolls have cooled for 30 minutes, combine all ingredients in small saucepan and bring to boil over medium heat. Cook, stirring frequently, until large, slow bubbles appear and mixture is syrupy, about 4 minutes.","Using spatula, loosen rolls from sides of pan and slide onto platter; discard parchment. Brush glaze over tops of rolls and serve warm."]
+nutrition: ["132 mg Potassium","93 mg Phosphorus","29 mg Calcium","2 mg Iron","16 mg Magnesium","320 mg Sodium","21 g Fat","3 mg Niacin (B3)","5 g Monounsaturated","1 g Polyunsaturated","10 mg Vitamin C","81 mg Cholesterol","12 g Saturated","1 g Fiber","81 µg Folic acid","51 µg Folate (food)","26 g Sugars","1 µg Vitamin K","40 g Water","68 g Carbs","191 µg Folate equivalent (total)","7 g Protein","194 µg Vitamin A","489 kcal Energy","24 g Sugars, added","3918 calories"]
+notes: "Be sure to zest the oranges before juicing them. When zesting the orange, remove just the outer part of the peel—the inner white pith is very bitter. We bake these rolls in a dark-colored cake pan because they brown better. If you only have a light- colored pan, increase the baking time to 45 to 50 minutes. Be aware that the dough needs to rise for a total of 2 1/2 to 3 1/2 hours."
+---

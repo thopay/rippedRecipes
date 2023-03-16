@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Fried Pizza Montanara
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Fried pizza sounds like novelty food. But when it’s properly done, this centuries-old tradition produces a pie that is crisp, chewy, and far from greasy."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/24595_sfs-fried-pizza-montanara-35
+tags: ["Main Courses","Pizza"]
+calories: 7693
+protein: 36
+carbohydrates: 83
+fats: 
+fiber: 6
+ingredients: ["1 (28-ounce) can, whole peeled tomatoes, drained","1 tablespoon, extra-virgin olive oil","2 , garlic cloves, minced","1 teaspoon, red wine vinegar","1 teaspoon, dried oregano","1 teaspoon, salt","1/4 teaspoon, pepper","2 (1-pound) balls, pizza dough, room temperature","6 cups vegetable or, peanut oil","1 ounce, Pecorino Romano cheese, grated (1/2 cup)","8 ounces, fresh mozzarella cheese, shredded (2 cups)","1/4 cup, fresh basil leaves, torn",", Extra-virgin olive oil for drizzling"]
+serves: 6
+time: "1½ hours"
+instructions: ["FOR THE SAUCE: Process all ingredients in food processor until smooth, about 30 seconds. Transfer to small saucepan; cover and set over low heat to warm (sauce needn’t be cooked, just warmed).","FOR THE PIZZA: Place 2 wire racks in 2 rimmed baking sheets. Cut four 12-inch squares of parchment paper.","Divide each dough ball into two 8-ounce balls and cover with greased plastic wrap. Press and roll 1 dough ball into 10-inch circle on lightly floured counter. Transfer to floured parchment square, dust top of dough round with flour, and set aside on counter. Press and roll second dough ball into 10-inch circle, transfer to floured parchment square, and stack on top of first dough round. Repeat with remaining 2 dough balls, creating second stack. Lightly cover dough round stacks with clean dish towel.","Add vegetable oil to large Dutch oven until it measures about 1 1/4 inches deep and heat over medium-high heat to 350 degrees. Gently lower 1 dough round into oil, keeping it as flat as possible as it enters oil. Fry first side, carefully pressing down with spider or slotted metal spatula to keep submerged, until puffed and golden brown, 1 1/2 to 2 minutes. Adjust burner, if necessary, to maintain oil temperature between 325 and 350 degrees.","Using tongs, carefully flip dough round and continue to fry until second side is golden brown, 1 1/2 to 2 minutes longer. Transfer to prepared wire rack. Repeat with remaining dough rounds. (You should have 2 fried crusts on each rack; crusts may extend slightly beyond edges of racks.)","Adjust oven rack 10 inches from broiler element and heat broiler. Spread 1/2 cup warm sauce over each crust, leaving 1-inch border. Sprinkle each crust with 2 tablespoons Pecorino, followed by 1/2 cup mozzarella. Broil 1 sheet of pizza until cheese melts and crusts begin to brown in spots, 4 to 6 minutes. Repeat with second sheet. Transfer pizzas to cutting board; sprinkle each with basil and drizzle with olive oil. Slice and serve."]
+nutrition: ["504 mg Potassium","621 mg Phosphorus","783 mg Calcium","5 mg Iron","78 mg Magnesium","1852 mg Sodium","3 mg Zinc","89 g Fat","7 mg Niacin (B3)","37 g Monounsaturated","21 g Polyunsaturated","1 mg Thiamin (B1)","17 mg Vitamin C","88 mg Cholesterol","26 g Saturated","6 g Fiber","243 µg Folic acid","64 µg Folate (food)","5 g Sugars","16 µg Vitamin K","226 g Water","83 g Carbs","479 µg Folate equivalent (total)","36 g Protein","10 mg Vitamin E","210 µg Vitamin A","1282 kcal Energy","7693 calories"]
+notes: "Room-temperature dough is much easier to shape than cold dough, so pull the dough from the fridge about 1 hour before you plan to start cooking. Shred the mozzarella on the large holes of a box grater."
+---

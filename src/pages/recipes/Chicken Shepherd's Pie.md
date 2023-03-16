@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Chicken Shepherd's Pie
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: For a lighter, brighter shepherd’s pie, use chicken instead of beef. But it takes more than a straight swap to get good results.
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/22464_sfs-chicken-shepherds-pie-5
+tags: ["Main Courses","American","Chicken","Savory Pies & Tarts"]
+calories: 4001
+protein: 33
+carbohydrates: 45
+fats: 
+fiber: 4
+ingredients: ["2 pounds bone-in, chicken thighs, trimmed",", Salt and pepper","6 tablespoons, unsalted butter, cut into 6 pieces","1 , onion, chopped","3 , carrots, peeled, halved lengthwise, and cut crosswise 1/2 inch thick","2 , garlic cloves, minced","1 1/2 teaspoons, minced fresh thyme","1/4 cup, dry sherry","2 cups, chicken broth","2 pounds, russet potatoes, peeled and cut into 1-inch chunks","1/4 cup, cornstarch","1 cup, frozen peas, thawed","1 tablespoon, lemon juice","1 , large egg, lightly beaten"]
+serves: 6
+time: "2 hours"
+instructions: ["Adjust oven rack to upper-middle position and heat oven to 375 degrees. Pat chicken dry with paper towels and season with salt and pepper. Melt 1 tablespoon butter in ovensafe 10-inch skillet over medium-high heat. Cook chicken until well browned, about 5 minutes per side (skillet will be crowded). Transfer chicken to plate and pour off all but 2 tablespoons fat from skillet.","Return skillet to medium-high heat, add onion and carrots, and cook until golden brown, about 5 minutes. Add garlic and thyme and cook until fragrant, about 30 seconds. Add sherry and cook until pan is nearly dry, scraping up any browned bits, about 1 minute. Stir in broth.","Return chicken to skillet, skin side up, along with any accumulated juices, and bring to boil. Cover, reduce heat to medium-low, and simmer until chicken registers 175 degrees, 12 to 14 minutes. Remove skillet from heat and transfer chicken to plate. Once cool enough to handle, shred chicken into bite-size pieces; discard skin and bones.","Meanwhile, place potatoes and 1 tablespoon salt in large saucepan and cover with water by 1 inch. Bring to boil over high heat, reduce heat to medium, and cook at strong simmer until tender, 15 to 18 minutes. Drain potatoes and return to saucepan. Place saucepan over low heat and cook to drive off any remaining moisture from potatoes, about 1 minute. Off heat, gently fold remaining 5 tablespoons butter, 1/4 teaspoon salt, and 1/2 teaspoon pepper into potatoes. Cover and set aside.","Whisk cornstarch together with 1/4 cup water in bowl. Bring broth mixture in skillet to boil and whisk in cornstarch mixture. Return to boil and cook until thickened, about 1 minute. Remove from heat and stir in peas, lemon juice, and shredded chicken. Season with salt and pepper to taste.","Spoon potatoes over entire surface of filling. Brush potatoes with egg. Transfer to oven and bake until pie is bubbling, about 15 minutes. Turn oven to broil and cook until potatoes are golden brown, 5 to 7 minutes. Let cool for 15 minutes. Serve."]
+nutrition: ["1231 mg Potassium","402 mg Phosphorus","70 mg Calcium","3 mg Iron","81 mg Magnesium","1147 mg Sodium","2 mg Zinc","38 g Fat","10 mg Niacin (B3)","14 g Monounsaturated","6 g Polyunsaturated","17 mg Vitamin C","212 mg Cholesterol","14 g Saturated","4 g Fiber","56 µg Folate (food)","5 g Sugars","19 µg Vitamin K","372 g Water","45 g Carbs","56 µg Folate equivalent (total)","33 g Protein","1 mg Vitamin E","1 µg Vitamin B12","1 mg Vitamin B6","424 µg Vitamin A","666 kcal Energy","4001 calories"]
+notes: "You will need a 10-inch ovensafe skillet for this recipe. You can use dry white wine in place of the sherry. Swanson Chicken Stock is our taste-test winner. Make sure to use russet potatoes here."
+---

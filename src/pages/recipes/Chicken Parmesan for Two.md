@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Chicken Parmesan for Two
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "What’s better than a huge batch of chicken Parmesan? A very small batch."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/29729_sfs-chicken-parmesan-13
+tags: ["Main Courses","Italian","Pasta","Chicken","For Two","Cookbook Collection"]
+calories: 2679
+protein: 77
+carbohydrates: 90
+fats: 
+fiber: 10
+ingredients: ["2 tablespoons, extra-virgin olive oil","2 , garlic cloves, minced",", Salt","1/4 teaspoon, dried oregano","Pinch, red pepper flakes","1 (28-ounce) can, crushed tomatoes","1/4 teaspoon, sugar","2 (6-ounce), boneless, skinless chicken breasts, trimmed",", Salt and pepper","4 ounces, capellini","1 , large egg","1 tablespoon, all-purpose flour","1 ounce, Parmesan cheese, grated (1/2 cup)","1/2 cup, panko bread crumbs","1/2 teaspoon, garlic powder","1/2 teaspoon, dried oregano","1/3 cup, vegetable oil","2 ounces whole-milk, mozzarella cheese, shredded (1/2 cup)","2 tablespoons sliced, fresh basil"]
+serves: 2
+time: "1½ hours, plus 20 minutes standing"
+instructions: ["FOR THE SAUCE: Heat 1 tablespoon oil in medium saucepan over medium heat until shimmering. Add garlic, ¾ teaspoon salt, oregano, and pepper flakes; cook, stirring occasionally, until fragrant, about 30 seconds. Stir in tomatoes and sugar and bring to simmer. Reduce heat to medium-low, cover with lid slightly ajar, and simmer until thickened, about 20 minutes. Off heat, stir in remaining 1 tablespoon oil. Cover and keep warm.","FOR THE CHICKEN AND PASTA: Remove tenderloins from breasts and reserve for another use. Pound each breast between 2 pieces of plastic wrap to even ½-inch thickness. Season chicken all over with salt and pepper; let stand at room temperature for 20 minutes.","Bring 2 quarts water to boil in large saucepan over high heat. Add pasta and ½ tablespoon salt and cook, stirring often, until al dente. Reserve ½ cup cooking water, then drain pasta and return it to pot. Toss pasta with ¾ cup sauce. Cover and keep warm.","Meanwhile, whisk egg and flour in shallow dish until smooth. Combine Parmesan, panko, garlic powder, oregano, and ¼ teaspoon pepper in second shallow dish. Pat chicken dry with paper towels. Working with 1 piece at a time, dunk chicken in egg mixture, allowing excess to drip off; then dredge in panko mixture to coat both sides, pressing gently so crumbs adhere. Transfer to plate.","Adjust oven rack 4 inches from broiler element and heat broiler. Heat oil in 10-inch nonstick skillet over medium-high heat until shimmering. Carefully place chicken in skillet and cook until deep golden brown, about 3 minutes per side.","Transfer chicken to rimmed baking sheet and sprinkle mozzarella evenly over top. Broil until cheese is melted and beginning to brown and chicken registers 160 degrees, 2 to 4 minutes. Transfer chicken to serving plates. Top each piece with 2 tablespoons sauce and sprinkle each with 1 tablespoon basil. Adjust pasta consistency with reserved cooking water as needed and serve with chicken."]
+nutrition: ["2017 mg Potassium","1020 mg Phosphorus","807 mg Calcium","8 mg Iron","191 mg Magnesium","1844 mg Sodium","5 mg Zinc","76 g Fat","22 mg Niacin (B3)","43 g Monounsaturated","10 g Polyunsaturated","37 mg Vitamin C","264 mg Cholesterol","16 g Saturated","10 g Fiber","6 µg Folic acid","98 µg Folate (food)","20 g Sugars","48 µg Vitamin K","535 g Water","90 g Carbs","108 µg Folate equivalent (total)","77 g Protein","16 mg Vitamin E","1 µg Vitamin B12","2 mg Vitamin B6","230 µg Vitamin A","1339 kcal Energy","2679 calories"]
+notes: "This recipe makes enough sauce to top the cutlets and up to a pound of pasta. Any extra sauce can be refrigerated for up to three days or frozen for up to a month. If the cheese browns before the chicken registers 160 degrees, cover the chicken with aluminum foil and continue to broil."
+---

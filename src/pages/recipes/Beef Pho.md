@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Beef Pho
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "The aromas and flavors in this deeply delicious meal are nothing short of transcendent."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BeefPho-60_uurtjk
+tags: ["Main Courses","Vietnamese","Beef","Make Ahead","Soups"]
+calories: 5562
+protein: 27
+carbohydrates: 36
+fats: 
+fiber: 1
+ingredients: ["4 1/2 pounds bone-in, cross-cut, beef shanks, trimmed","2 , onions, halved","1 (3-inch) piece, ginger, halved lengthwise","5 , garlic cloves, smashed and peeled","10 , star anise pods","1 tablespoon, black peppercorns","1 tablespoon, coriander seeds","1/2 , cinnamon stick","5 , whole cloves","1/2 cup, fish sauce","1/2 cup, sugar","2 tablespoons, table salt","10 ounces, boneless eye-round roast, trimmed and sliced in half with grain","21 ounces, rice vermicelli","1 cup, fresh cilantro leaves and stems","6 , scallions, sliced thin","1/2 cup very thinly sliced, onion, rinsed","Mung, bean sprouts","Fresh, Thai basil leaves",", Lime wedge",", Sriracha"]
+serves: 18
+time: "4 hours"
+instructions: ["FOR THE BEEF BROTH: Combine 6 quarts water, beef shanks, onions, ginger, garlic, star anise, peppercorns, coriander seeds, cinnamon stick, and cloves in large stockpot. Bring to boil over high heat. Reduce heat to medium-low and simmer gently for 3 hours.","FOR THE NOODLES AND GARNISHES: Meanwhile, place eye round on plate and freeze until very firm, 35 to 45 minutes. Once firm, slice against grain ⅛ inch thick. Return eye round to plate, cover with plastic wrap, and refrigerate until needed.","Bring 4 quarts water to boil in large pot. Add noodles and cook until tender. Drain noodles and divide among 6 individual bowls.","Using spider skimmer or tongs, remove large solids from broth. Shred beef shanks and either reserve for another use or use to garnish soup in step 6. Let broth settle for 5 minutes and then skim any fat that rises to surface with ladle.","Line colander with triple layer of cheesecloth, then set prepared colander over large Dutch oven. Pour broth through colander into Dutch oven; discard any remaining solids. Whisk fish sauce, sugar, and salt into broth (broth should taste overseasoned).","When ready to serve, bring broth to rolling boil over high heat. Divide eye round among individual bowls, about 3 slices per bowl, shingling slices on top of noodles. Divide cilantro; scallions; onion; and shredded beef, if using, among bowls. Ladle broth into each bowl to cover noodles. Serve immediately, passing bean sprouts, basil, lime wedges, and sriracha separately.","TO MAKE AHEAD: Prepare broth through step 5 and let cool completely. Refrigerate broth and beef shanks separately for up to 3 days or freeze for up to 1 month. To serve, prepare eye round and noodles and continue with step 6."]
+nutrition: ["558 mg Potassium","298 mg Phosphorus","54 mg Calcium","3 mg Iron","42 mg Magnesium","762 mg Sodium","8 mg Zinc","4 g Fat","6 mg Niacin (B3)","2 g Monounsaturated","2 mg Vitamin C","44 mg Cholesterol","1 g Saturated","1 g Fiber","20 µg Folate (food)","6 g Sugars","9 µg Vitamin K","115 g Water","36 g Carbs","20 µg Folate equivalent (total)","27 g Protein","3 µg Vitamin B12","5 µg Vitamin A","309 kcal Energy","5 g Sugars, added","5562 calories"]
+notes: "This version of pho is slightly sweeter and heavier on warm spices than other versions. If you prefer a broth that is less sweet, feel free to halve the amount of sugar, although the amount called for in the recipe helps provide balance. The broth should taste overseasoned before its poured over the noodles. We developed this recipe using Red Boat 40°N Fish Sauce. If you cant find Thai basil, you can substitute any other type of sweet basil."
+---

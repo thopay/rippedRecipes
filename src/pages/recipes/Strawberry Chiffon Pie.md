@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Strawberry Chiffon Pie
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Could we pack this dessert with strawberry flavor and still keep its signature light-as-air texture?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/21444_sfs-strawberry-chiffon-pie-v2-10
+tags: ["Desserts or Baked Goods","Fruit","Dessert Pies"]
+calories: 2781
+protein: 4
+carbohydrates: 46
+fats: 
+fiber: 2
+ingredients: ["1 (5.3-ounce) box, shortbread cookies, broken into 1-inch pieces","2 tablespoons, sugar","1/4 teaspoon, salt","1/2 cup, slivered almonds, toasted","2 tablespoons, unsalted butter, melted","2 teaspoons, unflavored gelatin","2 tablespoons, water","12 ounces, strawberries, hulled (2 1/2 cups), plus 8 ounces strawberries, hulled, halved, and sliced thin (1 1/3 cups)","3/4 cup (5 1/4 ounces) plus 2 tablespoons, sugar","2 tablespoons, cornstarch","1/4 teaspoon, salt","2 tablespoons, lemon juice","2 , large egg whites","1/8 teaspoon, cream of tartar","1/2 cup, heavy cream, chilled"]
+serves: 8
+time: "1¼ hours, plus 30 minutes cooling and 3 hours chilling"
+instructions: ["FOR THE CRUST: Adjust oven rack to middle position and heat oven to 325 degrees. Grease 9-inch pie plate. Process cookies, sugar, and salt in food processor until finely ground, about 1 minute. Add almonds and pulse until coarsely chopped, about 8 pulses. Add melted butter and pulse until combined, about 10 pulses. Transfer crumb mixture to pie plate. Using bottom of dry measuring cup, press crumbs evenly into bottom and up sides of plate. Bake until crust is golden brown, 18 to 20 minutes, rotating halfway through baking. Let crust cool completely on wire rack, about 30 minutes. (Crust can be wrapped in plastic and stored at room temperature for up to 24 hours.)","FOR THE FILLING: Sprinkle gelatin over water in small bowl and let sit until gelatin softens, about 5 minutes. Process hulled whole strawberries in food processor until completely smooth, about 1 minute. Transfer to fine-mesh strainer set over medium bowl and press on solids to extract 1 cup of juice; discard solids. Whisk 3/4 cup sugar, cornstarch, salt, and strawberry juice together in small saucepan.","Bring juice mixture to simmer over medium heat, stirring constantly. Cook until slightly thickened, about 1 minute. Off heat, whisk in gelatin mixture until dissolved. Transfer to large bowl, stir in lemon juice, and let cool completely, about 30 minutes, stirring occasionally.","Using stand mixer fitted with whisk, whip egg whites and cream of tartar on medium-low speed until foamy, about 1 minute. Increase speed to medium-high and whip whites to soft, billowy mounds, about 1 minute. Gradually add remaining 2 tablespoons sugar and whip until glossy, stiff peaks form, 2 to 3 minutes. Whisk one-third of meringue into cooled strawberry mixture until smooth. Fold remaining meringue into strawberry mixture until only few white streaks remain.","In now-empty mixer bowl, whip cream on medium-low speed until foamy, about 1 minute. Increase speed to high and whip until stiff peaks form, 1 to 3 minutes. Gently fold whipped cream into strawberry mixture until no white streaks remain. Fold in sliced strawberries. Spoon filling into crust and spread into even layer using back of spoon. Refrigerate pie for at least 3 hours or up to 24 hours. Serve."]
+nutrition: ["219 mg Potassium","75 mg Phosphorus","44 mg Calcium","1 mg Iron","33 mg Magnesium","233 mg Sodium","16 g Fat","1 mg Niacin (B3)","5 g Monounsaturated","2 g Polyunsaturated","46 mg Vitamin C","28 mg Cholesterol","7 g Saturated","2 g Fiber","11 µg Folic acid","26 µg Folate (food)","33 g Sugars","4 µg Vitamin K","93 g Water","46 g Carbs","46 µg Folate equivalent (total)","4 g Protein","2 mg Vitamin E","86 µg Vitamin A","347 kcal Energy","24 g Sugars, added","2781 calories"]
+notes: "You will need about 3 pints of fresh strawberries for this recipe."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Grilled Vegetable Salad
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Too often vegetables come off the grill crunchy and scorched or watery and soggy. Here’s how to cut and cook them for perfectly tender, lightly charred results."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/35221_sfs-grilled-vegetable-salad-9
+tags: ["Side Dishes","Vegetables","Grilling & Barbecue","Cookbook Collection"]
+calories: 1090
+protein: 2
+carbohydrates: 13
+fats: 
+fiber: 5
+ingredients: ["1 tablespoon, lemon juice","2 teaspoons, Dijon mustard","1 , garlic clove, minced","1/4 teaspoon, salt","1/8 teaspoon, pepper","3 tablespoons, extra-virgin olive oil","2 tablespoons, chopped fresh basil, mint, chives, or parsley","2 , red bell peppers","1 , eggplant, halved lengthwise","1 , zucchini (8 to 10 ounces), halved lengthwise","1 , red onion, cut into 1/2-inch-thick rounds","4 , plum tomatoes, cored and halved lengthwise","3 tablespoons, extra-virgin olive oil",", Salt and pepper"]
+serves: 6
+time: "1½ hours"
+instructions: ["FOR THE VINAIGRETTE: Whisk lemon juice, mustard, garlic, salt, and pepper together in large bowl. Whisking constantly, slowly drizzle in oil. Stir in basil and set aside.","FOR THE VEGETABLES: Slice 1/4 inch off tops and bottoms of bell peppers and remove cores. Make slit down 1 side of each bell pepper, then press flat into 1 long strip, removing ribs and remaining seeds with knife as needed. Cut strips in half crosswise (you should have 4 bell pepper pieces).","Using sharp paring knife, cut ½-inch crosshatch pattern in flesh of eggplant and zucchini, being careful to cut down to but not through skin. Push toothpick horizontally through each onion round to keep rings intact while grilling. Brush tomatoes, bell peppers, zucchini, and onion all over with oil, then brush eggplant with remaining oil (it will absorb more oil than other vegetables). Season vegetables with salt and pepper.","FOR A CHARCOAL GRILL: Open bottom vent completely. Light large chimney starter filled with charcoal briquettes (6 quarts). When top coals are partially covered with ash, pour evenly over grill. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.","FOR A GAS GRILL: Turn all burners to high, cover, and heat grill until hot, about 15 minutes. Turn all burners to medium-high.","Clean and oil cooking grate. Place vegetables on cooking grate, cut sides down, and cook until skins of bell peppers, eggplant, and tomatoes are well browned and interiors of eggplant and zucchini are tender, 10 to 16 minutes, flipping and moving vegetables as necessary to ensure even cooking and transferring vegetables to baking sheet as they finish cooking. Place bell peppers in bowl, cover with plastic wrap, and let steam to loosen skins, about 5 minutes.","When cool enough to handle, peel bell peppers and tomatoes, discarding skins. Using spoon, scoop eggplant flesh out of skin; discard skin. Chop all vegetables into 1-inch pieces, transfer to bowl with vinaigrette, and toss to coat. Serve warm or at room temperature."]
+nutrition: ["547 mg Potassium","68 mg Phosphorus","34 mg Calcium","34 mg Magnesium","594 mg Sodium","14 g Fat","1 mg Niacin (B3)","9 g Monounsaturated","1 g Polyunsaturated","68 mg Vitamin C","1 g Saturated","5 g Fiber","59 µg Folate (food)","7 g Sugars","23 µg Vitamin K","221 g Water","13 g Carbs","59 µg Folate equivalent (total)","2 g Protein","3 mg Vitamin E","87 µg Vitamin A","181 kcal Energy","1090 calories"]
+notes: "Serve as a side dish to grilled meats and fish; with grilled pita as a salad course; or with hard-cooked eggs, olives, and premium canned tuna as a light lunch."
+---

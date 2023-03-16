@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Easy Ricotta Gnocchi with Pesto and Cherry Tomato Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "These cheesy pasta pillows look like fancy restaurant food, but they’re simple enough to add to your weeknight repertoire."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/37991_sfs-easy-ricotta-gnocchi-with-pesto-and-cherry-tomatoes-4
+tags: ["Main Courses","Cheese"]
+calories: 2896
+protein: 28
+carbohydrates: 63
+fats: 
+fiber: 3
+ingredients: ["1 pound (2 cups) whole-milk, ricotta cheese","1 , large egg","1/4 cup grated, Parmesan cheese",", Salt and pepper","1/8 teaspoon, ground nutmeg","1 cup plus 2 tablespoons (5 2/3 ounces), all-purpose flour","8 ounces, cherry tomatoes, halved",", Salt and pepper","1 1/2 cups, packed fresh basil leaves","1/4 cup, pine nuts, toasted","1/4 cup, extra-virgin olive oil","2 tablespoons, grated Parmesan cheese","1 , garlic clove, minced"]
+serves: 4
+time: "1¼ hours"
+instructions: ["FOR THE GNOCCHI: Whisk ricotta, egg, Parmesan, 1 teaspoon salt, ½ teaspoon pepper, and nutmeg together in large bowl until thoroughly combined. Stir in flour with rubber spatula until thoroughly combined. Form dough into rough ball and transfer to well- floured counter. Adding extra flour to hands and dough as needed to prevent sticking, gently knead dough into smooth ball.","Line rimmed baking sheet with parchment paper and dust liberally with flour. Using floured bench scraper or chef’s knife, cut dough into 8 pieces. Dust cut ends of each piece of dough with more flour to coat. On lightly floured counter, working with 1 piece of dough at a time, gently roll dough into ½‑inch-thick rope, sprinkling with more flour as needed if dough begins to stick to counter. Cut rope into ¾‑inch lengths. Transfer cut gnocchi to prepared sheet; set aside.","FOR THE SAUCE: Toss tomatoes with ¼ teaspoon salt in bowl; set aside. Process basil, pine nuts, oil, Parmesan, garlic, ¼ teaspoon salt, and 1/8 teaspoon pepper in food processor until smooth, about 1 minute, scraping down sides of bowl as needed. Season with salt and pepper to taste. Transfer tomatoes and pesto to 12-inch skillet.","Bring 4 quarts water to boil in large pot over high heat. Add 1 tablespoon salt. Using parchment paper as funnel, pour gnocchi into boiling water. Once all gnocchi float to surface, cook for 2 minutes longer. Using slotted spoon or spider, scoop gnocchi from water and transfer to skillet with sauce. (If straining gnocchi in colander, transfer immediately to sauce or else they may begin clumping together.)","Add ¼ cup gnocchi cooking water to skillet with gnocchi and sauce and place over medium-high heat. Cook, tossing with rubber spatula, until hot, about 2 minutes. Serve, passing Parmesan."]
+nutrition: ["464 mg Potassium","449 mg Phosphorus","450 mg Calcium","5 mg Iron","72 mg Magnesium","701 mg Sodium","3 mg Zinc","39 g Fat","5 mg Niacin (B3)","17 g Monounsaturated","5 g Polyunsaturated","9 mg Vitamin C","113 mg Cholesterol","14 g Saturated","3 g Fiber","109 µg Folic acid","59 µg Folate (food)","2 g Sugars","59 µg Vitamin K","166 g Water","63 g Carbs","246 µg Folate equivalent (total)","28 g Protein","3 mg Vitamin E","233 µg Vitamin A","724 kcal Energy","2896 calories"]
+notes: "We developed this recipe using the Test Kitchen’s winning whole milk ricotta cheese: Belgioioso Ricotta Con Latte Whole Milk Ricotta Cheese. If you cannot find our winning brand, look for another good quality ricotta without stabilizers. When rolling the gnocchi, use just enough flour to keep the dough from sticking to your hands and work surface; using too much flour will make it difficult to roll the dough into ropes."
+---

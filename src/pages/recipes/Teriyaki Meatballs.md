@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Teriyaki Meatballs
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Packing outsized flavor into these one-bite chicken meatballs was no small task, but we did it."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/27422_sfs-teriyaki-meatballs-12
+tags: ["Appetizers","Chicken","Make Ahead"]
+calories: 1761
+protein: 2
+carbohydrates: 2
+fats: 
+fiber: 
+ingredients: ["6 ounces, shiitake mushrooms, stemmed and chopped coarse","1 1/2 cups chopped, green cabbage","2 tablespoons, vegetable oil",", Salt and pepper","3 , garlic cloves, minced","1 tablespoon, grated fresh ginger","1 pound, ground chicken","1/2 cup, panko bread crumbs","4 , scallions, minced","3 tablespoons, minced fresh cilantro","1 , large egg, lightly beaten","1 tablespoon, toasted sesame oil","1 tablespoon, cornstarch","1 tablespoon, unseasoned rice vinegar","1/2 cup, mirin","1/3 cup, water","1/4 cup, soy sauce","3 tablespoons, sugar","2 , scallions, green parts only, sliced thin on bias","1 tablespoon, sesame seeds, toasted"]
+serves: 40
+time: "1½ hours, plus 1 hour chilling"
+instructions: ["FOR THE MEATBALLS: Adjust oven rack to upper-middle position and heat oven to 400 degrees. Line rimmed baking sheet with aluminum foil and spray evenly with vegetable oil spray. Combine mushrooms and cabbage in food processor and pulse until chopped into 1/4-inch pieces, about 5 pulses.","Heat vegetable oil in 12-inch nonstick skillet over medium-high heat until shimmering. Add mushroom mixture and 1/2 teaspoon salt and cook, stirring occasionally, until vegetables are lightly browned, 6 to 8 minutes. Add garlic and ginger and cook until fragrant, about 30 seconds. Transfer to large bowl.","FOR THE SAUCE: Wipe now-empty skillet clean with paper towels. Whisk cornstarch and vinegar in small bowl until combined; set aside. Bring mirin, water, soy sauce, and sugar to boil over high heat. Whisk in cornstarch slurry, reduce heat to medium-low, and simmer until thickened, about 1 minute. Remove pan from heat; transfer 3 tablespoons teriyaki sauce to mushroom mixture. Let mushroom mixture cool completely, about 15 minutes. Cover skillet and set remaining sauce aside.","Add chicken, panko, scallions, cilantro, egg, sesame oil, and 1/2 teaspoon pepper to cooled mushroom mixture and mix with your hands until thoroughly combined. Divide chicken mixture into 40 portions, about 1 tablespoon each. Roll between your wet hands to form 1 1/4-inch balls and space evenly on prepared sheet in 8 rows of five. Cover lightly with plastic wrap and refrigerate until firm, about 1 hour.","Uncover sheet and bake until meatballs are firm and bottoms are lightly browned, 15 to 20 minutes, rotating pan halfway through cooking. Rewarm sauce over medium-low heat. Add meatballs to skillet and toss to coat with sauce. Transfer meatballs and sauce to serving dish and sprinkle with scallions and sesame seeds. Serve.","TO MAKE AHEAD: Meatballs and sauce can be prepared through step 4, covered, and refrigerated for up to 24 hours. Add 2 tablespoons water to sauce when reheating."]
+nutrition: ["97 mg Potassium","33 mg Phosphorus","9 mg Calcium","6 mg Magnesium","98 mg Sodium","2 g Fat","1 g Monounsaturated","1 mg Vitamin C","14 mg Cholesterol","4 µg Folate (food)","1 g Sugars","7 µg Vitamin K","24 g Water","2 g Carbs","4 µg Folate equivalent (total)","2 g Protein","3 µg Vitamin A","44 kcal Energy","1761 calories"]
+notes: "If you don’t have mirin, use an equal amount of dry white wine and increase the sugar to 1/4 cup. Toast the sesame seeds in a dry skillet over medium heat until fragrant (about 1 minute), and then remove the pan from the heat so the seeds won’t scorch. Plan ahead: The meatballs need to chill for at least 1 hour before baking."
+---

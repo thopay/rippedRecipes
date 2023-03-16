@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Salted Caramel–Filled Brownies
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Break out the muffin tin for these intensely chocolaty treats."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BrownieSpread-49_2_xh4k9q
+tags: ["Desserts or Baked Goods","Chocolate","Brownies & Bars"]
+calories: 5232
+protein: 4
+carbohydrates: 67
+fats: 
+fiber: 1
+ingredients: ["1/3 cup (2 ounces), bittersweet chocolate chips","1/3 cup (1 ounce), Dutch-processed cocoa powder","1/2 cup, boiling water","2 cups (14 ounces), sugar","2/3 cup, vegetable oil","2 , large eggs","2 teaspoons, vanilla extract","1 1/3 cups (6⅔ ounces), all-purpose flour","3/4 teaspoon, table salt","10 ounces, soft caramels","2 tablespoons, heavy cream","1/4 teaspoon, table salt","1 teaspoon Maldon, sea salt"]
+serves: 12
+time: "1¾ hours, plus 5¼ hours cooling"
+instructions: ["FOR THE BROWNIES: Adjust oven rack to middle position and heat oven to 350 degrees. Line 12-cup muffin tin with parchment liners. Generously spray liners in muffin tin with vegetable oil spray.","Place chocolate chips and cocoa in large bowl. Add boiling water and whisk until chocolate chips are fully melted. Whisk in sugar, oil, eggs, and vanilla until combined. Gently whisk in flour and salt until just incorporated.","Using ¼-cup dry measuring cup, portion batter into prepared muffin cups; evenly distribute any remaining batter among cups. Bake until toothpick inserted in center comes out with few moist crumbs attached, 30 to 40 minutes.","Let brownies cool in muffin tin on wire rack for 15 minutes. Spray base of 1¼-inch-diameter shot glass (or other object with similar diameter) with vegetable oil spray. Keeping brownies in muffin tin, press base of glass into center of each brownie about 1 inch deep, respraying glass as needed. Remove brownies from muffin tin and let cool completely on rack, about 1 hour.","FOR THE CARAMEL FILLING: Microwave caramels, cream, and table salt in bowl at 50 percent power, stirring frequently with rubber spatula, until melted, 3 to 5 minutes. Distribute caramel evenly among indentations in brownies (about 1 heaping tablespoon each).","Let sit until caramel is set, about 4 hours. Sprinkle caramel evenly with Maldon salt. Serve. (Alternatively, brownies can be transferred to refrigerator and will set in about 1½ hours; let come to room temperature before serving.)"]
+nutrition: ["159 mg Potassium","85 mg Phosphorus","46 mg Calcium","1 mg Iron","25 mg Magnesium","263 mg Sodium","17 g Fat","1 mg Niacin (B3)","10 g Monounsaturated","3 g Polyunsaturated","36 mg Cholesterol","3 g Saturated","1 g Fiber","24 µg Folic acid","10 µg Folate (food)","51 g Sugars","22 g Water","67 g Carbs","52 µg Folate equivalent (total)","4 g Protein","2 mg Vitamin E","26 µg Vitamin A","436 kcal Energy","51 g Sugars, added","5232 calories"]
+notes: "We suggest using parchment muffin liners to avoid the brownies sticking to the liners. We developed this recipe using Ghirardelli 60% Premium Baking Chips, but you can use semisweet chips, if preferred. We developed this recipe with a high-fat Dutch-processed cocoa powder. Ten ounces of soft caramels is about 34 Kraft brand soft caramel candies. We used a shot glass to make the indentations in the brownies, but some spice jars and the ends of tapered French rolling pins will also work; they should be about 1¼ inches in diameter. It is important to press the indentations into the centers of the brownies 15 minutes after they come out of the oven. The color of your muffin tin will affect baking time. If you use a dark-colored muffin tin, the baking time in step 3 will be closer to 30 minutes but if you use a light-colored muffin tin the brownies will take about 40 minutes.&nbsp;"
+---

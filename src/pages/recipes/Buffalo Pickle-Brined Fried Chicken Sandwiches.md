@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Buffalo Pickle-Brined Fried Chicken Sandwiches
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "How do you get bold pickle flavor deep inside your fried chicken?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_FriedChickenSandwiches-77_p5hcgk
+tags: ["Main Courses","Chicken","Sandwiches"]
+calories: 4733
+protein: 27
+carbohydrates: 68
+fats: 87
+fiber: 3
+ingredients: ["4 , celery ribs, sliced thin","2 ounces, blue cheese, crumbled (½ cup)","¼ cup, mayonnaise","4 (3- to 5-ounce), boneless, skinless chicken thighs, trimmed","1¼ cups kosher, dill pickle brine, divided","8 sprigs, fresh dill, plus 2 tablespoons minced fresh dill, divided","6 , garlic cloves, smashed","5 teaspoons, dry mustard, divided","5 teaspoons, kosher salt, divided","5 teaspoons, pepper, divided","1¼ cups, all-purpose flour","½ cup, cornstarch","2 teaspoons, granulated garlic","1 teaspoon, baking powder","3 cups, vegetable oil for frying","½ cup, Frank's RedHot Original Cayenne Pepper Sauce","4 tablespoons, unsalted butter, melted","4 , hamburger buns","¼ cup, celery leaves"]
+serves: 4
+time: "1 hour, plus 6½ hours brining and chilling"
+instructions: ["FOR THE CELERY TOPPING: Combine celery, blue cheese, and mayonnaise in bowl and refrigerate until ready to serve. (Topping can be refrigerated for up to 1 day.)","FOR THE CHICKEN SANDWICHES: Combine chicken, 1 cup pickle brine, dill sprigs, smashed garlic, 1 tablespoon mustard, 1 tablespoon salt, and 1 tablespoon pepper in bowl. Cover with plastic wrap and refrigerate for at least 6 hours or up to 12 hours.","Set wire rack in rimmed baking sheet. Whisk flour, cornstarch, granulated garlic, baking powder, minced dill, remaining 2 teaspoons mustard, remaining 2 teaspoons salt, and remaining 2 teaspoons pepper together in second bowl. Add remaining ¼ cup pickle brine to flour mixture and rub between your fingerss until tiny craggy bits form throughout.","Working with 1 piece of chicken at a time, remove chicken from brine and transfer to flour mixture. Using your hands, toss chicken in flour mixture, pressing on coating to adhere and breaking up clumps, until coated on all sides. Transfer chicken to prepared wire rack. Discard brine. Refrigerate for at least 30 minutes or up to 2 hours.","Heat oil in Dutch oven over medium-high heat to 350 degrees. Carefully add chicken and fry until chicken is golden brown and registers at least 175 degrees, 8 to 12 minutes, flipping chicken halfway through frying. (Adjust heat as needed to maintain oil temperature between 325 and 350 degrees.) Transfer chicken to paper towel–lined plate.","Combine hot sauce and melted butter in medium bowl. Working with 1 piece of chicken at a time, add to bowl with hot-sauce mixture and toss to coat. Place chicken on bun bottoms, then top with celery topping, celery leaves, and bun tops. Serve."]
+nutrition: ["541 mg Potassium, K","450 mg Phosphorus, P","321 mg Calcium, Ca","5 mg Iron, Fe","60 mg Magnesium, Mg","1803 mg Sodium, Na","2 mg Zinc, Zn","87 g Total lipid (fat)","8 mg Niacin","48 g Fatty acids, total monounsaturated","18 g Fatty acids, total polyunsaturated","33 mg Vitamin C, total ascorbic acid","112 mg Cholesterol","16 g Fatty acids, total saturated","3 g Fiber, total dietary","96 µg Folic acid","55 µg Folate, food","4 g Sugars, total","81 µg Vitamin K (phylloquinone)","182 g Water","72 g Carbohydrate, by difference","219 µg Folate, DFE","27 g Protein","12 mg Vitamin E (alpha-tocopherol)","162 µg Vitamin A, RAE","68 g Carbohydrates (net)","1183 kcal Energy","4733 calories"]
+notes: "A 24-ounce jar of dill pickles is large enough to yield the 1¼ cups brine needed for this recipe."
+---

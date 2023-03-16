@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Instant Pot Red Wine–Braised Beef Stew
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Thanks to modern technology, this classic French stew is quick enough to make on a weeknight."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_InstantPotBeefBurgundy-51_gico1v
+tags: ["Main Courses","Beef"]
+calories: 5124
+protein: 49
+carbohydrates: 14
+fats: 62
+fiber: 2
+ingredients: ["5 tablespoons, vegetable oil, divided","1 pound, cremini mushrooms, trimmed and halved if small or quartered if large","1½ teaspoons, pepper, divided","1¼ teaspoons, table salt, divided","3 pounds, boneless beef chuck-eye roast, trimmed and cut into 1½-inch pieces","2 , onions, chopped","3 tablespoons, all-purpose flour","2 tablespoons, tomato paste","4 , garlic cloves, minced","2 teaspoons, minced fresh thyme","3 , anchovy fillets, minced","1 cup, dry red wine","¾ cup, chicken broth","6 ounces, salt pork, rind removed, cut into ¼-inch pieces","3 , carrots, peeled and cut into 1-inch lengths","2 , bay leaves","¼ cup, chopped fresh parsley"]
+serves: 6
+time: "2¼ hours"
+instructions: ["Using highest saute function, heat 2 tablespoons oil in Instant Pot until shimmering. Add mushrooms, ½ teaspoon pepper, and ½ teaspoon salt and cook, stirring occasionally, until mushrooms are browned and liquid has nearly evaporated, 8 to 10 minutes. Transfer mushrooms to bowl.","Pat beef dry with paper towels and sprinkle with ½ teaspoon pepper and ½ teaspoon salt. Add 1 tablespoon oil to oil left in pot and heat using highest saute function until just smoking. Brown half of beef on all sides, 6 to 8 minutes; transfer browned and unbrowned beef to second bowl.","Add onions, remaining 2 tablespoons oil, remaining ½ teaspoon pepper, and remaining ¼ teaspoon salt to fat left in pot and cook until onions are softened, 3 to 5 minutes. Stir in flour, tomato paste, garlic, thyme, and anchovies and cook until fragrant, about 1 minute. Stir in wine and broth, scraping up any browned bits. Stir in beef and any accumulated juices, salt pork, carrots, and bay leaves.","Lock lid into place and close pressure-release valve. Select high pressure-cook function and cook for 30 minutes. Turn off Instant Pot and quick-release pressure. Carefully remove lid, allowing steam to escape away from you.","Using large spoon, skim excess fat from surface of stew and remove bay leaves. Stir in mushrooms and bring to simmer using highest saute function. Cook, stirring occasionally, until liquid is slightly thickened and mushrooms are warmed through, about 5 minutes. Turn off Instant Pot and let rest for about 10 minutes (liquid will thicken slightly as it cools). Season with salt and pepper to taste. Sprinkle individual portions with parsley before serving."]
+nutrition: ["1403 mg Potassium, K","587 mg Phosphorus, P","97 mg Calcium, Ca","6 mg Iron, Fe","73 mg Magnesium, Mg","1164 mg Sodium, Na","18 mg Zinc, Zn","62 g Total lipid (fat)","14 mg Niacin","32 g Fatty acids, total monounsaturated","7 g Fatty acids, total polyunsaturated","10 mg Vitamin C, total ascorbic acid","178 mg Cholesterol","20 g Fatty acids, total saturated","1 g Fatty acids, total trans","2 g Fiber, total dietary","6 µg Folic acid","48 µg Folate, food","5 g Sugars, total","50 µg Vitamin K (phylloquinone)","362 g Water","17 g Carbohydrate, by difference","58 µg Folate, DFE","49 g Protein","3 mg Vitamin E (alpha-tocopherol)","6 µg Vitamin B-12","1 mg Vitamin B-6","280 µg Vitamin A, RAE","14 g Carbohydrates (net)","854 kcal Energy","5124 calories"]
+notes: "If you cant find salt pork, you can substitute thick-cut bacon. Be sure to thoroughly scrape up any browned bits in step 3. Serve with potatoes, rice, or egg noodles."
+---

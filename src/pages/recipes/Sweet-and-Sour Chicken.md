@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Sweet-and-Sour Chicken
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We set out to create a version of this Chinese American dish with crispy chicken and a lighter sauce."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/29698_sfs-sweet-and-sour-chicken-12
+tags: ["Main Courses","Chinese","Chicken"]
+calories: 2593
+protein: 30
+carbohydrates: 97
+fats: 
+fiber: 3
+ingredients: ["1/2 cup, pineapple juice","1/2 cup, orange juice","1/2 cup, distilled white vinegar","1/2 cup, sugar","3 tablespoons, ketchup","1/4 teaspoon, red pepper flakes","1/8 teaspoon, salt","1 tablespoon, cornstarch","1 pound, boneless, skinless chicken breasts, trimmed and cut crosswise on slight bias into 1/2-inch-wide strips",", Salt and pepper","1 cup (5 ounces), all-purpose flour","1 cup (4 ounces), cornstarch","2 teaspoons, baking powder","1/2 teaspoon, baking soda","1 1/4 cups, water","3 tablespoons plus 2 quarts, peanut or vegetable oil","2 , red bell peppers, stemmed, seeded, and cut into 1-inch pieces","6 , scallions, cut into 1-inch pieces"]
+serves: 4
+time: "1½ hours"
+instructions: ["FOR THE SAUCE: Combine pineapple juice, orange juice, vinegar, ½ cup water, sugar, ketchup, pepper flakes, and salt in medium saucepan and bring to boil over medium-high heat. Reduce heat to medium and simmer until reduced to 1½ cups, 8 to 10 minutes. Dissolve cornstarch in 1 tablespoon cold water, whisk into sauce, and cook until thickened, about 1 minute. Transfer sauce to 2-cup liquid measuring cup; set aside.","FOR THE CHICKEN: Set wire rack in rimmed baking sheet and line half of rack with triple layer of paper towels. Line large plate with triple layer of paper towels. Pat chicken dry with paper towels and season with salt and pepper.","Whisk flour, cornstarch, baking powder, baking soda, 2 teaspoons salt, and 1 teaspoon pepper together in large bowl. Whisk in water and 3 tablespoons oil until smooth. Submerge half of chicken in batter, stirring to thoroughly coat.","Add remaining 2 quarts oil to large Dutch oven until it measures about 1½ inches deep and heat over medium-high heat to 375 degrees. Working quickly, with 1 piece of chicken at a time, use fork to spear chicken in batter and carefully drop into hot oil. (Use second fork to help release chicken into oil.) Adjust burner, if necessary, to maintain oil temperature between 350 and 375 degrees.","Fry, stirring gently to prevent pieces from sticking together, until chicken is golden and cooked through, 2 to 3 minutes. Transfer chicken to paper towel–lined side of prepared rack. Let drain for 30 seconds, then move to unlined side of rack. Return oil to 375 degrees, submerge remaining chicken in remaining batter, and repeat frying with remaining chicken.","Turn off heat, add bell peppers to oil, and fry, stirring constantly, until softened, about 1 minute. Transfer to prepared plate. Add scallions to oil and fry until tender, about 5 seconds. Transfer to plate with peppers. Blot vegetables with paper towels to remove excess oil.","Microwave sauce until hot, about 1 minute. Gently toss chicken, bell peppers, scallions, and 1 cup sauce in large bowl to combine; transfer to platter. Serve immediately, passing remaining sauce separately."]
+nutrition: ["761 mg Potassium","546 mg Phosphorus","221 mg Calcium","3 mg Iron","64 mg Magnesium","1114 mg Sodium","1 mg Zinc","14 g Fat","13 mg Niacin (B3)","8 g Monounsaturated","2 g Polyunsaturated","99 mg Vitamin C","1 IU Vitamin D","82 mg Cholesterol","1 g Saturated","3 g Fiber","48 µg Folic acid","77 µg Folate (food)","36 g Sugars","52 µg Vitamin K","97 g Carbs","159 µg Folate equivalent (total)","30 g Protein","4 mg Vitamin E","1 mg Vitamin B6","121 µg Vitamin A","648 kcal Energy","24 g Sugars, added","2593 calories"]
+notes: "Use a Dutch oven that holds 6 quarts or more for this recipe. Be sure to turn off the heat before frying the vegetables; the residual heat is enough to cook them through. Serve with rice."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Turkey and Gravy for a Crowd
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We wanted moist meat, beautiful brown skin, and enough turkey to feed the (entire extended) family."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/37163_sfs-turkey-and-gravy-for-a-crowd-49
+tags: ["Main Courses","Turkey","Thanksgiving"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["1 (18- to 20-pound) prebrined, turkey, neck reserved, giblets discarded","1 , large onion, chopped","6 , carrots, peeled and chopped","3 , celery rib, chopped","2 cups, chicken broth, plus extra as needed","1 cup, dry white wine","3 sprigs, fresh thyme plus 1 tablespoon, minced","1 sprig, fresh rosemary plus 1 tablespoon, minced","2 , bay leaves","10 tablespoons, unsalted butter",", Kosher salt and pepper","1 tablespoon plus 2/3 cup, all-purpose flour","1 turkey-size, oven bag"]
+serves: 
+time: "4 to 4½ hours, plus 1 hour resting"
+instructions: ["Adjust oven rack to lowest position and heat oven to 350 degrees. Place turkey neck, onion, carrots, celery, 2 cups broth, wine, thyme sprigs, rosemary sprig, and bay leaves in large roasting pan. Set V-rack in pan.","Pat turkey dry with paper towels. Tuck wings behind back and tie legs together with kitchen twine. Microwave 2 tablespoons butter in bowl until melted, about 30 seconds. Brush turkey with melted butter and season with salt and pepper.","Add 1 tablespoon flour to oven bag, then hold bag closed and shake to distribute flour. Place turkey in bag. Tie bag closed with kitchen twine or included bag tie. Place turkey in V-rack and cut four 1-inch slits in top of bag to allow steam to escape. Roast until breasts register 160 degrees and thighs register 175 degrees, 2 3/4 to 3 1/4 hours.","Remove pan from oven. Using paring knife, poke holes in underside of bag to release liquid into pan. (Be careful of escaping steam.) Using kitchen shears, cut bag around perimeter of turkey and remove top of bag. Holding tied end, pull bottom portion of bag from underneath turkey, using tongs to tilt turkey as needed. Discard bag. Transfer V-rack with turkey to rimmed baking sheet, tent with aluminum foil, and let rest for 1 hour.","Using wooden spoon, scrape up any browned bits from bottom of pan. Discard turkey neck. Strain contents of pan through fine-mesh strainer set over large bowl. Using spoon, press on vegetables to extract as much liquid as possible; discard vegetables. Let juices sit to allow fat to rise to top, about 5 minutes. Using ladle, skim fat from top of juices and reserve 1/2 cup; discard remaining fat.","If necessary, add enough extra broth to defatted juices to measure 6 cups. Combine reserved fat and remaining 2/3 cup flour in medium saucepan and cook over medium heat until mixture is color of peanut butter, about 10 minutes, stirring occasionally. Slowly whisk in defatted juices and bring to simmer. Cook until gravy is slightly thickened and coats back of spoon, about 5 minutes. Season with salt and pepper to taste. Cover and keep warm.","Carve turkey and transfer to serving platter. Microwave remaining 8 tablespoons butter with minced thyme, minced rosemary, 3/4 teaspoon salt, and 1/4 teaspoon pepper until melted, about 1 minute. Pour herb butter over turkey. Serve, passing gravy separately."]
+nutrition: undefined
+notes: "Since different-size turkeys exude varying amounts of juices, buy a full quart of broth so you’ll be sure to have enough liquid when making the gravy. We recommend using a “self-basting” or prebrined turkey. You will need a turkey-size oven bag here; this recipe was developed using Reynolds Oven Bags. Before putting the turkey in the oven, make sure all sides of the bag are tucked into the roasting pan to prevent them from touching the oven walls. Fresh sage can be substituted for the rosemary, if desired."
+---

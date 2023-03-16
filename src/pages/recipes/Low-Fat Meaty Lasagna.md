@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Low-Fat Meaty Lasagna
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "A meaty lasagna made with ground turkey will be low in fat-and flavor. We set out to create a lasagna with big flavor from lean ingredients."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/5549_sfs-fm07-opn-4c-lasagna-2-291652
+tags: ["Main Courses","Italian","Pasta","Turkey","Light","Casseroles","Cook's Country TV","Cookbook Collection"]
+calories: 3566
+protein: 33
+carbohydrates: 48
+fats: 
+fiber: 6
+ingredients: ["1 , small carrot, cut into chunks","1 pound, mushrooms (cremini or white)","6 cloves, garlic, peeled","2 , (28 ounce) cans whole tomatoes with juice","2 teaspoons, extra-virgin olive oil","1 , medium onion, minced","3 tablespoons, tomato paste","1 1/4 pounds, ground turkey, 93% lean","2 cups, 2% milk","2 cups, low-sodium chicken broth","1 , bay leaf","1/2 cup, minced fresh basil","5 tablespoons, all-purpose flour","1 cup, grated Parmesan cheese","12 , no-boil lasagna noodles"]
+serves: 8
+time: "2¼ hours, plus 20 minutes cooling"
+instructions: ["Pulse carrot, mushrooms, and garlic in food processor until finely chopped; transfer to bowl. Process tomatoes in food processor until almost smooth. Combine 1 teaspoon oil, onion, 1/2 teaspoon salt, and 1/4 teaspoon pepper in Dutch oven. Cover and cook over medium-low heat until onion is softened, 3 to 4 minutes. Add carrot, mushrooms, and garlic and cook, uncovered, until mushrooms release their liquid, 5 to 7 minutes. Increase heat to medium-high and cook until liquid has evaporated, 3 to 5 minutes.","Add tomato paste and cook until paste begins to brown, about 2 minutes. Stir in turkey and 1 cup milk, using wooden spoon to break up any large chunks, and cook until most of milk has evaporated, 5 to 7 minutes. Stir in tomatoes, 1 cup broth, and bay leaf; bring to simmer and cook until sauce has thickened and most of liquid has evaporated, 45 to 60 minutes. Off heat, remove bay leaf, stir in basil, and season with salt and pepper.","Meanwhile, whisk remaining 1 cup milk, remaining 1 cup broth, and flour together in medium saucepan until smooth. Bring mixture to simmer over medium-high heat and cook, stirring constantly, until thickened, about 2 minutes. Off heat, stir in remaining 1 teaspoon oil and cheese. Season with salt and pepper.","Adjust oven rack to upper-middle position and heat oven to 425 degrees. Spread 2 cups meat sauce in 13 by 9-inch baking pan. Lay 3 noodles over sauce, leaving space between them. Repeat with 3 more layers sauce and noodles. Spread white sauce evenly over top layer of noodles, leaving 1-inch border around edge. Bake until lasagna is bubbling around edges and top begins to brown, 25 to 30 minutes. Cool on rack 20 minutes. Serve.","Make Ahead: You can make both the meat sauce and the white sauce up to 2 days in advance and refrigerate them until ready to use. Gently reheat the sauces separately before proceeding with step"]
+nutrition: ["1085 mg Potassium","519 mg Phosphorus","399 mg Calcium","3 mg Iron","83 mg Magnesium","629 mg Sodium","3 mg Zinc","14 g Fat","10 mg Niacin (B3)","4 g Monounsaturated","2 g Polyunsaturated","1 mg Thiamin (B1)","30 mg Vitamin C","1 µg Vitamin D","66 mg Cholesterol","5 g Saturated","6 g Fiber","7 µg Folic acid","48 µg Folate (food)","12 g Sugars","14 µg Vitamin K","438 g Water","48 g Carbs","61 µg Folate equivalent (total)","33 g Protein","1 mg Vitamin E","1 µg Vitamin B12","186 µg Vitamin A","445 kcal Energy","3566 calories"]
+notes: "For bolder flavor, add 1/4 teaspoon red pepper flakes to the meat sauce and a pinch of nutmeg to the white sauce. If you dont have a food processor, finely chop the vegetables by hand."
+---

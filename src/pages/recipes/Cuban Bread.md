@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Cuban Bread
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Our savory loaf has the perfect texture for pressed sandwiches."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_CubanBread_17_ghnzh3
+tags: ["Desserts or Baked Goods","Breads"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["1/4 cup, water","1/4 cup (1¼ ounces), all-purpose flour","1/2 teaspoon, instant or rapid-rise yeast","3 cups (15 ounces), all-purpose flour","2 teaspoons, instant or rapid-rise yeast","1 1/2 teaspoons, table salt","1 cup, warm water (110 degrees)","1/4 cup, lard","1 (16 by 12-inch) rectangular, disposable aluminum roasting pan"]
+serves: 
+time: "2½ hours, plus 12 hours resting sponge and 30 minutes cooling"
+instructions: ["FOR THE SPONGE: Whisk all ingredients with fork in liquid measuring cup until consistency of thin pancake batter. Cover with plastic wrap and refrigerate overnight (sponge will rise and collapse).","FOR THE DOUGH: Whisk flour, yeast, and salt together in bowl of stand mixer. Add warm water, lard, and sponge. Fit mixer with dough hook and mix on low speed until no dry flour remains, about 2 minutes, scraping down bowl as needed. Increase speed to medium and knead for 8 minutes. (Dough will be sticky and clear sides of bowl but still stick to bottom.)","Turn out dough onto lightly floured counter, sprinkle top with flour, and knead briefly to form smooth ball, about 30 seconds. Transfer dough to greased large bowl and turn to coat. Cover with plastic and let dough rise at room temperature until doubled in size, about 45 minutes.","Line rimless baking sheet with parchment paper. Turn out dough onto floured counter and cut into 2 equal pieces, about 14 ounces each.","Working with 1 piece of dough at a time, flatten into 10 by 6-inch rectangle with long side parallel to counter's edge. Fold top edge of rectangle down to midline, pressing to seal. Fold bottom edge of rectangle up to midline, pressing to seal. Fold dough in half so top and bottom edges meet; pinch seam and ends to seal. Flip dough seam side down and gently roll into 15-inch loaf with tapered ends.","Transfer loaf, seam side down, to 1 side of prepared sheet. Repeat shaping with second piece of dough and place about 3 inches from first loaf on other side of sheet. Cover loosely with plastic and let rise at room temperature until puffy, about 30 minutes. Adjust oven rack to middle position and heat oven to 450 degrees.","Using sharp paring knife in swift, fluid motion, make ⅛-inch-deep lengthwise slash along top of each loaf, starting and stopping about 1½ inches from ends. Cover loaves with inverted disposable pan. Bake for 20 minutes. Using tongs, remove disposable pan and continue to bake until loaves are light golden brown and centers register 210 degrees, 10 to 12 minutes longer.","Transfer loaves to wire rack and let cool for 30 minutes. Serve warm.","TO MAKE AHEAD: Fully cooled loaves can be wrapped in aluminum foil and stored at room temperature for up to 2 days. Cooled bread can also be wrapped in plastic wrap, then in foil, and frozen for up to 1 month. Unwrap and warm before serving."]
+nutrition: undefined
+notes: "Covering the bread with the disposable pan during baking traps steam to create a crispier crust. You can substitute shortening for the lard, if desired. We prefer the flavor that the overnight fermentation provides, but if youre strapped for time, you can ferment the sponge for at least 1 hour or up to 4 hours at room temperature instead. Be gentle when slashing the shaped loaves or they will bake up wide and squat. As a table bread, these loaves are best eaten warm, but for Cuban sandwiches, we found that two-day-old bread is still acceptable."
+---

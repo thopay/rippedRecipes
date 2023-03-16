@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Reduced-Fat Stuffed Shells with Meat Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "When beef and cheese are the star ingredients, cutting the fat and calories is a daunting challenge."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/8848_sfs-stuffedshellsv2-019-279995
+tags: ["Main Courses","Pasta","Beef","Cheese","Light"]
+calories: 5185
+protein: 51
+carbohydrates: 77
+fats: 38
+fiber: 7
+ingredients: ["6 ounces, 93 percent lean ground beef","1 tablespoon, soy sauce","3 (14.5-ounce) cans, diced tomatoes","1 tablespoon, olive oil","1 , onion, chopped fine","2 tablespoons, tomato paste","3 , garlic cloves, minced","1/4 teaspoon, red pepper flakes","1/2 teaspoon, salt","1/4 cup, finely chopped fresh basil",", Salt","1 , (12-ounce) box jumbo pasta shells","12 , saltines, broken into pieces","2 1/2 cups, fat-free cottage cheese, drained if necessary","8 ounces, part-skim mozzarella cheese, shredded (2 cups)","1 ounce, Parmesan cheese, grated (1/2 cup)","2 tablespoons, chopped fresh basil","2 , garlic cloves, minced"]
+serves: 6
+time: "2¼ hours"
+instructions: ["GRIND MEAT Adjust oven rack to upper-middle position and heat oven to 375 degrees. Pulse beef and soy in food processor until well combined; transfer to medium bowl. Add tomatoes to processor and pulse until coarsely ground.","MAKE SAUCE Heat oil in large saucepan over medium heat until shimmering. Add onion and cook until softened, about 5 minutes. Stir in beef mixture, breaking up mixture with wooden spoon, and cook just until no longer pink, about 3 minutes. Add tomato paste, garlic, and pepper flakes and cook until fragrant, about 1 minute. Stir in processed tomatoes and salt and simmer until sauce is slightly thickened, about 25 minutes. Off heat, stir in basil; set aside. (Sauce can be refrigerated in airtight container for 3 days.)","COOK SHELLS Meanwhile, bring 4 quarts water to boil in large pot. Add 1 tablespoon salt and shells and cook until al dente, 12 to 15 minutes. Drain shells and transfer to kitchen towel-lined baking sheet. Reserve 24 shells, discarding any that have broken.","PREPARE FILLING Pulse crackers in clean food processor bowl until finely ground. Add cottage cheese, 1 1/2 cups mozzarella, Parmesan, basil, garlic, and 1/2 teaspoon salt and process until smooth; transfer to large plastic storage bag. Using scissors, cut off 1 corner of bag and pipe 2 tablespoons filling into each shell.","ASSEMBLE Spread half of meat sauce over bottom of 13 by 9-inch baking dish. Arrange filled shells, seam side up, over sauce in dish. Spread remaining sauce over shells. Cover with aluminum foil and bake until bubbling around edges, 35 to 40 minutes. Remove foil and sprinkle with remaining mozzarella. Bake until cheese is melted, about 5 minutes. Let cool 15 minutes. Serve.","MAKE AHEAD: Sauce-topped stuffed shells can be refrigerated, covered with plastic wrap, for 2 days. To finish, discard plastic, cover with foil, and bake until bubbling, 45 to 50 minutes. Proceed with recipe."]
+nutrition: ["932 mg Potassium, K","840 mg Phosphorus, P","828 mg Calcium, Ca","3 mg Iron, Fe","106 mg Magnesium, Mg","1417 mg Sodium, Na","5 mg Zinc, Zn","38 g Total lipid (fat)","4 mg Niacin","12 g Fatty acids, total monounsaturated","2 g Fatty acids, total polyunsaturated","1 mg Thiamin","29 mg Vitamin C, total ascorbic acid","121 mg Cholesterol","19 g Fatty acids, total saturated","7 g Fiber, total dietary","7 µg Folic acid","58 µg Folate, food","12 g Sugars, total","20 µg Vitamin K (phylloquinone)","367 g Water","77 g Carbohydrate, by difference","70 µg Folate, DFE","51 g Protein","2 mg Vitamin E (alpha-tocopherol)","1 µg Vitamin B-12","286 µg Vitamin A, RAE","864 kcal Energy","5185 calories"]
+notes: "Youll need a 24-ounce container of fat-free cottage cheese (dont use whipped). If it appears watery, drain it in a fine-mesh strainer for 15 minutes before you use it. Separate the shells after draining them to keep them from sticking together."
+---

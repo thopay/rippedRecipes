@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Hot Cross Buns
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Breakfast? Dessert? Sweet Easter dinner roll? We wanted a balanced bun to fit every bill."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/40172_sfs-hot-cross-buns-93
+tags: ["Desserts or Baked Goods","Breads","Easter"]
+calories: 4154
+protein: 7
+carbohydrates: 61
+fats: 
+fiber: 1
+ingredients: ["3/4 cup, raisins","2 tablespoons, water, plus ¾ cup warm water (110 degrees)","3 , large eggs, plus 1 large egg, lightly beaten","6 tablespoons, unsalted butter, melted","4 cups (20 ounces), all-purpose flour","1/2 cup (3 1/2 ounces), granulated sugar","2 1/4 teaspoons, instant or rapid-rise yeast","1 1/4 teaspoons, salt","1 cup (4 ounces), confectioners' sugar","4 teaspoons, milk","1/8 teaspoon, vanilla extract","Pinch, salt"]
+serves: 12
+time: "1½ hours, plus 3½ to 4½ hours rising and 1 hour cooling"
+instructions: ["FOR THE BUNS: Combine raisins and 2 tablespoons water in small bowl; cover and microwave until steaming, about 1 minute. Let sit until softened, about 15 minutes. Drain raisins and discard liquid.","Whisk warm water, 3 eggs, and melted butter together in 4-cup liquid measuring cup. Using stand mixer fitted with dough hook, mix flour, sugar, yeast, and salt on low speed until combined, about 30 seconds. With mixer running, add egg mixture and mix until dough comes together, about 2 minutes.","Increase speed to medium and knead until dough is smooth and elastic, about 10 minutes. Reduce speed to low, add raisins, and knead until combined, about 2 minutes (dough will be sticky and some raisins may not be fully incorporated into dough at this point; this is OK).","Turn out dough and any errant raisins onto lightly floured counter and knead by hand to evenly incorporate raisins into dough, about 1 minute. Form dough into smooth, taut ball; transfer to greased large bowl and cover with plastic wrap. Let rise until doubled in size, 2 to 2½ hours.","Grease 13 by 9-inch baking pan. Turn out dough onto lightly floured counter and divide into 12 equal pieces. Form each piece into rough ball by pinching and pulling dough edges under so that top is smooth. On clean counter, cup each ball with your palm and roll into smooth, tight ball. Arrange in prepared pan in 3 rows of 4 and cover loosely with plastic. Let buns rise until nearly doubled in size and starting to press against one another, 1½ to 2 hours.","Adjust oven rack to middle position and heat oven to 350 degrees. Brush buns with beaten egg. Bake until golden brown and centers register at least 190 degrees, 24 to 26 minutes. Transfer pan to wire rack and let buns cool until just warm, about 1 hour.","FOR THE ICING: Combine all ingredients in bowl until smooth (icing will be very thick). Transfer icing to small zipper-lock bag. Cut off very tip of 1 corner of bag. Pipe continuous line of icing across center of each row of buns, then pipe icing in lines perpendicular to first to form cross in center of each bun. Serve.","TO MAKE AHEAD: Make dough through step 5 and let rise until doubled in size. Cover tightly with plastic wrap and refrigerate for up to 24 hours. Proceed with recipe from step 6, extending baking time by 5 minutes."]
+nutrition: ["153 mg Potassium","101 mg Phosphorus","25 mg Calcium","2 mg Iron","16 mg Magnesium","238 mg Sodium","7 g Fat","3 mg Niacin (B3)","2 g Monounsaturated","77 mg Cholesterol","4 g Saturated","1 g Fiber","72 µg Folic acid","39 µg Folate (food)","23 g Sugars","1 µg Vitamin K","25 g Water","61 g Carbs","163 µg Folate equivalent (total)","7 g Protein","76 µg Vitamin A","346 kcal Energy","17 g Sugars, added","4154 calories"]
+notes: "You can use either regular or golden raisins in this recipe. The buns can be served warm or at room temperature. Plan ahead: The dough will need to rise in two stages for a total of 3½ to 4½ hours."
+---

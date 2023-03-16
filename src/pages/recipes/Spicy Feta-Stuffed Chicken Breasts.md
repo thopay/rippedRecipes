@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Spicy Feta-Stuffed Chicken Breasts
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "For stuffed chicken breasts worth the bother, you need to start with the right cut."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_FetaStuffedChickenCucumberSalad-21_lxo2xh
+tags: ["Main Courses","Chicken"]
+calories: 2692
+protein: 60
+carbohydrates: 5
+fats: 44
+fiber: 1
+ingredients: ["4 (12-ounce), bone-in, skin-on split chicken breasts, trimmed",", Salt and pepper","1/4 cup, extra-virgin olive oil","1/2 cup, finely chopped onion","3 tablespoons, chopped fresh basil","2 , garlic cloves","2 teaspoons, grated lemon zest","2 ounces, feta cheese, crumbled (1/2 cup)","1/4 cup pitted, kalamata olives, patted dry and chopped","2 tablespoons chopped, pepperoncini","1/2 cup, chicken broth","2 teaspoons, red wine vinegar"]
+serves: 4
+time: "1½ hours"
+instructions: ["Adjust oven rack to middle position and heat oven to 400 degrees. Using kitchen shears, remove any rib bones that extend beyond each breast. Working with 1 breast at a time, place skin side down on work surface with breastbone side facing your knife hand. Press on breast with your opposite hand to flatten slightly and, using sharp paring knife, cut 3-inch-long horizontal pocket in breastbone side of breast, stopping ½ inch from rib side so halves remain attached. Using your fingers and tip of knife, make interior of pocket wider without increasing 3-inch opening. Season breasts inside and out with salt and pepper; set aside.","Heat 1 tablespoon oil in 12-inch ovenproof nonstick skillet over medium heat until shimmering. Add onion and 1/8 teaspoon salt and cook until softened and browned around edges, 4 to 6 minutes. Remove from heat and set aside to cool slightly, about 5 minutes.","Combine basil, garlic, lemon zest, and 2 tablespoons oil in bowl; set aside 2 teaspoons oil mixture for sauce. Stir feta, olives, pepperoncini, onion, 1 teaspoon pepper, and 1/4 teaspoon salt into remaining oil mixture, mashing against side of bowl with back of spoon until stuffing mixture clumps together.","Place about 3 tablespoons of stuffing mixture into pocket of each breast, pressing into ends of pockets with your fingers to fill completely and evenly. Fold breast over to enclose. Secure each breast with 3 evenly spaced pieces of kitchen twine. Wipe skillet clean with paper towels.","Heat remaining 1 tablespoon oil in now-empty skillet over medium-high heat until just smoking. Cook breasts skin side down until well browned, about 7 minutes, moving as needed for evenly browned skin.","Flip breasts skin side up, add broth to skillet, and transfer to oven. Roast until thickest part of stuffing registers 160 degrees, 30 to 37 minutes. Transfer breasts to carving board, tent with aluminum foil, and let rest for 15 minutes.","Meanwhile, pour pan juices into liquid measuring cup (skillet handle will be hot) and skim off fat. Stir in vinegar and reserved seasoned oil mixture; season with salt and pepper to taste. Remove twine, then carve breasts from bones. Slice 1/2 inch thick, transfer to serving platter, and drizzle with sauce. Serve."]
+nutrition: ["710 mg Potassium, K","557 mg Phosphorus, P","151 mg Calcium, Ca","2 mg Iron, Fe","79 mg Magnesium, Mg","1031 mg Sodium, Na","2 mg Zinc, Zn","44 g Total lipid (fat)","27 mg Niacin","21 g Fatty acids, total monounsaturated","7 g Fatty acids, total polyunsaturated","5 mg Vitamin C, total ascorbic acid","1 µg Vitamin D (D2 + D3)","191 mg Cholesterol","12 g Fatty acids, total saturated","1 g Fiber, total dietary","24 µg Folate, food","2 g Sugars, total","19 µg Vitamin K (phylloquinone)","261 g Water","5 g Carbohydrate, by difference","24 µg Folate, DFE","60 g Protein","2 mg Vitamin E (alpha-tocopherol)","1 µg Vitamin B-12","1 mg Vitamin B-6","96 µg Vitamin A, RAE","673 kcal Energy","2692 calories"]
+notes: "High-quality Feta makes a difference here."
+---

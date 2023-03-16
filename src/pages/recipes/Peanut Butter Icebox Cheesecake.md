@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Peanut Butter Icebox Cheesecake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "No-bake cheesecakes, which use gelatin to set them firm, can be a dubious affair. We set out to create an icebox cheesecake with a supple, creamy texture and great flavor, too."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/4188_sfs-pbchoccheesecake-319542
+tags: ["Desserts or Baked Goods","Frozen Desserts","Cakes"]
+calories: 5950
+protein: 8
+carbohydrates: 30
+fats: 
+fiber: 1
+ingredients: ["1 1/4 cups, Nutter Butter cookie crumbs (crushed from 16 cookies)","2 tablespoons, unsalted butter, melted and kept warm","1 1/2 cups, heavy cream","1 envelope, unflavored gelatin","1/2 cup (3½ ounces), sugar","1 pound, cream cheese, cut into 1-inch chunks and softened 30 to 45 minutes at room temperature","1 teaspoon, vanilla extract","1/2 cup, smooth peanut butter","pinch, table salt","1/2 cup, chopped salted peanuts"]
+serves: 12
+time: ""
+instructions: ["For the crust:","Adjust oven rack to middle position and heat oven to 325 degrees. Place cookie crumbs and butter in a medium bowl and stir well with fork until mixture resembles wet sand. Transfer crumbs to 9-inch springform pan and use bottom of measuring cup to firmly press crumbs into even layer over bottom of pan. Bake crust until fragrant and beginning to brown, about 13 minutes. Cool completely on wire rack, at least 30 minutes.","For the filling:","Pour 1/4 cup heavy cream into microwave-safe measuring cup. Add gelatin and whisk to combine. Let stand until gelatin is softened, about 5 minutes, then microwave on high power for about 30 seconds, or until cream is bubbling and gelatin is completely dissolved. Set aside.","Using electric mixer, beat remaining 1 1/4 cups heavy cream and sugar in large bowl at medium-high speed until soft peaks form, about 2 minutes. Add cream cheese and beat at medium-low speed until combined, about 1 minute (a few coffee bean-sized lumps may remain). Scrape bottom and sides of bowl well with rubber spatula. Add vanilla and salt and continue to beat at medium-low speed until combined, about 1 minute. Scrape bottom and sides of bowl again. Increase speed to medium-high and beat until mixture is smooth, about 3 minutes. Add dissolved gelatin mixture and continue to beat at medium-high until smooth and airy, about 2 minutes. Add peanut butter and beat until smooth.","Pour filling into cooled crust and, using offset or icing spatula dipped in hot water, spread filling out evenly. Refrigerate for at least 6 hours, but for best results refrigerate overnight.","To serve, wrap hot, damp kitchen towel around springform pan, as shown in photo 1, below right. Unlock pan and carefully lift off sides. Slip thin metal spatula under crust and carefully slide cheesecake onto serving platter and press peanut pieces into sides of cake."]
+nutrition: ["220 mg Potassium","141 mg Phosphorus","71 mg Calcium","1 mg Iron","45 mg Magnesium","301 mg Sodium","39 g Fat","2 mg Niacin (B3)","12 g Monounsaturated","3 g Polyunsaturated","87 mg Cholesterol","17 g Saturated","1 g Fiber","20 µg Folate (food)","20 g Sugars","2 µg Vitamin K","39 g Water","30 g Carbs","20 µg Folate equivalent (total)","8 g Protein","1 mg Vitamin E","276 µg Vitamin A","495 kcal Energy","8 g Sugars, added","5950 calories"]
+notes: "Dont rush the softening of the cream cheese. If microwaved, the cream cheese will cook slightly and eventually cause the entire cheesecake mixture to break. To speed up the process, cut the cream cheese into chunks and let it stand at room temperature for at least half an hour. When the cream cheese is no longer cold and gives easily under pressure, its ready to use. Creamy peanut butter, Nutter Butter cookies, and chopped salted peanuts pack a triple peanut punch in this cheesecake. To make the crust, youll need 16 Nutter Butter cookies, broken into rough pieces and processed in a food processor or blender until ground. Serve this cheesecake drizzled with melted chocolate."
+---

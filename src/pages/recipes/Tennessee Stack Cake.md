@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Tennessee Stack Cake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Tennessee Stack Cake looks impressive, but the roots of this regional recipe are really quite humble."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/5885_sfs-am07-opn-4c-stackcake3-290982
+tags: ["Desserts or Baked Goods","American","Southern","Cakes","Contest Recipes","Lost Recipes"]
+calories: 8389
+protein: 9
+carbohydrates: 130
+fats: 
+fiber: 5
+ingredients: ["3 (6-ounce) bags, dried apples","1 cup packed (7 ounces), light brown sugar","1 1/2 teaspoons, ground cinnamon","1/2 teaspoons, ground cloves","1/2 teaspoon, ground allspice","6 cups (30 ounces), all-purpose flour","1 tablespoon, baking powder","1 teaspoon, baking soda","1/4 teaspoon, Salt","1/2 cup, buttermilk","2 , large eggs","1 teaspoon, vanilla extract","16 tablespoons, unsalted butter, softened","2 cups (14 ounces), granulated sugar",", Confectioners' sugar for dusting"]
+serves: 12
+time: "2¼ hours, plus 1 hour cooling and 24 hours softening"
+instructions: ["For the filling: Bring apples and water to cover to boil in medium saucepan. Reduce heat and simmer until apples are completely softened, about 10 minutes. Drain apples and let cool until just warm, about 15 minutes. Puree apples in food processor until smooth. Transfer to bowl and stir in sugar, cinnamon, cloves, and allspice. (Filling can be refrigerated for up to 2 days.)","For the layers: Adjust oven racks to the upper-middle and lower-middle positions and heat oven to 350 degrees. Coat 2 baking sheets with cooking spray. Whisk flour, baking powder, baking soda, and salt in medium bowl. Whisk buttermilk, eggs, and vanilla in large measuring cup.","With electric mixer at medium-high speed, beat butter and granulated sugar in large bowl until fluffy, about 2 minutes, scraping down bowl as necessary. Add one-third of flour mixture and beat on medium-low speed until just incorporated, about 30 seconds. Add half of buttermilk mixture and beat on low speed until combined, about 30 seconds. Scrape down bowl as necessary and repeat with half of remaining flour mixture, remaining buttermilk mixture, and remaining flour mixture. Give bowl a final scrape. (Dough will be thick.)","Divide dough into 8 equal portions. Working with 2 portions at a time, roll each out into 10-inch circle about 1/4 inch thick. Using 9-inch cake pan as template, trim away excess dough to form two perfectly round 9-inch disks. Transfer disks to prepared baking sheets and bake until golden brown, 10 to 12 minutes, rotating and switching baking sheets halfway through baking time. Transfer disks to rack and cool completely, at least 1 hour. Repeat with remaining dough. (Layers can be wrapped tightly in plastic and stored at room temperature for up to 2 days.)","Place 1 layer on serving plate and spread with 1 cup filling. Repeat 6 times. Top with final layer, wrap tightly in plastic, and refrigerate until layers soften, at least 24 hours or up to 2 days. Dust with confectioners' sugar and serve."]
+nutrition: ["319 mg Potassium","237 mg Phosphorus","137 mg Calcium","4 mg Iron","27 mg Magnesium","319 mg Sodium","17 g Fat","4 mg Niacin (B3)","4 g Monounsaturated","1 g Polyunsaturated","1 mg Vitamin C","72 mg Cholesterol","10 g Saturated","5 g Fiber","109 µg Folic acid","25 µg Folate (food)","72 g Sugars","3 µg Vitamin K","41 g Water","130 g Carbs","211 µg Folate equivalent (total)","9 g Protein","144 µg Vitamin A","699 kcal Energy","47 g Sugars, added","8389 calories"]
+notes: "Be sure to let the cake set at least 24 hours, as the moisture from the filling transforms the texture of the cookie-like layers into a tender apple-flavored cake."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Pepperoni Pan Pizza
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Chicago-style pan pizza eschews a thin, crisp, sparsely topped crust in favor of a thick, tender crust loaded with toppings. However, the unique pan pizza crust requires unique dough."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/4945_cvr-sfs-pepperonipanpiza
+tags: ["Main Courses","Pizza","Cook's Country TV"]
+calories: 5735
+protein: 43
+carbohydrates: 60
+fats: 
+fiber: 5
+ingredients: ["1/2 cup, olive oil","3/4 cup, skim milk plus 2 additional tablespoons, warmed to 110 degrees","2 teaspoons, sugar","2 1/3 cups (11⅔ ounces), all-purpose flour, plus extra for counter","1 package, instant yeast","1/2 teaspoon, table salt","1 , (3.5-ounce) package sliced pepperoni","1 1/3 cups, tomato sauce (see related recipe, \"Basic Pizza Sauce\")","3 cups, shredded part-skim mozzarella cheese"]
+serves: 6
+time: ""
+instructions: ["To make the dough: Adjust oven rack to lowest position and heat oven to 200 degrees. When oven reaches 200 degrees, turn it off. Lightly grease large bowl with cooking spray. Coat each of two 9-inch cake pans with 3 tablespoons oil.","Mix milk, sugar, and remaining 2 tablespoons oil in measuring cup. Mix flour, yeast, and salt in standing mixer fitted with dough hook. Turn machine to low and slowly add milk mixture. After dough comes together, increase speed to medium-low and mix until dough is shiny and smooth, about 5 minutes. Turn dough onto lightly floured counter, gently shape into ball, and place in greased bowl. Cover with plastic wrap and place in warm oven until doubled in size, about 30 minutes.","To shape and top the dough: Transfer dough to lightly floured counter, divide in half, and lightly roll each half into ball. Working with 1 dough ball at a time, roll and shape dough into 9 1/2-inch round and press into oiled pan. Cover with plastic wrap and set in warm spot (not in oven) until puffy and slightly risen, about 20 minutes. Meanwhile, heat oven to 400 degrees.","While dough rises, put half of pepperoni in single layer on microwave-safe plate lined with 2 paper towels. Cover with 2 more paper towels and microwave on high for 30 seconds. Discard towels and set pepperoni aside; repeat with new paper towels and remaining pepperoni.","Remove plastic wrap from dough. Ladle 2/3 cup sauce on each round, leaving 1/2-inch border around edges. Sprinkle each with 1 1/2 cups cheese and top with pepperoni. Bake until cheese is melted and pepperoni is browning around edges, about 20 minutes. Remove from oven; let pizzas rest in pans for 1 minute. Using spatula, transfer pizzas to cutting board and cut each into 8 wedges. Serve.","PIZZA DOUGH WITHOUT A MIXER: In step 2, mix the flour, yeast, and salt together in a large bowl. Make a well in the flour, then pour the milk mixture into the well. Using a wooden spoon, stir until the dough becomes shaggy and difficult to stir. Turn out onto a heavily floured work surface and knead, incorporating any shaggy scraps. Knead until the dough is smooth, about 10 minutes. Shape into a ball and proceed as directed."]
+nutrition: ["711 mg Potassium","742 mg Phosphorus","881 mg Calcium","5 mg Iron","76 mg Magnesium","1483 mg Sodium","4 mg Zinc","60 g Fat","8 mg Niacin (B3)","27 g Monounsaturated","4 g Polyunsaturated","1 mg Riboflavin (B2)","1 mg Thiamin (B1)","12 mg Vitamin C","1 µg Vitamin D","133 mg Cholesterol","25 g Saturated","5 g Fiber","84 µg Folic acid","186 µg Folate (food)","10 g Sugars","23 µg Vitamin K","226 g Water","60 g Carbs","331 µg Folate equivalent (total)","43 g Protein","4 mg Vitamin E","1 µg Vitamin B12","319 µg Vitamin A","955 kcal Energy","1 g Sugars, added","5735 calories"]
+notes: "If you don’t have a mixer, you can easily make the pan pizza dough on your counter. We prefer to use skim milk, but whole milk works fine. "
+---

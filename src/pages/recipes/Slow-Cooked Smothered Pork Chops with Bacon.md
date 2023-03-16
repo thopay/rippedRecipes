@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Slow-Cooked Smothered Pork Chops with Bacon
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We successfully recreated a favorite slow-cooker dish into something that is better than the original-and it practically cooks itself."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/5153_sfs-smothered-pork-chops-317007
+tags: ["Main Courses","Pork","Slow Cooker","Cook's Country TV"]
+calories: 3213
+protein: 47
+carbohydrates: 12
+fats: 
+fiber: 1
+ingredients: ["4 slices, bacon, chopped fine",", Vegetable oil (if necessary)","6 , bone-in blade-cut pork chops, about 3/4 inch thick",", Salt and pepper","3 , yellow onions, halved and sliced into 1/2-inch half-moons","1 teaspoon, light brown sugar plus 1 tablespoon","1/4 cup, water plus 2 tablespoons","3 cloves, garlic, minced","2 teaspoons, minced fresh thyme leaves","3 cups, low-sodium chicken broth","1 tablespoon, soy sauce","2 , bay leaves","1 tablespoon, cornstarch","1 tablespoon, cider vinegar","1 tablespoon, minced fresh parsley leaves"]
+serves: 6
+time: ""
+instructions: ["Fry bacon in large skillet over medium heat until lightly browned, about 8 minutes. Using slotted spoon, transfer bacon to paper towels, leaving fat in pan (you should have 2 tablespoons fat; if not, supplement with oil). Refrigerate bacon.","Heat fat over high heat until smoking. Meanwhile, pat pork chops dry with paper towels and sprinkle with salt and pepper. Cook 3 chops until golden brown on both sides, about 3 minutes per side. Transfer chops to slow-cooker insert. Repeat with remaining chops and transfer to slow-cooker insert.","Pour off all but 1 teaspoon fat from skillet; add onions, 1 teaspoon brown sugar, 1/4 teaspoon salt, and 1/4 cup water to now-empty skillet. Using wooden spoon, scrape browned bits from pan bottom and cook over medium-high heat until onions are soft, about 6 minutes. Stir in garlic and thyme and cook until fragrant, about 30 seconds longer. Pour onion mixture over chops in slow-cooker insert. Add broth, soy sauce, and remaining 1 tablespoon brown sugar to skillet, bring to boil, and add bay leaves. Pour mixture over onions in slow cooker.","Cover slow cooker and cook on low until pork is very tender, about 8 hours (or cook on high for 4 hours).","When ready to serve, reheat bacon in large saucepan until crisp and transfer to small bowl. Carefully transfer chops to serving platter with large spoon and tent with foil. Discard bay leaves and pour liquid through mesh strainer into now-empty saucepan. Transfer solids to blender with 1 cup liquid and blend until smooth. Stir back into remaining liquid in saucepan. Mix cornstarch and remaining 2 tablespoons water together in small bowl and stir into sauce. Cook over medium heat until thickened, about 8 minutes. Add vinegar, season with salt and pepper, pour over chops, and sprinkle with bacon and parsley. Serve.","MAKE AHEAD: The recipe can be prepared through step 3 a day in advance. Refrigerate the chops separately and the onion and broth mixtures together. In the morning, place the chops in the slow-cooker insert; bring the broth and onion mixture to a boil in a skillet, and pour it over the chops. Proceed as directed."]
+nutrition: ["960 mg Potassium","507 mg Phosphorus","73 mg Calcium","2 mg Iron","65 mg Magnesium","1008 mg Sodium","4 mg Zinc","32 g Fat","15 mg Niacin (B3)","14 g Monounsaturated","4 g Polyunsaturated","1 mg Thiamin (B1)","6 mg Vitamin C","1 µg Vitamin D","150 mg Cholesterol","9 g Saturated","1 g Fiber","13 µg Folate (food)","4 g Sugars","12 µg Vitamin K","339 g Water","12 g Carbs","13 µg Folate equivalent (total)","47 g Protein","1 mg Vitamin E","1 µg Vitamin B12","1 mg Vitamin B6","10 µg Vitamin A","535 kcal Energy","1 g Sugars, added","3213 calories"]
+notes: "These pork chops are so tender that youll need to remove them from the slow cooker with a spoon."
+---

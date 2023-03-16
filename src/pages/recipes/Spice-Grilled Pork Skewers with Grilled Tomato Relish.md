@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Spice-Grilled Pork Skewers with Grilled Tomato Relish
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "For tender, juicy, flavorful pork skewers, you need to pick the right cut and be bold when it comes to seasonings."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/20866_sfs-spice-grilledporkskewers-12
+tags: ["Main Courses","Pork","Grilling & Barbecue","Cookbook Collection"]
+calories: 2738
+protein: 30
+carbohydrates: 13
+fats: 
+fiber: 2
+ingredients: ["2 , lemons","1/4 cup, vegetable oil","5 , garlic cloves, minced","1 tablespoon, ground coriander","2 teaspoons, ground cumin",", Salt and pepper","1/2 teaspoon, ground nutmeg","1/2 teaspoon, ground cinnamon","2 pounds, boneless country-style pork ribs, trimmed and cut into 1-inch pieces","12 ounces, cherry tomatoes","2 tablespoons, unsalted butter","2 tablespoons, honey","6 , scallions"]
+serves: 6
+time: "1¼ hours, plus 30 minutes marinating"
+instructions: ["Grate 1 tablespoon zest from 1 lemon over large bowl. Halve both lemons and set aside. Add oil, garlic, coriander, cumin, 1 1/2 teaspoons salt, 1/2 teaspoon pepper, nutmeg, and cinnamon to bowl with lemon zest and whisk together. Set aside 2 tablespoons marinade. Add pork to remaining marinade in bowl and refrigerate for at least 30 minutes or up to 24 hours.","Remove pork from marinade and thread onto four 12-inch metal skewers so pieces are touching; discard any remaining used marinade. Thread tomatoes onto three 12-inch metal skewers.","Combine butter, honey, and reserved marinade in small saucepan and cook over medium heat, whisking constantly, until butter is melted and mixture is fragrant, about 1 minute. Divide honey mixture evenly between 2 bowls. (Use 1 bowl for grilling pork in step 5 and second bowl for sauce in step 6)","FOR A CHARCOAL GRILL: Open bottom vent completely. Light large chimney starter filled with charcoal briquettes (6 quarts). When top coals are partially covered with ash, pour evenly over grill. Set cooking grate in place, cover, and open lid vent completely. Heat grill until hot, about 5 minutes.","FOR A GAS GRILL: Turn all burners to high, cover, and heat grill until hot, about 15 minutes. Turn all burners to medium.","Clean and oil cooking grate. Place scallions, pork, tomatoes, and reserved lemon halves, cut side down, on grill. Grill pork (covered if using gas), turning every 2 minutes and basting with honey mixture reserved for grilling, until meat registers 140 degrees, 12 to 15 minutes. Grill scallions, tomatoes, and lemon halves until charred, turning scallions and tomatoes as needed to brown evenly, 5 to 10 minutes. Transfer items to platter as they finish grilling.","Tent pork loosely with aluminum foil and let rest while preparing tomato relish. Slide tomatoes from skewers into large bowl. Chop scallions and add to tomatoes along with honey mixture reserved for sauce; squeeze lemon halves into tomato mixture. Using potato masher, coarsely mash tomato mixture. Add any accumulated pork juices. Season with salt and pepper to taste. Serve tomato relish with pork."]
+nutrition: ["733 mg Potassium","328 mg Phosphorus","79 mg Calcium","2 mg Iron","50 mg Magnesium","624 mg Sodium","4 mg Zinc","31 g Fat","5 mg Niacin (B3)","12 g Monounsaturated","3 g Polyunsaturated","21 mg Vitamin C","1 µg Vitamin D","122 mg Cholesterol","6 g Saturated","2 g Fiber","20 µg Folate (food)","8 g Sugars","37 µg Vitamin K","191 g Water","13 g Carbs","20 µg Folate equivalent (total)","30 g Protein","2 mg Vitamin E","1 µg Vitamin B12","67 µg Vitamin A","456 kcal Energy","5 g Sugars, added","2738 calories"]
+notes: "You will need seven 12-inch metal skewers for this recipe.&nbsp;"
+---

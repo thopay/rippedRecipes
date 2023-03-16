@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Filets Mignons and Asparagus with Blue Cheese and Shallot for Two
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Filet mignon is already elegant. A few choice accompaniments take it even further into special-occasion territory."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_FiletsMignonsAsparagusBlueCheeseShallotsForTwo-28_bgx1f0
+tags: ["Main Courses","Vegetables","Cheese","Beef"]
+calories: 1968
+protein: 47
+carbohydrates: 8
+fats: 82
+fiber: 5
+ingredients: ["2 (6- to 8-ounce), center-cut filets mignons, 2 inches thick, trimmed","1½ teaspoons, kosher salt, divided","¾ teaspoon plus pinch, pepper, divided","1 , shallot, sliced thin lengthwise","⅓ cup, vegetable oil","1 tablespoon, white wine vinegar","1 teaspoon, Dijon mustard","1 ounce, blue cheese, crumbled (¼ cup)","1 tablespoon, unsalted butter","1 pound, asparagus, trimmed","2 teaspoons, minced fresh parsley"]
+serves: 2
+time: "1¼ hours"
+instructions: ["Adjust oven rack to middle position and heat oven to 275 degrees. Pat steaks dry with paper towels and sprinkle evenly with 1 teaspoon salt and ½ teaspoon pepper. Place steaks in 12-inch ovensafe nonstick skillet and roast until steaks register 115 degrees (for medium-rare), about 25 minutes, or 125 degrees (for medium), 30 to 35 minutes.","Meanwhile, combine shallot and oil in liquid measuring cup. Microwave for 3 minutes, stir, and then microwave 1 minute longer. Repeat stirring and microwaving in 1-minute increments until shallot begins to brown, about 3 minutes longer. Using fork, transfer shallot to paper towel–lined plate and season with salt to taste; reserve 3 tablespoons oil. Let shallot sit until well drained and crisp, about 5 minutes; set aside.","Whisk vinegar, mustard, ¼ teaspoon salt, and pinch pepper together in bowl. Whisk in 2 tablespoons reserved oil until smooth. Stir in blue cheese until mostly smooth; set aside.","Remove steaks from skillet. Heat remaining 1 tablespoon reserved oil in now-empty skillet over medium-high heat until just smoking. Place steaks in center of skillet and cook until well browned on both sides, 1 to 2 minutes per side. Transfer steaks to plate, tent with aluminum foil, and let rest for 10 minutes.","Meanwhile, melt butter in now-empty skillet over medium heat. Add asparagus to skillet; cover; and cook until asparagus is bright green and just tender, 3 to 5 minutes. Uncover and sprinkle with remaining ¼ teaspoon salt and remaining ¼ teaspoon pepper. Increase heat to medium-high and continue to cook, turning spears, until asparagus is tender and well browned, 3 to 7 minutes.","Dollop blue cheese mixture onto steaks and sprinkle with fried shallot and parsley. Serve steaks with asparagus."]
+nutrition: ["1198 mg Potassium, K","547 mg Phosphorus, P","208 mg Calcium, Ca","8 mg Iron, Fe","82 mg Magnesium, Mg","1229 mg Sodium, Na","8 mg Zinc, Zn","82 g Total lipid (fat)","14 mg Niacin","44 g Fatty acids, total monounsaturated","8 g Fatty acids, total polyunsaturated","17 mg Vitamin C, total ascorbic acid","191 mg Cholesterol","23 g Fatty acids, total saturated","5 g Fiber, total dietary","157 µg Folate, food","6 g Sugars, total","119 µg Vitamin K (phylloquinone)","373 g Water","14 g Carbohydrate, by difference","157 µg Folate, DFE","47 g Protein","11 mg Vitamin E (alpha-tocopherol)","2 µg Vitamin B-12","1 mg Vitamin B-6","173 µg Vitamin A, RAE","8 g Carbohydrates (net)","984 kcal Energy","1968 calories"]
+notes: "Thick asparagus spears (about ½ inch thick at the base) work best in this recipe; do not use pencil-thin spears because they will quickly overcook. You will need a 12-inch ovensafe nonstick skillet for this recipe."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Turkey In A Bag
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Chefs struggle endlessly to achieve the perfect roast turkey. Was the answer in the bag?"
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/8858_sfs-brownbagturkey-38-275827
+tags: ["Main Courses","American","Turkey","Roasts","Thanksgiving"]
+calories: 6761
+protein: 78
+carbohydrates: 8
+fats: 
+fiber: 1
+ingredients: ["1/2 cup, soy sauce","2 tablespoons, unsalted butter, softened","7 tablespoons, all-purpose flour",", Salt and pepper","1 (12- to 14-pound), turkey (see note), fully thawed if frozen","3 cups, low-sodium chicken broth","2 cups, water","3 , carrots, peeled and cut into 2-inch pieces","1 , onion, peeled and quartered","1 , celery rib, cut into 2-inch pieces"]
+serves: 12
+time: "4½ to 5 hours"
+instructions: ["MAKE SOY PASTE Adjust oven rack to lowest position and heat oven to 350 degrees. Bring soy sauce to boil over medium-high heat in small saucepan. Reduce heat to medium-low and simmer until thick and reduced to 2 tablespoons, 5 to 7 minutes. Off heat, whisk in butter, 1 tablespoon flour, and 1 teaspoon pepper; set aside.","PREPARE TURKEY Remove neck and giblets from cavity; discard liver. Add broth, water, carrots, onion, celery, neck, and giblets to large roasting pan. Set V-rack inside pan. Lightly spray inside of oven bag with cooking spray. Fold cheesecloth into 10 by 7-inch rectangle. Pat turkey dry with paper towels. Tuck legs into pocket of skin at tail end (alternatively, tie legs with kitchen twine) and tuck wings under bird. Following photos 1 to 3 (at left), transfer turkey to prepared oven bag and rub soy paste evenly all over outside of turkey. Top breast with cheesecloth and cover with heavy-duty aluminum foil. Tie oven bag closed, trim end to 1 inch, and cut four ½-inch slits in top of bag. Arrange bagged turkey, breast side up, in V-rack.","COOK TURKEY Roast turkey until breast meat registers 155 degrees, 2½ to 3 hours. Remove pan from oven and increase oven temperature to 475 degrees. Cut open oven bag. Discard cheesecloth, foil, and bag, letting juices fall into pan. Return turkey to oven and roast until breast meat registers 160 degrees and thigh meat registers 175 degrees, 35 to 45 minutes. Transfer to carving board and let rest, uncovered, for 30 minutes.","MAKE GRAVY Meanwhile, strain contents of roasting pan through fine-mesh strainer into fat separator; discard vegetables, neck, and giblets. Let liquid settle and reserve 4 cups defatted pan juices. Transfer ¼ cup fat from separator to large saucepan and heat over medium heat until shimmering. Stir in remaining flour and cook, stirring constantly, until golden, about 4 minutes. Slowly whisk in pan juices and bring to boil. Reduce heat to medium-low and simmer until gravy is slightly thickened, about 5 minutes. Season with salt and pepper. Carve turkey and serve with gravy."]
+nutrition: ["982 mg Potassium","691 mg Phosphorus","64 mg Calcium","3 mg Iron","103 mg Magnesium","1486 mg Sodium","6 mg Zinc","22 g Fat","28 mg Niacin (B3)","7 g Monounsaturated","5 g Polyunsaturated","1 mg Vitamin C","1 µg Vitamin D","256 mg Cholesterol","6 g Saturated","1 g Fiber","7 µg Folic acid","33 µg Folate (food)","1 g Sugars","6 µg Vitamin K","385 g Water","8 g Carbs","45 µg Folate equivalent (total)","78 g Protein","4 µg Vitamin B12","2 mg Vitamin B6","204 µg Vitamin A","563 kcal Energy","6761 calories"]
+notes: "We recommend a “self-basting” turkey (such as a frozen Butterball) or a kosher turkey. You will need a turkey-size oven bag and one 2-yard package of cheesecloth. Don’t let the oven bag touch the oven wall or it will melt. If you end up with less than 4 cups of defatted pan juices, supplement them with additional low-sodium chicken broth."
+---

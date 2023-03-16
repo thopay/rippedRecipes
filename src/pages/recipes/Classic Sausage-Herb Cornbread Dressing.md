@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Classic Sausage-Herb Cornbread Dressing
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Meet your new favorite Thanksgiving side dish."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Classic-Sausage-Herb-Cornbread-Dressing-7_yd10es
+tags: ["Side Dishes","Pork","Make Ahead","Breads","Thanksgiving"]
+calories: 4508
+protein: 16
+carbohydrates: 40
+fats: 
+fiber: 2
+ingredients: ["1 1/2 cups (7½ ounces), all-purpose flour","1 1/2 cups (7½ ounces), cornmeal","3 tablespoons, sugar","1 tablespoon, baking powder","1 teaspoon, table salt","1 3/4 cups, whole milk","3 , large eggs","6 tablespoons, unsalted butter, melted","2 tablespoons, unsalted butter, plus 4 tablespoons unsalted butter, melted","1 pound, sweet Italian sausage, casings removed","2 , onions, chopped","2 , green bell peppers, stemmed, seeded, and chopped","2 , celery ribs, chopped","1 tablespoon, poultry seasoning","2 , garlic cloves, minced","1 teaspoon, table salt","1 teaspoon, cayenne pepper","3 cups, chicken broth","1 cup, whole milk","3 , large eggs, lightly beaten","3/4 cup, chopped fresh parsley","1/2 teaspoon, pepper"]
+serves: 12
+time: "2 hours"
+instructions: ["FOR THE CORNBREAD: Adjust oven rack to middle position and heat oven to 425 degrees. Spray 13 by 9-inch baking dish with vegetable oil spray.","Whisk flour, cornmeal, sugar, baking powder, and salt together in a large bowl. Whisk milk, eggs, and melted butter together in second bowl. Whisk milk mixture into flour mixture until just combined. Transfer batter toprepared dish. Bake until cornbread is golden brown and toothpick inserted in center comes out clean, about 20 minutes.","FOR THE DRESSING: While cornbread bakes, melt 2 tablespoons butter in 12-inch nonstick skillet over medium-high heat. Add sausage, onions, bell peppers, and celery to skillet and cook until vegetables are softened, about 8 minutes. Add poultry seasoning, garlic, salt, and cayenne and cook until fragrant, about 1 minute. Transfer sausage mixture to large bowl.","Turn out hot cornbread onto rimmed baking sheet and break into small pieces with two forks. (Cooled, crumbled cornbread can be transferred to zipper-lock bag and store at room temperature for up to 24 hours.)","Transfer crumbled cornbread to bowl with sausage mixture. Add broth, milk, eggs, parsley and pepper and stir to combine. Transfer dressing to now-empty baking dish and spread into even layer (do not pack down). Using side of rubber spatula or wooden spoon, create ridges about ½ inch apart on top of dressing.","Brush top of dressing with remaining 4 tablespoons melted butter. Bake (with the oven still at 425 degrees) until browned and crisped on top and heated through, about 35 minutes. Let cool for 10 minutes and serve.","TO MAKE AHEAD: At end of step 5, let dressing cool completely (if using hot cornbread). Cover baking dish with plastic wrap and refrigerate for up to 24 hours or wrap in additional layer of aluminum foil and freeze for up to 1 month. To serve, thaw overnight in refrigerator if frozen. Proceed with step 6, extending baking time by 15 minutes and covering with foil for final 10 minutes of cooking if top begins to get too dark."]
+nutrition: ["402 mg Potassium","320 mg Phosphorus","198 mg Calcium","3 mg Iron","33 mg Magnesium","650 mg Sodium","1 mg Zinc","16 g Fat","3 mg Niacin (B3)","5 g Monounsaturated","1 g Polyunsaturated","22 mg Vitamin C","1 µg Vitamin D","132 mg Cholesterol","8 g Saturated","2 g Fiber","59 µg Folic acid","44 µg Folate (food)","8 g Sugars","69 µg Vitamin K","203 g Water","40 g Carbs","144 µg Folate equivalent (total)","16 g Protein","157 µg Vitamin A","375 kcal Energy","3 g Sugars, added","4508 calories"]
+notes: "We developed this recipe using Quaker Yellow Cornmeal."
+---

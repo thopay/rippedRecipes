@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Herb-Stuffed Pork Loin
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "To transform dry, disappointing pork loin into a flavorful centerpiece, you have to go deep."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/23732_sfs-stuffed-pork-loin-16
+tags: ["Main Courses","Pork"]
+calories: 
+protein: 
+carbohydrates: 
+fats: 
+fiber: 
+ingredients: ["3 pound, boneless center-cut pork loin roast","1 tablespoon, packed brown sugar","1 tablespoon, kosher salt","6 tablespoons, extra-virgin olive oil","8 , garlic cloves (3 sliced thin, 5 unpeeled)","2 ounces, Parmesan cheese, grated (1 cup)","3/4 cup, minced fresh parsley","1/2 cup, chopped fresh basil","1/4 cup, capers, minced","3 , anchovy fillets, rinsed and minced","1 teaspoon grated, lemon zest","2 teaspoons, lemon juice","1/2 teaspoon, black pepper","1 , shallot, peeled and halved","2 sprigs, fresh rosemary","1 1/2 tablespoons, all-purpose flour","1/4 cup, dry white wine","2 cups, chicken broth","1/4 cup, heavy cream"]
+serves: 8
+time: "2 hours, plus 1 hour salting and 30 minutes resting"
+instructions: ["Position roast fat side up on cutting board. Insert knife two-thirds of way up from bottom of roast along 1 long side and cut horizontally, stopping 1/2 inch before edge to create flap. Open up flap. At hinge, cut down into thicker portion of roast, stopping 1/2 inch from bottom. Pivot knife parallel to cutting board and cut horizontally in opposite direction, stopping 1/2 inch before edge, to create second flap. Open up this flap and lay meat flat. If meat is of uneven thickness, cover roast with plastic wrap and pound to even thickness with meat pounder.","Combine sugar and 1 tablespoon salt in bowl. Sprinkle roast all over with sugar-salt mixture. Transfer roast to gallon-size zipper-lock bag, seal, and refrigerate for at least 1 hour or up to 24 hours.","Adjust oven rack to middle position and heat oven to 275 degrees. Heat 1/4 cup oil and sliced garlic cloves in ovensafe 12-inch nonstick skillet over medium-high heat until garlic begins to brown slightly, about 3 minutes. Transfer garlic and oil to bowl and let cool for 5 minutes. Stir Parmesan, parsley, basil, capers, anchovies, lemon zest, and 1/2 teaspoon pepper into garlic oil.","Place roast on cutting board, cut side up. Spread herb mixture evenly over surface of roast, leaving 1/2-inch border on all sides. Starting from short side farthest from exterior fat cap, roll tightly, then tie with kitchen twine at 1-inch intervals. Season roast with pepper.","Heat remaining 2 tablespoons oil in now-empty skillet over medium-high heat until just smoking. Brown roast on all sides, about 10 minutes. Flip roast seam side down in skillet. Add shallot, rosemary sprigs, and unpeeled garlic cloves to skillet and transfer to oven. Cook until thickest part of roast registers 135 degrees, 65 to 70 minutes. Transfer roast to carving board, tent loosely with aluminum foil, and let rest for 30 minutes. Do not clean skillet.","Meanwhile, use spoon to smash garlic in skillet (skillet handle will be hot). Place skillet over medium-high heat and cook until shallot and garlic are sizzling. Stir in flour and cook, stirring, for 1 minute. Add wine and cook until nearly evaporated, about 2 minutes. Add broth and cream and bring to boil. Reduce heat to medium-low and simmer until sauce is reduced to about 1 cup and thickened, 10 to 12 minutes. Strain through fine-mesh strainer set over small saucepan; discard solids. Stir in lemon juice. Season with salt and pepper to taste. Cover and keep warm.","Discard twine and slice roast 1/2 inch thick. Serve, passing sauce separately."]
+nutrition: undefined
+notes: "Plan ahead: The roast must be seasoned at least 1 hour or up to 24 hours in advance. You will need an ovensafe nonstick skillet for this recipe."
+---

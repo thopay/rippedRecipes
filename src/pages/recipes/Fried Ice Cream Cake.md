@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Fried Ice Cream Cake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Inspired by a beloved midcentury dessert, this cake combines chocolate, cinnamon, and fun."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_GAC_Fried-Ice-Cream-Cake-154_pfdbdr
+tags: ["Desserts or Baked Goods","Cakes"]
+calories: 6790
+protein: 6
+carbohydrates: 65
+fats: 
+fiber: 2
+ingredients: ["8 tablespoons, unsalted butter, cut into 8 pieces","3 ounces, unsweetened chocolate, chopped","1 cup (7 ounces), sugar","2 , large eggs","1 teaspoon, vanilla extract","1/2 teaspoon, baking powder","1/4 teaspoon, table salt","2/3 cup (3⅓ ounces), all-purpose flour","3 pints, vanilla ice cream, softened","1 1/3 cups, Heath Toffee Bits","1 teaspoon, ground cinnamon","1 cup (2 ounces), Cinnamon Toast Crunch cereal","1 tablespoon, unsalted butter","1/2 cup, heavy cream","1/2 cup, chocolate syrup","1 , maraschino cherry"]
+serves: 12
+time: "1¾ hours, plus 2½ hours cooling and 4 hours freezing"
+instructions: ["For the brownie: Adjust oven rack to middle position and heat oven to 350 degrees. Grease 8-inch round cake pan, line with parchment paper, grease parchment, and flour pan.","Microwave butter and chocolate in bowl at 50 percent power, stirring occasionally, until melted, 2 to 4 minutes. Let cool for 5 minutes.","Whisk sugar, eggs, vanilla, baking powder, and salt together in medium bowl. Whisk in chocolate mixture until smooth. Stir in flour until no streaks remain. Transfer batter to prepared pan and smooth top with rubber spatula. Bake until toothpick inserted halfway between edge and center of brownie comes out clean, 22 to 27 minutes, rotating pan halfway through baking.","Let brownie cool in pan on wire rack for 1 hour. Use paring knife to loosen brownie from sides of pan, then invert onto wire rack; discard parchment. Reinvert brownie and let cool completely on wire rack, about 1½ hours.","For the cake: Grease 9-inch springform pan, line bottom with parchment, and grease parchment. Place brownie in center of prepared pan. Stir ice cream, toffee bits, and cinnamon in large bowl until combined. Pour ice cream mixture into pan and smooth top with offset spatula Cover with plastic wrap and freeze until very firm, at least 4 hours.","Process cereal in food processor until finely ground, about 15 seconds. Melt butter in 10-inch skillet over medium heat and cook, swirling skillet and stirring constantly with rubber spatula, until butter is golden brown and has nutty aroma, 2 to 3 minutes. Add cereal and cook, stirring often, until light golden, about 1 minute. Transfer cereal to plate and let cool completely.","Using stand mixer fitted with whisk attachment, whip cream on medium-low speed until foamy, about 1 minute. Increase speed to high and whip until stiff peaks form, about 1 minute.","Remove side and bottom of pan. Transfer cake to platter or pedestal, discarding parchment. Smooth sides of cake with offset spatula. Press cereal onto sides of cake. Pour chocolate syrup in center of cake and spread evenly over top with offset spatula, leaving ½-inch border. Fill pastry bag fitted with closed star tip with whipped cream. Pipe swirl around edge of cake to fill in border. Place cherry in center of cake. Serve."]
+nutrition: ["269 mg Potassium","182 mg Phosphorus","152 mg Calcium","3 mg Iron","47 mg Magnesium","198 mg Sodium","2 mg Zinc","31 g Fat","1 mg Niacin (B3)","8 g Monounsaturated","1 g Polyunsaturated","1 mg Vitamin C","117 mg Cholesterol","19 g Saturated","2 g Fiber","28 µg Folic acid","13 µg Folate (food)","51 g Sugars","3 µg Vitamin K","59 g Water","65 g Carbs","62 µg Folate equivalent (total)","6 g Protein","312 µg Vitamin A","565 kcal Energy","43 g Sugars, added","6790 calories"]
+notes: "A springform pan is essential for easy removal of the cake."
+---

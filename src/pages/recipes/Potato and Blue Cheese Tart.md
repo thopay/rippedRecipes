@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Potato and Blue Cheese Tart
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Tarts arent just for dessert. This beautiful, savory side dish proves the point."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_PotatoBlueCheeseTart_032_fzkprk
+tags: ["Main Courses","Cheese","Potatoes","Vegetarian","Savory Pies & Tarts","Thanksgiving","Cookbook Collection"]
+calories: 3408
+protein: 11
+carbohydrates: 32
+fats: 
+fiber: 1
+ingredients: ["1 1/2 cups (7½ ounces), all-purpose flour","1 teaspoon, table salt, divided","10 tablespoons, unsalted butter, cut into ½-inch pieces and chilled","6-7 tablespoons, ice water","4 ounces, cream cheese","2 ounces, blue cheese, crumbled (½ cup), divided","1 ounce, Parmesan cheese, grated (½ cup), divided","2 tablespoons, extra-virgin olive oil","2 teaspoons, Dijon mustard","1 1/2 teaspoons, minced fresh rosemary, divided","1/4 teaspoon, pepper","1 , large egg, separated","1 pound, russet potatoes, peeled and sliced ⅛-inch thick","1 , shallot, sliced thin"]
+serves: 8
+time: "2¾ hours, plus 30 minutes cooling"
+instructions: ["Process flour and ½ teaspoon salt in food processor until combined, about 3 seconds. Scatter butter over top and pulse until mixture resembles coarse crumbs, about 10 pulses. Add 6 tablespoons ice water and process until almost no dry flour remains, about 10 seconds, scraping down sides of bowl after 5 seconds. Add up to 1 additional tablespoon ice water if dough doesn't come together.","Turn out dough onto lightly floured counter, form into 4-inch square, wrap tightly in plastic wrap, and refrigerate for 1 hour. (Wrapped dough can be refrigerated for up to 2 days or frozen for up to 1 month.)","Adjust oven rack to lower-middle position and heat oven to 375 degrees. Line rimmed baking sheet with parchment paper. Let chilled dough sit on counter to soften slightly before rolling, about 10 minutes. Roll dough into 14 to 11-inch rectangle on lightly floured counter, then transfer to prepared sheet.","Microwave cream cheese in large bowl until softened, 20 to 30 seconds. Whisk in ¼ cup blue cheese, ¼ cup Parmesan, oil, mustard, 1 teaspoon rosemary, pepper, and remaining ½ teaspoon salt until combined, about 20 seconds. Whisk in egg yolk. Add potatoes and shallot to cream cheese mixture and stir to thoroughly coat potatoes.","Transfer filling to center of dough. Press filling into even layer, keeping 2-inch border on all sides. Sprinkle remaining ¼ cup blue cheese, 2 tablespoons Parmesan, and remaining ½ teaspoon rosemary over filling.","Grasp 1 long side of dough and fold about 1½ inches over filling. Repeat with opposing long side. Fold in short sides of dough, overlapping corners of dough to secure. Lightly beat egg white and brush over folded crust (you won't need it all). Sprinkle remaining 2 tablespoons Parmesan over crust.","Bake until crust and filling are golden brown and potatoes meet little resistance when poked with fork, about 45 minutes. Transfer sheet to wire rack and let tart cool for 10 minutes. Using metal spatula, loosen tart from parchment and carefully slide onto wire rack; let cool until just warm, about 20 minutes. Cut into slices and serve warm."]
+nutrition: ["343 mg Potassium","192 mg Phosphorus","191 mg Calcium","2 mg Iron","29 mg Magnesium","371 mg Sodium","1 mg Zinc","28 g Fat","2 mg Niacin (B3)","9 g Monounsaturated","1 g Polyunsaturated","3 mg Vitamin C","89 mg Cholesterol","15 g Saturated","1 g Fiber","40 µg Folic acid","25 µg Folate (food)","1 g Sugars","5 µg Vitamin K","85 g Water","32 g Carbs","95 µg Folate equivalent (total)","11 g Protein","1 mg Vitamin E","219 µg Vitamin A","426 kcal Energy","3408 calories"]
+notes: "A mandoline makes quick work of evenly slicing the potatoes. We use russet potatoes for their starchiness here, but you can substitute Yukon Gold potatoes, if desired."
+---

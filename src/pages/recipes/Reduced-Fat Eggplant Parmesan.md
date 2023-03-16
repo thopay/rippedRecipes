@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Reduced-Fat Eggplant Parmesan
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Most eggplant Parmesans are made with so much cheese and crunchy coating that you could swap ­cardboard for the eggplant and hardly notice. We set out to make a lighter version."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/10563_sfs-eggplantparm-3
+tags: ["Main Courses","Cheese","Vegetables","Light"]
+calories: 3730
+protein: 34
+carbohydrates: 35
+fats: 
+fiber: 10
+ingredients: [", Vegetable oil spray","1 cup, panko bread crumbs","2 tablespoons, extra-virgin olive oil","2 ounces, Parmesan cheese, grated (1 cup)","2 , large egg whites","1 tablespoon, water","3 pounds, eggplant, sliced into 1/2-inch-thick rounds",", Salt and pepper","1/4 cup, finely chopped onion","2 , garlic cloves, minced","1 (28-ounce) can, crushed tomatoes","1/4 teaspoon, sugar","1 tablespoon, chopped fresh basil","8 ounces part-skim, mozzarella cheese, shredded (2 cups)"]
+serves: 6
+time: "1½ hours"
+instructions: ["Adjust oven racks to upper-middle and lower-middle positions and heat oven to 475 degrees. Line 2 rimmed baking sheets with aluminum foil and spray with vegetable oil spray. Combine panko and 1 tablespoon oil in medium saucepan and cook over medium heat, stirring often, until golden, 7 to 10 minutes. Transfer to shallow dish and let cool for 10 minutes. Combine ½ cup ­Parmesan with cooled panko. In second shallow dish, whisk egg whites and water together until combined.","Season eggplant all over with ½ teaspoon salt and ½ teaspoon pepper. Place half of eggplant slices in single layer on first prepared sheet and set aside. Dip 1 side of each remaining slice of eggplant into egg white mixture, then dredge same side in panko mixture (only 1 side of eggplant should be coated). Transfer, panko side up, to second prepared sheet in single layer. Spray all eggplant slices lightly with vegetable oil spray. Transfer breaded eggplant to upper-middle oven rack and unbreaded eggplant to lower-middle oven rack. Bake until eggplant is tender and breaded tops are crisp, about 25 minutes, rotating and switching sheets halfway through baking.","Meanwhile, heat remaining 1 tablespoon oil in medium saucepan over medium-low heat until shimmering. Add onion and ½ teaspoon salt and cook, stirring occasionally, until golden brown, 3 to 5 minutes. Add garlic and cook until fragrant, about 30 seconds. Stir in tomatoes and sugar, increase heat to high, and bring to boil. Reduce heat to medium-low and simmer until thickened slightly, about 10 minutes. Off heat, stir in remaining ½ cup Parmesan and basil. Season with salt and pepper to taste.","Spread 1½ cups tomato sauce in bottom of 13 by 9-inch baking dish. Place unbreaded eggplant slices on top of sauce, overlapping as needed to fit all slices. Spread ¾ cup sauce over eggplant and sprinkle with 1 cup mozzarella. Layer breaded eggplant over top, panko side up, overlapping as needed to fit all slices. Dollop remaining ¾ cup tomato sauce over top, leaving majority of eggplant exposed so it remains crisp. Sprinkle with remaining 1 cup mozzarella. Bake on upper-middle oven rack until bubbling and mozzarella is beginning to brown, 10 to 15 minutes. Let cool for 5 minutes. Serve."]
+nutrition: ["1047 mg Potassium","633 mg Phosphorus","887 mg Calcium","2 mg Iron","92 mg Magnesium","1240 mg Sodium","3 mg Zinc","40 g Fat","3 mg Niacin (B3)","16 g Monounsaturated","2 g Polyunsaturated","18 mg Vitamin C","93 mg Cholesterol","18 g Saturated","10 g Fiber","78 µg Folate (food)","15 g Sugars","24 µg Vitamin K","396 g Water","35 g Carbs","78 µg Folate equivalent (total)","34 g Protein","4 mg Vitamin E","240 µg Vitamin A","621 kcal Energy","3730 calories"]
+notes: "Measure the eggplant slices when slicing. Breading just half of the eggplant slices, and on just one side, saves on calories. We recommend two brands of crushed tomatoes: Muir Glen Organic Crushed Tomatoes with Basil and Tuttorosso Crushed ­Tomatoes in Thick Puree with Basil."
+---

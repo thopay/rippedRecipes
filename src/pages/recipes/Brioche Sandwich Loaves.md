@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Brioche Sandwich Loaves
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "One simple dough, and a process thats just as easy."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Brioche-Loaves_002_prucyz
+tags: ["Desserts or Baked Goods","Breads"]
+calories: 3828
+protein: 6
+carbohydrates: 33
+fats: 
+fiber: 1
+ingredients: ["3 2/3 cups (20⅛ ounces), bread flour","1 tablespoon, instant or rapid-rise yeast","1 1/4 cups (10 ounces), water, room temperature","2 , large eggs, plus 1 large egg, lightly beaten","1/4 cup (1¾ ounces), sugar","2 1/2 teaspoons, table salt","13 tablespoons, unsalted butter, cut into 13 pieces and softened"]
+serves: 14
+time: "1½ hours, plus 2 hours rising and 1¼ hours cooling"
+instructions: ["Whisk flour and yeast together in bowl of stand mixer. Add room-temperature water and 2 eggs. Fit mixer with dough hook and mix on low speed until dough comes together and no dry flour remains, about 2 minutes, scraping down bowl and dough hook frequently. Turn off mixer, cover bowl with dish towel or plastic wrap, and let dough stand for 15 minutes.","Add sugar and salt to dough and knead on medium-low speed until incorporated, about 30 seconds. Increase speed to medium and, with mixer running, add butter 1 piece at a time, allowing each piece to incorporate before adding next, about 3 minutes total, scraping down bowl and dough hook as needed. Continue to knead on medium speed until dough is elastic and pulls away cleanly from sides of bowl, about 10 minutes longer. Transfer dough to greased large bowl. Cover tightly with plastic and let rise at room temperature until doubled in size, about 1 hour.","Grease two 8½ by 4½-inch loaf pans. Turn out dough onto counter and divide dough into 2 equal pieces. Press each piece of dough into 8 by 5-inch rectangle with long side parallel to counter edge. Working with 1 piece of dough at a time, fold top edge of rectangle down to midline, pressing to seal. Fold bottom edge of rectangle up to midline and pinch to seal. Flip dough seam side down and gently push on ends to shape into 7 by 3-inch rectangle.","Transfer loaves to prepared pans, seam side down, and pat gently to fill pans. Cover with plastic and let rise until doubled in size, about 1 hour. Adjust oven rack to middle position and heat oven to 350 degrees.","Discard plastic and brush tops of loaves with beaten egg (you do not need to use all of it). Bake until loaves are deep golden brown and register 205 to 210 degrees in center, about 32 minutes, switching and rotating pans halfway through baking. Let loaves cool in pans for 15 minutes. Remove loaves from pans and let cool completely on wire rack, about 1 hour. Serve. (Loaves can be stored in zipper-lock bags at room temperature for up to 2 days or frozen for up to 1 month.)","To make ahead: After covering pans with plastic wrap in step 4, refrigerate for up to 24 hours. Let loaves sit at room temperature for 2 hours before proceeding with recipe; increase baking time by 5 minutes."]
+nutrition: ["66 mg Potassium","69 mg Phosphorus","16 mg Calcium","2 mg Iron","12 mg Magnesium","207 mg Sodium","12 g Fat","3 mg Niacin (B3)","3 g Monounsaturated","68 mg Cholesterol","7 g Saturated","1 g Fiber","61 µg Folic acid","38 µg Folate (food)","3 g Sugars","1 µg Vitamin K","36 g Water","33 g Carbs","142 µg Folate equivalent (total)","6 g Protein","107 µg Vitamin A","273 kcal Energy","3 g Sugars, added","3828 calories"]
+notes: "All-purpose flour can be substituted for the bread flour, but the loaves wont be as tall; use the same amount of all-purpose flour by weight, not by volume. When kneading the dough on medium speed, the mixer may wobble on the counter. Watch it closely and place a dish towel or shelf liner underneath it to keep it in place. The test kitchens preferred loaf pan measures 8½ by 4½ inches; if you use a 9 by 5-inch loaf pan, start checking for doneness 5 minutes earlier than advised in the recipe."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Matzo Ball Soup
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Tender dumplings and savory broth make a happy pair. Just don’t introduce them too soon."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/23746_sfs-matzo-ball-soup-12
+tags: ["Main Courses","Soups","Passover"]
+calories: 3816
+protein: 34
+carbohydrates: 40
+fats: 
+fiber: 4
+ingredients: ["1/4 cup, chicken fat (schmaltz) or vegetable oil","1 , onion, chopped fine","4 , large eggs","1 teaspoon, minced fresh dill",", Salt and pepper","1 cup (4 ounces), matzo meal","1 tablespoon, chicken fat (schmaltz) or vegetable oil","1 , onion, chopped","2 , carrots, peeled and cut into 1/2-inch chunks","2 , celery ribs, chopped","1 , parsnip, peeled and cut into 1/2-inch chunks",", Salt and pepper","8 cups, chicken broth","1 1/2 pounds, chicken leg quarters, trimmed","1 teaspoon, minced fresh dill"]
+serves: 6
+time: "2½ hours, plus 1 hour chilling"
+instructions: ["FOR THE MATZO BALLS: Heat chicken fat in Dutch oven over medium heat until shimmering. Add onion and cook until light golden brown and softened, about 5 minutes. Transfer onion to large bowl and let cool for 10 minutes. (Do not clean pot.)","Whisk eggs, 5 tablespoons water, dill, 3/4 teaspoon salt, and 1/2 teaspoon pepper into cooled onion mixture. Fold in matzo meal until well combined. Cover with plastic wrap and refrigerate for at least 1 hour or up to 2 hours. (Batter will thicken as it sits.)","Bring 4 quarts water and 2 tablespoons salt to boil in now-empty Dutch oven. Divide batter into 12 portions (about 1 heaping tablespoon each) and place on greased plate. Roll portions into smooth balls between your wet hands and return to plate. Transfer matzo balls to boiling water, cover, reduce heat to medium-low and simmer until tender and cooked through, about 30 minutes.","Using slotted spoon, transfer matzo balls to colander and drain briefly. Transfer balls to clean plate and let cool to firm up, about 10 minutes. Discard cooking water. (Do not clean pot.)","FOR THE SOUP: Meanwhile, heat chicken fat in large saucepan over medium heat until shimmering. Add onion, carrots, celery, parsnip, and 1/2 teaspoon salt and cook, covered, until vegetables begin to soften, about 5 minutes. Add broth, chicken, and dill and bring to boil. Cover, reduce heat to low, and cook until chicken is tender, 35 to 45 minutes. Remove from heat and transfer chicken to plate. (Chicken can be used for soup or reserved for another use. If adding to soup, shred with 2 forks into bite-size pieces; discard skin and bones.) Season soup with salt and pepper to taste.","Transfer soup to now-empty Dutch oven and bring to simmer over medium heat. Carefully transfer matzo balls to hot soup (along with shredded chicken, if using). Cover and cook until matzo balls are heated through, about 5 minutes. Serve.","TO MAKE AHEAD: Soup and matzo balls can be fully cooked, cooled, and refrigerated separately in covered containers for up to 2 days. To serve, return soup to simmer over medium heat, add matzo balls, and cook until heated through, about 7 minutes."]
+nutrition: ["925 mg Potassium","388 mg Phosphorus","86 mg Calcium","3 mg Iron","63 mg Magnesium","1391 mg Sodium","2 mg Zinc","37 g Fat","11 mg Niacin (B3)","19 g Monounsaturated","7 g Polyunsaturated","9 mg Vitamin C","239 mg Cholesterol","7 g Saturated","4 g Fiber","71 µg Folate (food)","9 g Sugars","20 µg Vitamin K","483 g Water","40 g Carbs","71 µg Folate equivalent (total)","34 g Protein","3 mg Vitamin E","262 µg Vitamin A","636 kcal Energy","3816 calories"]
+notes: "Chicken fat, or schmaltz, is available in the refrigerator or freezer section of most supermarkets. Note that the matzo batter needs to be refrigerated for at least 1 hour before shaping."
+---

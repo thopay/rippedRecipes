@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Instant Mashed Potato Gnocchi with Tomato-Basil Sauce
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "These tender, plump dumplings are easy to make and delightful to eat."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_InstantMashedPotatoGnocchiTomatoSauce_022_pdecwa
+tags: ["Main Courses","Italian","Pasta","Potatoes","Cheese","Vegetarian"]
+calories: 1059
+protein: 7
+carbohydrates: 38
+fats: 
+fiber: 3
+ingredients: ["2 cups (4 ounces) plain, instant mashed potato flakes","1 cups (5 ounces), all-purpose flour","2 teaspoons, table salt, plus salt for cooking gnocchi","1½ cups, water","1 , large egg","2 tablespoons, extra-virgin olive oil","2 , garlic cloves, minced","1 (15-ounce) can, tomato sauce","1 teaspoon, sugar","¼ teaspoon, pepper","¼ teaspoon, dried oregano","½ cup, fresh basil leaves, torn into ½-inch pieces",", Grated Parmesan cheese"]
+serves: 4
+time: "1½ hours"
+instructions: ["FOR THE GNOCCHI: Whisk potato flakes, flour, and salt together in large bowl. Whisk water and egg together in separate bowl. Add water mixture to potato flake mixture and stir with wooden spoon until fully combined and mixture forms dough ball. Let sit for 3 minutes for potato flakes and flour to hydrate.","Turn out dough onto lightly floured counter and knead until dough has texture of Play-Doh and springs back halfway when poked with your finger, about 3 minutes. Lightly dust dough with flour and let rest on counter for 5 minutes.","Divide dough into 6 equal pieces. On very lightly floured counter, roll 1 piece into ¾-inch-thick rope. Lightly dust rope with flour. Using floured bench scraper, cut rope crosswise into ¾-inch pieces; transfer gnocchi to lightly floured rimmed baking sheet. Repeat with remaining dough pieces.","Press gnocchi, cut side down, on tines of fork, then roll downward to create grooves. If dough sticks, dust your thumb and fork with flour. Return gnocchi to sheet.","FOR THE SAUCE: Combine oil and garlic in 12-inch skillet. Cook over medium heat until garlic is fragrant and just beginning to turn golden, about 2 minutes. Carefully stir in tomato sauce, sugar, pepper, and oregano. Bring to simmer, then remove from heat. Stir in basil. Cover to keep warm.","Bring 4 quarts water to boil in large pot over high heat. Add 1 tablespoon salt to boiling water. Add half of gnocchi, then stir gently to keep from sticking. Simmer until just cooked through and gnocchi float to top, about 1½ minutes. Using spider skimmer or slotted spoon, transfer gnocchi to skillet with sauce. Return water to boil and repeat with remaining gnocchi.","Place skillet over medium-high heat. Cook, stirring gently, until hot throughout and gnocchi are well coated with sauce, about 2 minutes. Season with salt to taste. Sprinkle with Parmesan and serve.","TO MAKE AHEAD: At end of step 4, gnocchi can be frozen on sheet. Once frozen, transfer to airtight container or zipper‑lock bag and keep frozen for up to 1 month. Cook from frozen and increase cooking time to 3 minutes."]
+nutrition: ["470 mg Potassium","112 mg Phosphorus","44 mg Calcium","3 mg Iron","33 mg Magnesium","660 mg Sodium","9 g Fat","3 mg Niacin (B3)","5 g Monounsaturated","1 g Polyunsaturated","8 mg Vitamin C","46 mg Cholesterol","1 g Saturated","3 g Fiber","54 µg Folic acid","30 µg Folate (food)","5 g Sugars","22 µg Vitamin K","225 g Water","38 g Carbs","123 µg Folate equivalent (total)","7 g Protein","2 mg Vitamin E","63 µg Vitamin A","264 kcal Energy","1 g Sugars, added","1059 calories"]
+notes: "For this recipe we used Idahoan Original Mashed Potatoes. Do not use flavored instant mashed potato flakes. It is important to knead the dough to the texture of Play-Doh in step 2, or it will be too tender and difficult to roll into ropes. In step 3, be sure to very lightly dust the counter with flour before rolling the dough into ropes to keep them from sticking. A good-quality jarred marinara, such as Raos, can be substituted for the canned tomato sauce."
+---

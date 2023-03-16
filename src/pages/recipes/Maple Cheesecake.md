@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Maple Cheesecake
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Dense and creamy and full of pure maple flavor, this cheesecake is just right for Thanksgiving."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_MapleCheesecake_0097_gsplcl
+tags: ["Desserts or Baked Goods","Make Ahead","Cakes","Thanksgiving"]
+calories: 6353
+protein: 7
+carbohydrates: 42
+fats: 
+fiber: 
+ingredients: ["4 whole, graham crackers, broken into pieces","1/4 cup, pecans","1/2 cup (2½ ounces), all-purpose flour","1/3 cup (2⅓ ounces), sugar","1/4 teaspoon, table salt","4 tablespoons, unsalted butter, melted","2 pounds, cream cheese, softened","1 1/4 cups, maple syrup","4 , large eggs","1/3 cup, granola","1/2 cup, maple syrup"]
+serves: 14
+time: "3½ hours, plus 8 hours cooling"
+instructions: ["FOR THE CRUST: Adjust oven rack to middle position and heat oven to 325 degrees. Grease bottom and side of 9-inch springform pan. Process cracker pieces and pecans in food processor until finely ground, about 30 seconds. Add flour, sugar, and salt and pulse to combine, about 2 pulses. Add melted butter and pulse until crumbs are evenly moistened, about 5 pulses.","Using your hands, press crumbs into even layer on prepared pan bottom. Using bottom of dry measuring cup, firmly pack crumbs into pan. Bake until crust smells toasty and is browned around edges, about 18 minutes. Reduce oven temperature to 225 degrees. Let crust cool completely.","FOR THE CHEESECAKE: In clean, dry processor bowl, process cream cheese and maple syrup until smooth, about 2 minutes, scraping down sides of bowl as needed. With processor running, add eggs, one at a time, until just incorporated, about 30 seconds total. Pour batter onto cooled crust.","Firmly tap pan on counter and set aside for 10 minutes to allow air bubbles to rise to top. Gently draw tines of fork across surface of batter to pop air bubbles that have risen to surface.","Once oven has reached 225 degrees, bake cheesecake on aluminum foil–lined rimmed baking sheet until edges are set and center jiggles slightly when shaken and registers 165 degrees ½ inch below surface, about 3 hours.","Transfer pan to wire rack and let cool completely, about 2 hours. Refrigerate cheesecake, uncovered, until cold, about 6 hours. (Once fully chilled, cheesecake can be covered with plastic wrap and refrigerated for up to 4 days.)","To unmold cheesecake, run tip of paring knife between cake and side of pan; remove side of pan. Slide thin metal spatula between crust and pan bottom to loosen, then slide cheesecake onto serving platter. Let cheesecake stand at room temperature for 30 minutes.","FOR THE TOPPING: Sprinkle granola around top edge of cheesecake. Drizzle maple syrup inside ring of granola. Spread with back of spoon, as needed, to fill area inside granola ring.","Warm knife under hot water, then wipe dry. Cut cheesecake into wedges and serve."]
+nutrition: ["228 mg Potassium","129 mg Phosphorus","120 mg Calcium","1 mg Iron","25 mg Magnesium","322 mg Sodium","1 mg Zinc","29 g Fat","8 g Monounsaturated","2 g Polyunsaturated","133 mg Cholesterol","15 g Saturated","10 µg Folic acid","18 µg Folate (food)","32 g Sugars","3 µg Vitamin K","60 g Water","42 g Carbs","37 µg Folate equivalent (total)","7 g Protein","287 µg Vitamin A","453 kcal Energy","28 g Sugars, added","6353 calories"]
+notes: "Do not substitute pancake syrup for the maple syrup. Reduce the oven temperature as soon as the crust is finished baking, and use an oven thermometer to check that it has dropped to 225 degrees before you bake the cheesecake. Thoroughly scrape the processor bowl as you make the filling to eliminate lumps. For the topping, try our Maple-Pecan Skillet Granola."
+---

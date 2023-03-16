@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Reduced-Fat Chicken Pot Pie
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "We tried every trick in the book to make a low-fat pie crust that we’d actually want to eat. It took us weeks to find it, but an unlikely ingredient cracked the code."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/20007_sfs-makeoverchickenpotpie-14-1
+tags: ["Main Courses","Chicken","Light","Savory Pies & Tarts"]
+calories: 2790
+protein: 34
+carbohydrates: 46
+fats: 
+fiber: 4
+ingredients: ["1 1/4 cups (6 1/4 ounces), all-purpose flour","2 tablespoons, cornstarch","1/4 teaspoon, salt","1/4 cup, light mayonnaise","3 tablespoons, unsalted butter, cut into 1/4-inch pieces and chilled","2 tablespoons, ice water","2 teaspoons, whole milk","2 3/4 cups, chicken broth","1/4 cup, cornstarch","1 teaspoon, vegetable oil","4 , carrots, peeled and sliced 1/4 inch thick","8 ounces, white mushrooms, trimmed and sliced thin","1 , onion, chopped fine","2 , celery ribs, sliced 1/4 inch thick",", Salt and pepper","3 , garlic cloves, minced","2 teaspoons, minced fresh thyme","1 1/2 teaspoons, tomato paste","2 , bay leaves","1 1/2 pounds, boneless, skinless chicken breasts, trimmed and halved lengthwise","1 cup, frozen peas","1 teaspoon, soy sauce"]
+serves: 6
+time: "1¾ hours, plus 1 hour chilling and 30 minutes cooling"
+instructions: ["FOR THE CRUST: Pulse flour, cornstarch, and salt in food processor until combined, about 3 pulses. Add mayonnaise and butter and pulse until mixture resembles coarse crumbs, about 10 pulses. Add water and pulse until dough looks wet and pebbly, about 10 pulses. Knead dough on lightly floured counter until smooth, about 10 seconds. Form dough into 4-inch disk, wrap tightly in plastic wrap, and refrigerate for 1 hour or up to 4 hours.","FOR THE FILLING: Whisk 1/4 cup broth and cornstarch together in small bowl; set aside. Heat oil in Dutch oven over medium-high heat until shimmering. Add carrots, mushrooms, onion, celery, and 1 1/2 teaspoons salt and cook until all liquid has evaporated and mushrooms begin to brown, 5 to 7 minutes. Add garlic, thyme, and tomato paste and cook until fragrant, about 30 seconds. Add bay leaves and remaining 2 1/2 cups broth and bring to simmer. Submerge chicken in broth, reduce heat to low, cover, and cook until chicken registers 160 degrees, 8 to 12 minutes.","Transfer chicken to plate. Whisk cornstarch mixture into filling, return to boil, and cook until thickened, about 1 minute. Remove from heat and discard bay leaves. When chicken is cool enough to handle, shred into bite-size pieces, then stir into filling along with peas, soy sauce, and 1/2 teaspoon pepper. Season with salt and pepper to taste. (Filling may be refrigerated for up to 24 hours. Bring to a simmer and take off heat before proceeding with step 4.)","Adjust oven rack to upper-middle position and heat oven to 400 degrees. Transfer filling to 8-inch square baking dish. Roll dough into 9-inch square on lightly floured counter. Loosely roll dough around rolling pin and gently unroll it onto filling, letting excess dough hang over edge. Press overhanging dough onto side of dish to secure. Cut four 1-inch vent holes in crust and brush with milk. Bake until crust is golden and filling is bubbling up through vents, 25 to 30 minutes. Let cool for 30 minutes. Serve."]
+nutrition: ["929 mg Potassium","389 mg Phosphorus","59 mg Calcium","3 mg Iron","65 mg Magnesium","989 mg Sodium","1 mg Zinc","14 g Fat","16 mg Niacin (B3)","4 g Monounsaturated","3 g Polyunsaturated","10 mg Vitamin C","101 mg Cholesterol","5 g Saturated","4 g Fiber","45 µg Folic acid","60 µg Folate (food)","7 g Sugars","21 µg Vitamin K","325 g Water","46 g Carbs","137 µg Folate equivalent (total)","34 g Protein","2 mg Vitamin E","1 mg Vitamin B6","426 µg Vitamin A","465 kcal Energy","2790 calories"]
+notes: "We like Hellmann’s Light Mayonnaise."
+---

@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Peanut Butter Ganache-Filled Brownies
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Break out the muffin tin for these intensely chocolaty treats."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BrownieSpread-49_1_snpr17
+tags: ["Desserts or Baked Goods","Chocolate","Brownies & Bars"]
+calories: 5955
+protein: 6
+carbohydrates: 64
+fats: 
+fiber: 2
+ingredients: ["1/3 cup (2 ounces), bittersweet chocolate chips","1/3 cup (1 ounce), Dutch-processed cocoa powder","1/2 cup, boiling water","2 cups (14 ounces), sugar","2/3 cup, vegetable oil","2 , large eggs","2 teaspoons, vanilla extract","1 1/3 cups (6⅔ ounces), all-purpose flour","3/4 teaspoon, table salt","1 1/3 cups (8 ounces), milk chocolate chips","1/2 cup, creamy peanut butter","1/8 teaspoon, table salt","1 teaspoon Maldon, sea salt"]
+serves: 12
+time: "1¾ hours, plus 5¼ hours cooling"
+instructions: ["FOR THE BROWNIES: Adjust oven rack to middle position and heat oven to 350 degrees. Line 12-cup muffin tin with parchment liners. Generously spray liners in muffin tin with vegetable oil spray.","Place chocolate chips and cocoa in large bowl. Add boiling water and whisk until chocolate chips are fully melted. Whisk in sugar, oil, eggs, and vanilla until combined. Gently whisk in flour and salt until just incorporated.","Using ¼-cup dry measuring cup, portion batter into prepared muffin cups; evenly distribute any remaining batter among cups. Bake until toothpick inserted in center comes out with few moist crumbs attached, 30 to 40 minutes.","Let brownies cool in muffin tin on wire rack for 15 minutes. Spray base of 1¼-inch-diameter shot glass (or other object with similar diameter) with vegetable oil spray. Keeping brownies in muffin tin, press base of glass into center of each brownie about 1 inch deep, respraying glass as needed. Remove brownies from muffin tin and let cool completely on rack, about 1 hour.","FOR THE GANACHE FILLING: Microwave chocolate chips, peanut butter, and table salt in bowl at 50 percent power, stirring frequently with rubber spatula, until melted, 1 to 3 minutes. Distribute ganache evenly among indentations in brownies (about 1 heaping tablespoon each).","Let sit until ganache is set, about 4 hours. Sprinkle ganache evenly with Maldon salt. Serve. (Alternatively, brownies can be transferred to refrigerator and will set in about 1½ hours; let come to room temperature before serving.)"]
+nutrition: ["166 mg Potassium","92 mg Phosphorus","39 mg Calcium","1 mg Iron","39 mg Magnesium","271 mg Sodium","25 g Fat","2 mg Niacin (B3)","12 g Monounsaturated","3 g Polyunsaturated","33 mg Cholesterol","5 g Saturated","2 g Fiber","24 µg Folic acid","19 µg Folate (food)","48 g Sugars","18 g Water","64 g Carbs","60 µg Folate equivalent (total)","6 g Protein","3 mg Vitamin E","13 µg Vitamin A","496 kcal Energy","47 g Sugars, added","5955 calories"]
+notes: "We suggest using parchment muffin liners to avoid the brownies sticking to the liners. We developed this recipe using Ghirardelli 60% Premium Baking Chips, but you can use semisweet chips in the brownie batter, if you prefer. We developed this recipe with a high-fat Dutch-processed cocoa powder. We used a shot glass to make the indentations in the brownies, but some spice jars and the ends of tapered French rolling pins will also work; they should be about 1¼ inches in diameter. It is important to press the indentations into the centers of the brownies 15 minutes after they come out of the oven. For an accurate measurement of boiling water, bring a kettle of water to a boil and then measure out the desired amount.&nbsp;The color of your muffin tin will affect baking time. If you use a dark-colored muffin tin, the baking time in step 3 will be closer to 30 minutes but if you use a light-colored muffin tin the brownies will take about 40 minutes."
+---

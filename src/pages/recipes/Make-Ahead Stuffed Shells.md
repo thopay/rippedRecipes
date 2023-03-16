@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Make-Ahead Stuffed Shells
+author: America's Test Kitchen
+pubDate: 2023-03-15
+description: "Cheese-stuffed pasta shells are simple weeknight family fare. To transform this recipe into a make-ahead version, we aggressively season the filling and add extra liquid to the sauce; both tactics compensate for the effects of freezing."
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/6268_sfs-on07-cvr-4c-stuffedshells-2
+tags: ["Main Courses","Pasta","Cheese","Make Ahead"]
+calories: 7110
+protein: 51
+carbohydrates: 65
+fats: 
+fiber: 5
+ingredients: ["2 tablespoons, extra virgin olive oil","3 , garlic cloves, minced","1/4 teaspoon, red pepper flakes","1/4 cup, red wine","2 tablespoons, balsamic vinegar","2 , (28-ounce) cans crushed tomatoes","1 cup, low-sodium chicken broth","2 tablespoons, dried basil","2 teaspoons, sugar","1/2 teaspoon, salt",", Salt","1 , (12-ounce) box jumbo pasta shells","3 cups, ricotta cheese","1 cup, grated Parmesan cheese","3 cups, shredded mozzarella cheese","2 , garlic cloves, minced","1/4 cup, finely chopped fresh basil","2 , large eggs, lightly beaten"]
+serves: 8
+time: "2¾ hours, plus 8 hours thawing"
+instructions: ["For the sauce: Heat oil, garlic, and pepper flakes in large saucepan over medium heat until fragrant, about 1 minute. Add wine and vinegar and simmer until reduced by half, about 2 minutes. Stir in tomatoes, broth, basil, sugar, and salt and simmer until slightly thickened, about 15 minutes. Set aside to cool.","For the shells: Bring 4 quarts water to boil in large pot. Add 1 tablespoon salt and shells and cook until tender, 12 to 14 minutes. Drain and cool shells. Reserve 30 shells, discarding any that have broken.","Combine ricotta, Parmesan, 1 1/2 cups mozzarella, garlic, basil, eggs, and 1/2 teaspoon salt in bowl. Following photo at left, fill each shell with 2 tablespoons filling.","To assemble: Divide 2 cups cooled marinara between two 8-inch-square baking dishes. Arrange half of filled shells, seam-side up, in each dish, then top each dish with 1 1/2 cups marinara. Wrap dishes with plastic and cover with foil. Transfer remaining sauce to airtight container and remaining mozzarella to zipper-lock freezer bag. Freeze shells, sauce, and cheese.","When ready to serve: Defrost shells, sauce, and cheese in refrigerator for 8 hours or see note below). Adjust oven rack to middle position and heat oven to 400 degrees. Remove plastic from shells and replace foil. Bake until sauce is bubbling and shells are heated through, about 50 minutes. Remove foil and top shells with reserved sauce and cheese. Bake until cheese is spotty brown, about 10 minutes. Cool 15 minutes. Serve.","Shells in a Hurry: To guarantee even cooking, the shells must be thawed before they are baked. This will take eight hours in the refrigerator. For quicker microwave defrosting, assemble the shells in Pyrex or ceramic baking dishes and defrost until the sauce has thawed and the shells have slightly softened. Bake as directed, reducing the initial baking time to 40 minutes."]
+nutrition: ["976 mg Potassium","888 mg Phosphorus","1078 mg Calcium","4 mg Iron","116 mg Magnesium","1427 mg Sodium","5 mg Zinc","47 g Fat","4 mg Niacin (B3)","14 g Monounsaturated","2 g Polyunsaturated","18 mg Vitamin C","1 µg Vitamin D","193 mg Cholesterol","27 g Saturated","5 g Fiber","64 µg Folate (food)","13 g Sugars","28 µg Vitamin K","351 g Water","65 g Carbs","64 µg Folate equivalent (total)","51 g Protein","3 mg Vitamin E","1 µg Vitamin B12","386 µg Vitamin A","888 kcal Energy","1 g Sugars, added","7110 calories"]
+notes: "Assembled shells may be frozen for up to 2 months. You need two 8-inch-square baking dishes (preferably microwave- safe) for this recipe. If you want to pull the baking dishes from the freezer individually, divide the tomato sauce and cheese into smaller containers."
+---
