@@ -34,7 +34,7 @@ const { frontmatter } = Astro.props;
 						</div>
 					</div>}
 				</div>
-				<p class="m-3 font-light text-gray-700">Ripped from <span class="font-bold">{frontmatter.author} on {frontmatter.pubDate.slice(0, 10)}</span></p>
+				<p class="m-3 font-light text-gray-700">Ripped from <span class="font-bold">{frontmatter.author}</span> on <span class="font-bold">{frontmatter.pubDate.slice(0, 10)}</span></p>
 				<div class="tags">
 					{frontmatter.tags.map((tag) => (
 					  <a href={`/tags/${tag}`}><span class="inline-block bg-gray-200 hover:bg-indigo-400 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 hover:text-white mr-2 mb-2">#{tag}</span></a>
