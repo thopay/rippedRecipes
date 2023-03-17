@@ -9,7 +9,7 @@ const { frontmatter } = Astro.props;
 			<div class="p-5">
 				<h5 class="m-2 text-2xl font-bold tracking-tight text-gray-900">{frontmatter.title}</h5>
 				<p class="m-3 text-gray-700">Serves: <span class="font-bold">{frontmatter.serves}</span></p>
-				<p class="m-3 text-gray-700">Time: <span class="font-bold">{frontmatter.time}</span></p>
+				{frontmatter.time == null || frontmatter.time.length == 0 ? '' : <p class="m-3 text-gray-700">Time: <span class="font-bold">{frontmatter.time}</span></p>}
 				{frontmatter.calories == null ? '' : <p class="m-3 text-gray-700">Calories: <span class="font-bold">{frontmatter.calories}</span></p>}
 				{frontmatter.protein == null ? '' : <p class="m-3 text-gray-700">Protein: <span class="font-bold">{frontmatter.protein} g</span></p>}
 				{frontmatter.carbohydrates == null ? '' : <p class="m-3 text-gray-700">Carbohydrates: <span class="font-bold">{frontmatter.carbohydrates} g</span></p>}
@@ -24,7 +24,7 @@ const { frontmatter } = Astro.props;
 						<svg data-accordion-icon class="w-6 h-6 rotate-180 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
 					</button>
 					</h2>
-					<div id="accordion-flush-body-1" class="hidden" aria-labelledby="accordion-flush-heading-1">
+					{frontmatter.nutrition == undefined || frontmatter.nutrition == null || frontmatter.nutrition == "undefined" ? '' : <div id="accordion-flush-body-1" class="hidden" aria-labelledby="accordion-flush-heading-1">
 						<div class="py-5 font-light border-b border-gray-200 mx-3">
 							<ul class="list-disc">
 								{frontmatter.nutrition.map((nutrient) => (
@@ -32,7 +32,7 @@ const { frontmatter } = Astro.props;
 								))}
 							</ul>
 						</div>
-					</div>
+					</div>}
 				</div>
 				<p class="m-3 font-light text-gray-700">Ripped from <span class="font-bold">{frontmatter.author} on {frontmatter.pubDate.slice(0, 10)}</span></p>
 				<div class="tags">
