@@ -28,7 +28,7 @@ const { page } = Astro.props;
 <BaseLayout pageTitle={params.tag}>
   <p>Posts tagged with {params.tag}</p>
   <PaginationNav page={page} entry_type={"Recipes"} />
-  <div class="grid grid-cols-3">
+  <div class="grid sm:grid-cols-3 grid-cols-1 justify-items-center">
     {page.data.map((recipe) => <Recipe title={recipe.frontmatter.title} img_url={recipe.frontmatter.image_url} tags={recipe.frontmatter.tags} url={recipe.url} />)}
   </div>
   <PaginationNav page={page} entry_type={"Recipes"} />

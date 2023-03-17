@@ -39,7 +39,7 @@ function Search({ searchList }) {
 					Found {posts.length} {posts.length === 1 ? 'result' : 'results'} for '{query}'
 				</p>
 			)}
-			<div class="grid grid-cols-3">
+			<div class="grid sm:grid-cols-3 grid-cols-1">
 				{posts &&
 					posts.map((post) => (
 						<div class="max-w-sm rounded overflow-hidden shadow-lg m-3">
