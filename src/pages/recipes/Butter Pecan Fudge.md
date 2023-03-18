@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Butter Pecan Fudge
+title: Butter Pecan Fudge 
 author: ShugarySweets
 pubDate: 2019-09-08
 description: "These sweet Butter Pecan Fudge is just like you would get on a vacation. Creamy, buttery flavor that melts in your mouth and finishes with the crunch of pecans!"

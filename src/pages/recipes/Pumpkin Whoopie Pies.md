@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Pumpkin Whoopie Pies
+title: Pumpkin Whoopie Pies 
 author: ShugarySweets
 pubDate: 2020-11-17
 description: "These soft Pumpkin Whoopie Pies are filled with a cream cheese icing that makes them irresistible. Best of all, you don&#x27;t need any special equipment!"

@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Funfetti Cupcakes
+title: Funfetti Cupcakes 
 author: ShugarySweets
 pubDate: 2019-01-15
 description: "A delicious, from scratch, Funfetti Cupcake recipe with a soft, tender crumb and colorful sprinkles. Top it off with your favorite frosting for a sweet treat."

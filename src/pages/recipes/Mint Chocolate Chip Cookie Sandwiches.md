@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Mint Chocolate Chip Cookie Sandwiches
+title: Mint Chocolate Chip Cookie Sandwiches 
 author: ShugarySweets
 pubDate: 2019-01-15
 description: "Easy Mint Chocolate Chip Cookie Sandwiches for St.Patricks Day"

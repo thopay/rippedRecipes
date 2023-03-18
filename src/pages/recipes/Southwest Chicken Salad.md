@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Southwest Chicken Salad
+title: Southwest Chicken Salad 
 author: ShugarySweets
 pubDate: 2019-01-15
 description: "This Southwest Chicken Salad is a hearty mix of fresh veggies and chicken. Black beans, cheese and a creamy avocado dressing give even more southwestern flair to your colorful meal!"

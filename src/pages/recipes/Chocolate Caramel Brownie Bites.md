@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Chocolate Caramel Brownie Bites
+title: Chocolate Caramel Brownie Bites 
 author: ShugarySweets
 pubDate: 2019-01-15
 description: "Decadent, fudgy Chocolate Caramel Brownie Bites. Chewy chocolate brownies with a creamy caramel candy filling! Topped with a rich chocolate caramel frosting, these brownie bites are the perfect birthday treat!"

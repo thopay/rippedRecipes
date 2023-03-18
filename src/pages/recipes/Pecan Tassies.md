@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Pecan Tassies
+title: Pecan Tassies 
 author: ShugarySweets
 pubDate: 2018-12-18
 description: "Pecan Tassies are tart-like cookies featuring the flavors and textures of pecan pie. Delicious, tender, buttery crust, crunchy pecans, and brown-sugar filling, all in one bite."

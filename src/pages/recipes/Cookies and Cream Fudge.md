@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Cookies and Cream Fudge
+title: Cookies and Cream Fudge 
 author: ShugarySweets
 pubDate: 2019-01-15
 description: "Easy, decadent Cookies and Cream Fudge recipe! This Oreo Fudge is packed with flavor and perfect all year long!"

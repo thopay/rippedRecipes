@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Hawaiian Pizza
+title: Hawaiian Pizza 
 author: ShugarySweets
 pubDate: 2018-12-15
 description: "Delicious Hawaiian Pizza using Kalua Pork, goat cheese, pineapple, bbq sauce and more! Even the crust is easy to make for this incredible dinner idea!"

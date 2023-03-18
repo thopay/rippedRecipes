@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Gnocchi Alfredo
+title: Gnocchi Alfredo 
 author: ShugarySweets
 pubDate: 2018-12-05
 description: "Youll love this delicious Gnocchi Alfredo with Portobello Mushrooms for your next weeknight meal! Ready in 30 minutes, its perfect for your busy nights, yet impressive enough to serve guests for dinner!"

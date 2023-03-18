@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Skinny Pineapple Cupcakes
+title: Skinny Pineapple Cupcakes 
 author: ShugarySweets
 pubDate: 2019-01-09
 description: "Indulge in one (or more!) of these Skinny Pineapple Cupcakes for dessert! Made with only 3 ingredients, this lightened up dessert won&#x27;t leave you feeling weighed down. Only 100 calories each!"

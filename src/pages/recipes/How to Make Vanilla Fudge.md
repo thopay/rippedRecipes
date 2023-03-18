@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: How to Make Vanilla Fudge
+title: How To Make Vanilla Fudge
 author: ShugarySweets
 pubDate: 2019-02-18
 description: "Do you know How to Make Vanilla Fudge? It’s easier than you think and is so simple to customize with your favorite candies, nuts and other delicious mix-ins!"
